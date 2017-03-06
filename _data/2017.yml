@@ -90,4 +90,12 @@
   pdf: 2017/2017-02-26-WRC-bulletin.pdf
   mp3: 2017/2017-02-26-WRC-service.mp3
   type: service
+  
+- date: 03/05/2017
+  title: Transfiguration Sunday
+  summary: "On this first Sunday in Lent, we welcome each of you and invite you to let this be a time for spiritual renewal. We encourage everyone to participate in our Lenten activities."
+  sermon: "Tempting Jesus"
+  pdf: 2017/2017-03-05-WRC-bulletin.pdf
+  mp3: 2017/2017-03-05-WRC-service.mp3
+  type: service
   latest: true
