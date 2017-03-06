@@ -1,0 +1,16 @@
+---
+layout: default
+title: "2016 Archive"
+pill: archive
+---
+<div class="row">
+    <div class="col-md-12">
+        <h2>2016 Archive</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        {% assign tileContent = site.data.2016 | sort: "date" %}
+        {% include tile_grid.html %}
+    </div>
+</div>

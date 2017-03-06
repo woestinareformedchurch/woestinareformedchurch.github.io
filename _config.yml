@@ -1,0 +1,7 @@
+name: "Woestina Reformed Church"
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:year/:categories/:year-:month-:day-:title.html
+
+static_url: https://s3.amazonaws.com/static.woestinareformedchurch.org

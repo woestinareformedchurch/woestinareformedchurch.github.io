@@ -1,0 +1,65 @@
+---
+layout: default
+pill: home
+---
+
+{% assign heroContent = site.data.2017 | sort: "date" %}
+{% for tile in heroContent reversed %}
+    {% if tile.latest %}
+        {% if tile.type == "newsletter" %} 
+            {% capture heroUrl %}https://s3.amazonaws.com/static.woestinareformedchurch.org/{{ tile.pdf }}{% endcapture %}
+            {% capture heroTitle %}{{ tile.title }}{% endcapture %}
+        {% endif %} 
+    {% endif %}
+{% endfor %} 
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="jumbotron">
+            <h1>{{ heroTitle }}</h1>
+            <p>
+                The new newsletter is here! Click the button below to read the latest
+                news from Woestina.
+            </p>
+            <p>
+                <a class="btn btn-primary" href="{{ heroUrl }}">View Newsletter</a>
+            </p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="">
+            <h3>Regular Schedule</h3>
+			<p>
+				Please join us. Everyone is welcome!
+			</p>
+			<ul>
+				<li>Sunday School (children and adult) begins at 9AM</li>
+				<li>Sunday Service begins at 10:30AM</li>
+			</ul>
+			<p>
+				Check the calendar for more information.
+			</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="page-header">
+            <h4>Latest Publications</h4>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="grid">
+            {% assign tileContent = site.data.2017 | sort: "date" %}
+            {% for tile in tileContent reversed %}
+              {% if tile.latest %} 
+                {% include grid_item.html %}
+              {% endif %}
+            {% endfor %} 
+        </div>
+    </div>
+</div>

@@ -1,0 +1,47 @@
+<div class="grid-item">
+{% if tile.type == "calendar" %}
+    <div class="card" style="background-color: #FFFF99; border-color: #FFFF99;">
+{% elsif tile.type == "newsletter" %}
+    <div class="card" style="background-color: #CCFFCC; border-color: #CCFFCC;">
+{% elsif tile.type == "service" %}
+    <div class="card" style="background-color: #CCCCFF; border-color: #CCCCFF;">
+{% else %}
+    <div class="card">
+{% endif %}
+        <div class="card-block">
+            <p class="card-text">
+                <small class="">
+                    {{ tile.date }}
+                    {% if tile.mp3 %}
+                    &nbsp;<span class="octicon octicon-unmute"></span>
+                    {% endif %}
+                    {% if tile.pdf %}
+                    &nbsp;<span class="octicon octicon-book"></span>
+                    {% endif %}
+                </small>
+            </p>
+
+            <h4 class="card-title">{{ tile.title }}</h4>
+            
+            {% if tile.summary %}
+                <p class="card-text">{{ tile.summary }}</p>
+            {% endif %}
+            
+            {% if tile.pdf %}
+                {% capture pdfUrl %}{{ site.static_url }}/{{ tile.pdf }}{% endcapture %}
+                <a href="{{ pdfUrl }}" class="btn btn-primary">View</a>
+                {% else %}
+                <a class="btn btn-secondary disabled">View</a>
+            {% endif %}
+
+            {% if tile.mp3 %}
+                {% capture mp3Url %}{{ site.static_url }}/{{ tile.mp3 }}{% endcapture %}
+                {% if tile.mp3 %}
+                <a href="{{ mp3Url }}" class="btn btn-primary">Listen</a>
+                {% else %}
+                <a class="btn btn-secondary disabled">Listen</a>
+                {% endif %}
+            {% endif %}
+        </div>
+    </div>
+</div>

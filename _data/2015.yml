@@ -1,0 +1,515 @@
+#
+# Calendars
+#
+
+- date: 01/01/2015
+  title: January 2015 Calendar
+  pdf: 2015/calendar/2015-01-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 02/01/2015
+  title: February 2015 Calendar
+  pdf: 2015/calendar/2015-02-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 03/01/2015
+  title: March 2015 Calendar
+  pdf: 2015/calendar/2015-03-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 04/01/2015
+  title: April 2015 Calendar
+  pdf: 2015/calendar/2015-04-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 05/01/2015
+  title: May 2015 Calendar
+  pdf: 2015/calendar/2015-05-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 09/01/2015
+  title: September 2015 Calendar
+  pdf: 2015/calendar/2015-09-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 10/01/2015
+  title: October 2015 Calendar
+  pdf: 2015/calendar/2015-10-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 11/01/2015
+  title: November 2015 Calendar
+  pdf: 2015/calendar/2015-11-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 12/01/2015
+  title: December 2015 Calendar
+  pdf: 2015/calendar/2015-12-01-WRC-calendar.pdf
+  type: calendar
+
+#
+# Newsletters
+#
+
+- date: 01/01/2015
+  title: January 2015 Newsletter
+  pdf: 2015/newsletter/2015-01-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 02/01/2015
+  title: February 2015 Newsletter
+  pdf: 2015/newsletter/2015-02-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 03/01/2015
+  title: March 2015 Newsletter
+  pdf: 2015/newsletter/2015-03-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 04/01/2015
+  title: April 2015 Newsletter
+  pdf: 2015/newsletter/2015-04-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 05/01/2015
+  title: May 2015 Newsletter
+  pdf: 2015/newsletter/2015-05-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 06/01/2015
+  title: June 2015 Newsletter
+  pdf: 2015/newsletter/2015-06-01-WRC-newsletter.pdf
+  type: newsletter
+  
+- date: 09/01/2015
+  title: September 2015 Newsletter
+  pdf: 2015/newsletter/2015-09-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 10/01/2015
+  title: October 2015 Newsletter
+  pdf: 2015/newsletter/2015-10-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 11/01/2015
+  title: November 2015 Newsletter
+  pdf: 2015/newsletter/2015-11-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 12/01/2015
+  title: December 2015 Newsletter
+  pdf: 2015/newsletter/2015-12-01-WRC-newsletter.pdf
+  type: newsletter
+
+#
+# Services & Bulletins
+#
+
+- date: 01/04/2015
+  title: Second Sunday After Christmas
+  sermon:  I Know My Way Home From Here
+  summary: "Happy New Year! Welcome, one and all, as we enter a new year of life, secure in Jesus!"
+  pdf: 2015/bulletin/2015-01-04-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-01-04-WRC-full-mass.mp3
+  type: service
+  
+- date: 01/11/2015
+  title: First Sunday After Epiphany 
+  sermon: Baptism of the Holy Spirit
+  summary: "Lord, may each of us recognize and follow your will for us during the New Year."
+  pdf: 2015/bulletin/2015-01-11-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-01-11-WRC-full-mass.mp3
+  type: service
+
+- date: 01/18/2015
+  title: Second Sunday After Epiphany
+  sermon: Priceless 
+  summary: "What a friend we have in Jesus! Christ has befriended us. Let us befriend one another by extending our hands in Christian fellowship. Welcome to all."  
+  pdf: 2015/bulletin/2015-01-18-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 01/25/2015
+  title: Third Sunday After Epiphany
+  sermon: God Forgives...
+  summary: "Rejoice, brothers and sisters, as we serve God in the New Year. May our hearts overflow with love for God and for one another. Reach out in Christian love to welcome one another."
+  pdf: 2015/bulletin/2015-01-25-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 02/01/2015
+  title: Fourth Sunday After Epiphany
+  sermon: The Unclean Really Knew the Clean One
+  summary: "Christ’s light shines in our darkness; God’s love conquers hate; Spirit-given faith is stronger than fear. So we gather to praise the all-powerful Lord of Life. Welcome!"
+  pdf: 2015/bulletin/2015-02-01-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 02/08/2015
+  title: Fifth Sunday After Epiphany 
+  sermon: A Healed Mother-in-Law
+  summary: "Everlasting God, help us to renew our spiritual strength as we worship."
+  pdf: 2015/bulletin/2015-02-08-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 02/15/2015
+  title: Transfiguration Sunday 
+  sermon: Learning the Art of Silence 
+  summary: "In the name of the Prince of Peace, we welcome each worshiper. We invite you to participate fully in worship and in fellowship afterward."
+  pdf: 2015/bulletin/2015-02-15-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 03/01/2015
+  title: Second Sunday in Lent
+  sermon: The Hog Pen Trail
+  summary: '"Lord, it is good that we are here!" (Matthew 17:4, ESV) Open our hearts to listen to your beloved Son'
+  pdf: 2015/bulletin/2015-03-01-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 03/08/2015
+  title: Third Sunday in Lent
+  sermon: Leaving the Hog Pen
+  summary: "All week we face trials and temptations, Lord. During this worship service, strengthen us to meet the days ahead, relying on your goodness in our lives."
+  pdf: 2015/bulletin/2015-03-08-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 03/15/2015
+  title: Fourth Sunday in Lent
+  sermon:
+  summary: "Bulletin not found."
+  pdf: 
+  mp3: 
+  type: service
+
+- date: 03/22/2015
+  title: Fifth Sunday in Lent
+  sermon: I Love you...Cross my Heart! 
+  summary: '"I will sing of your steadfast love, O Lord, forever; with my mouth I will proclaim your faithfulness to all generations." (Psalm 89:1, NRSV)'
+  pdf: 2015/bulletin/2015-03-22-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 03/29/2015
+  title: Palm Sunday
+  sermon: He paid more attention to the Temple than the Crowd
+  summary: '"God so loved the world that he gave his only Son..." (John 3:16) to offer eternal life for all. God does not condemn you; God reaches out to embrace you. Welcome!'
+  pdf: 2015/bulletin/2015-03-29-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 04/05/2015
+  title: Resurrection Sunday 
+  sermon: The Proof is in the Hands and Feet
+  summary: "Welcome to worship in the name of God’s beloved Son, Jesus Christ, our risen Lord and Savior."
+  pdf: 2015/bulletin/2015-04-05-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 04/12/2015
+  title: Second Sunday of Easter
+  sermon: Hands and Side
+  summary: "Thank you for joining us for worship as we continue to celebrate the Easter season and rejoice in Jesus’ resurrection."
+  pdf: 2015/bulletin/2015-04-12-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 04/19/2015
+  title: Third Sunday of Easter
+  sermon: When He Was at Table With Them 
+  summary: "We welcome everyone to worship today. Let us all love one another, just as Christ unconditionally loves us."
+  pdf: 2015/bulletin/2015-04-19-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 04/26/2015
+  title: Fourth Sunday of Easter
+  sermon:  Sheep and Wolves 
+  summary: "The glory of the Lord abides with us. We welcome all who have come to lift up their hearts and minds to Almighty God, our loving Creator."
+  pdf: 2015/bulletin/2015-04-26-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 05/03/2015
+  title: Fifth Sunday of Easter
+  sermon: Fruity Works
+  summary: "We’re blessed by the presence of each person here today. Welcome to worship, in Jesus’ name!"
+  pdf: 2015/bulletin/2015-05-03-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 05/10/2015
+  title: Sixth Sunday of Easter 
+  sermon: "A Friend, Not a Servant"
+  summary: 'On this Mother’s Day, in the spirit of Mary, Jesus’ mother, we proclaim: "Here am I, the servant of the Lord.” (Luke 1:38, NRSV)"'
+  pdf: 2015/bulletin/2015-05-10-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 05/17/2015
+  title: Seventh Sunday of Easter 
+  sermon: Jesus’ Prayer
+  summary: 'Quiet us, dear Lord, so that in our time here, we may not miss any directions you have for us.'
+  pdf: 2015/bulletin/2015-05-17-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 05/24/2015
+  title: Pentecost
+  sermon: "Our Fathers' God to Thee, Author of Liberty" 
+  summary: '"When the day of Pentecost had come, they were all together in one place" (Acts 2:1, NRSV) We pray that the Holy Spirit may empower us and unify us so that we are truly "one in Christ."'
+  pdf: 2015/bulletin/2015-05-24-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 05/31/2015
+  title: Trinity Sunday
+  sermon: The Blessed Trinity
+  summary: 'It is with delight that we welcome all worshipers. May your spirit be fed and may the Lord’s hand rest upon us all as we worship God in sincerity and in truth.'
+  pdf: 2015/bulletin/2015-05-31-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 06/07/2015
+  title: Second Sunday after Pentecost
+  sermon: The Unforgivable Sin
+  summary: "God offers each of us acceptance and love. Let us pass that love to others. In Christ’s name, welcome!"
+  pdf: 2015/bulletin/2015-06-07-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 06/14/2015
+  title: Youth Sunday
+  sermon: Listen and Do
+  summary: "Open our ears and hearts to receive your Word of Truth today as it comes to us through Scripture, preaching, music and the fellowship of faith."
+  pdf: 2015/bulletin/2015-06-14-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 06/21/2015
+  title: Father's Days
+  sermon: Peace! Be Still!
+  summary: "Happy Father’s Day! We affirm the importance of good fathers on earth as we worship our perfect Father in heaven as his beloved children."
+  pdf: 2015/bulletin/2015-06-21-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 06/28/2015
+  title: Fifth Sunday after Pentecost
+  sermon: Talitha Cumi!
+  summary: "With warm acceptance we greet you in the name of Christ. Let us strive to show love to our Creator and to one another as we gather as God’s family."
+  pdf: 2015/bulletin/2015-06-28-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 07/05/2015
+  title: Sixth Sunday after Pentecost
+  sermon: The Thing Jesus Could Not Do
+  summary: "May God’s Holy Spirit touch each of us today and inspire us to extend our hands in friendship to one another. Welcome, children of God."
+  pdf: 2015/bulletin/2015-07-05-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 07/12/2015
+  title: Seventh Sunday after Pentecost
+  sermon: Love Is Learned at the Table
+  summary: "May we all be refreshed by the presence of the Spirit and by fellowship with one another. Let us greet each other with a kind and joyful welcome."
+  pdf: 2015/bulletin/2015-07-12-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 07/19/2015
+  title: Eighth Sunday after Pentecost
+  sermon: They Knew of Jesus Because of THEM
+  summary: "May God’s Holy Spirit touch each of us today and inspire us to extend our hands in friendship to one another. Welcome, children of God!"
+  pdf: 2015/bulletin/2015-07-19-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 07/26/2015
+  title: Ninth Sunday after Pentecost
+  sermon: The Riches of God's Grace
+  summary: "We strive to make the Lord’s house a place of joy. With joy, we welcome you and pray that you are filled with hope and happiness as you lift up your heart to God."
+  pdf: 2015/bulletin/2015-07-26-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 08/02/2015
+  title: Tenth Sunday after Pentecost
+  sermon: Loaves and Fishes
+  summary: "Creator God, we ask for renewal only you can supply. Thank you for your grace."
+  pdf: 2015/bulletin/2015-08-02-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 08/09/2015
+  title: Eleventh Sunday after Pentecost
+  sermon: To be announced
+  summary: "Heavenly Creator, shine the light of your love on each of us today. May your love be in us and through us as we worship."
+  pdf: 2015/bulletin/2015-08-09-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 08/16/2015
+  title: Twelfth Sunday after Pentecost
+  sermon: Flesh and Blood
+  summary: "Dear God, may your holiness not only wash clean our spirits, but also strengthen us to be true disciples of Christ, our Lord."
+  pdf: 2015/bulletin/2015-08-16-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 08/23/2015
+  title: Thirteenth Sunday after Pentecost
+  sermon: A Different Way to Fight
+  summary: "Lord of us all, may our souls be fully receptive to your message for us today."
+  pdf: 2015/bulletin/2015-08-23-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 08/30/2015
+  title: Fourteenth Sunday after Pentecost
+  sermon: It's What's on the Inside that Counts
+  summary: "Dear God, may your holiness not only wash clean our spirits, but also strengthen us to be true disciples of Christ, our Lord."
+  pdf: 2015/bulletin/2015-08-30-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 09/06/2015
+  title: Fifteenth Sunday after Pentecost
+  sermon: Caring for a Gentile Lady
+  summary: "Welcome, friends! We celebrate Labor Day tomorrow, but today we celebrate the goodness of God who put us on Earth to care for it and to glorify God through both work and worship."
+  pdf: 2015/bulletin/2015-09-06-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-09-06-WRC-full-mass.mp3
+  type: service
+
+- date: 09/13/2015
+  title: Sixteenth Sunday after Pentecost
+  sermon: Jesus Explains Himself
+  summary: "Grace to you and peace from God our Father and our Lord and Savior Jesus Christ. Welcome to worship as brothers and sisters in faith."
+  pdf: 2015/bulletin/2015-09-13-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-09-13-WRC-full-mass.mp3
+  type: service
+  
+- date: 09/20/2015
+  title: Seventeenth Sunday after Pentecost
+  sermon: Who is the Greatest?
+  summary: "O God, may all our worldly concerns be put aside as we meditate upon you and your glory."
+  pdf: 2015/bulletin/2015-09-20-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-09-20-WRC-full-mass.mp3
+  type: service
+
+- date: 09/27/2015
+  title: 
+  sermon: 
+  summary: 
+  pdf: 
+  mp3: 2015/audio/2015-09-27-WRC-full-mass.mp3
+  type: service
+
+- date: 10/04/2015
+  title: World Communion Sunday
+  sermon: The Jesus Way to Answer the Question of Divorce
+  summary: "Welcome to worship, one and all! We gather as brothers and sisters in Christ to hear his Word and grow in faith and discipleship. God bless you during this holy time."
+  pdf: 2015/bulletin/2015-10-04-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-10-04-WRC-full-mass.mp3
+  type: service
+
+- date: 10/11/2015
+  title: Twentieth Sunday after Pentecost
+  sermon: The Sword and the Throne
+  summary: "We have come to approach the throne of grace and to receive mercy and renewal. May God fill our hearts with love as we worship and have fellowship together. Welcome to all!"
+  pdf: 2015/bulletin/2015-10-11-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-10-11-WRC-full-mass.mp3
+  type: service
+
+- date: 10/18/2015
+  title: Twenty-first Sunday after Pentecost
+  sermon: Peace with Justice
+  summary: "Nothing we own or do can fill our souls as God can. As we worship, we invite you to open your heart to the riches of abundant life the Father showers on us."
+  pdf: 2015/bulletin/2015-10-18-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 10/25/2015
+  title: Reformation Sunday
+  sermon: Just Say It!
+  summary: "We have come to approach the throne of grace and to receive mercy and renewal. May God fill our hearts with love as we worship and have fellowship together."
+  pdf: 2015/bulletin/2015-10-25-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-10-25-WRC-full-mass.mp3
+  type: service
+
+- date: 11/01/2015
+  title: Untitled 
+  sermon: Untitled 
+  summary: 
+  pdf: 2015/bulletin/2015-11-01-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 11/08/2015
+  title: Twenty-fourth Sunday after Pentecost
+  sermon: Loose Him and Let Him Go!
+  summary: "A joyous greeting to one and all. We especially welcome all veterans, as our nation honors them this week." 
+  pdf: 2015/bulletin/2015-11-08-WRC-bulletin.pdf
+  mp3: 2015/audio/2015-11-08-WRC-full-mass.mp3
+  type: service
+
+- date: 11/15/2015
+  title: Twenty-fifth Sunday after Pentecost
+  sermon: The Signs of the Times 
+  summary: "Happy are those who seek you, Lord, with their whole heart and walk in your ways (Psalm 119:2-3). May today’s worship inspire us to follow that example."
+  pdf: 2015/bulletin/2015-11-15-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 11/22/2015
+  title: Christ the King Sunday
+  sermon: The Reason Jesus Was Born
+  summary: "Today is Christ the King Sunday. We are here to celebrate the King of Glory! Welcome, children of the King."
+  pdf: 2015/bulletin/2015-11-22-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 11/29/2015
+  title: First Sunday of Advent
+  sermon: Does God Ever Forget Things?
+  summary: "Today is the first Sunday of Advent. Churches and Christian families now begin to celebrate the birth of Christ, whom God sent to earth for our salvation."
+  pdf: 2015/bulletin/2015-11-29-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 12/06/2015
+  title: Second Sunday of Advent
+  sermon: Preparing to Change
+  summary: "Welcome in Christ’s name, on this second Sunday of Advent. Scripture says if we walk in Christ’s light, we can have fellowship with one another."
+  pdf: 2015/bulletin/2015-12-06-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 12/13/2015
+  title: Third Sunday of Advent
+  sermon: YHWH is in Your Midst!
+  summary: "Our goal on this third Sunday of Advent is to have fellowship with our living Lord and with one another. Let our hands be extended to our fellow worshipers."
+  pdf: 2015/bulletin/2015-12-13-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 12/20/2015
+  title: Fourth Sunday of Advent
+  sermon: Sunday School Christmas Program
+  summary: "On this Fourth Sunday of Advent, may the glorious good news of Christ’s birth fill us with love and good will."
+  pdf: 2015/bulletin/2015-12-20-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 12/27/2015
+  title: First Sunday after Christmas
+  sermon: Teaching in the Temple
+  summary: "On this first Sunday after Christmas, may we remain joyous and share that joy with everyone around us."
+  pdf: 2015/bulletin/2015-12-27-WRC-bulletin.pdf
+  mp3: 
+  type: service
+

@@ -1,0 +1,93 @@
+- date: 01/01/2017
+  title: January 2017 Calendar
+  pdf: 2017/2017-01-01-WRC-calendar.pdf
+  type: calendar
+  
+- date: 01/01/2017
+  title: January 2017 Newsletter
+  pdf: 2017/2017-01-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 01/01/2017
+  title: First Sunday after Christmas
+  sermon: "What Time Is It?"
+  summary: "Lord, may each of us recognize and follow your will for us during the New Year."
+  pdf: 2017/2017-01-01-WRC-bulletin.pdf
+  mp3: 2017/2017-01-01-WRC-service.mp3
+  type: service
+
+- date: 01/08/2017
+  title: First Sunday after the Epiphany
+  sermon: "Seeking to be Righteous"
+  summary: "Rejoice, brothers and sisters, as we serve God in the New Year. Reach out in Christian love to welcome one another. Welcome to all!"
+  pdf: 2017/2017-01-08-WRC-bulletin.pdf
+  mp3:  2017/2017-01-08-WRC-service.mp3
+  type: service
+
+- date: 01/15/2017
+  title: Second Sunday after the Epiphany
+  sermon: "Who are You Looking For?"
+  summary: "On this second Sunday after the Epiphany, we extend a welcome to all who have come to praise our Creator."
+  pdf: 2017/2017-01-15-WRC-bulletin.pdf
+  mp3: 2017/2017-01-15-WRC-service.mp3
+  type: service
+
+- date: 01/22/2017
+  title: Third Sunday after the Epiphany
+  summary: "Lord, may your life-changing presence fill us today with the power we need to properly serve you."
+  sermon: "Choosing Fishermen"
+  pdf: 2017/2017-01-22-WRC-bulletin.pdf
+  mp3: 2017/2017-01-22-WRC-service.mp3
+  type: service
+  
+- date: 01/29/2017
+  title: Fourth Sunday after the Epiphany
+  summary: "Lord, may your life-changing presence fill us today with the power we need to properly serve you."
+  sermon: "Sermon Not Just a Speech"
+  pdf: 2017/2017-01-29-WRC-bulletin.pdf
+  mp3: 2017/2017-01-29-WRC-service.mp3
+  type: service
+
+- date: 02/01/2017
+  title: February 2017 Calendar
+  pdf: 2017/2017-02-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 02/01/2017
+  title: February 2017 Newsletter
+  pdf: 2017/2017-02-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+- date: 02/05/2017
+  title: Fifth Sunday after the Epiphany
+  summary: "Holy Spirit, help direct our thoughts toward worship so we can receive  you and your Word now."
+  sermon:  Salt and Light
+  pdf: 2017/2017-02-05-WRC-bulletin.pdf
+  mp3: 2017/2017-02-05-WRC-service.mp3
+
+- date: 02/12/2017
+  title: Sixth Sunday after the Epiphany
+  summary: "This service was cancelled due to weather. No bulletin or recording is available."
+  sermon: 
+  pdf: 
+  mp3: 
+
+- date: 02/19/2017
+  title: Sixth Sunday after the Epiphany
+  summary: "Favor us with the touch of your presence, loving Father, so we can worship you with our whole hearts."
+  note: "The previous service was cancelled due to weather. The printed bulletin had changes that are not reflected here."
+  sermon: Anger that Hurts
+  pdf: 2017/2017-02-19-WRC-bulletin.pdf
+  mp3: 2017/2017-02-19-WRC-service.mp3
+  type: service
+
+- date: 02/26/2017
+  title: Transfiguration Sunday
+  summary: "Almighty God, as you confronted Isaiah in the temple, clearly speak your words of strength, forgiveness and grace to us."
+  sermon: "Transfigured"
+  pdf: 2017/2017-02-26-WRC-bulletin.pdf
+  mp3: 2017/2017-02-26-WRC-service.mp3
+  type: service
+  latest: true

@@ -1,0 +1,353 @@
+#
+# Calendars
+#
+
+- date: 01/01/2014
+  title: January 2014 Calendar
+  pdf: 2014/bulletin/2014-01-01-WRC-bulletin.pdf
+  type: calendar
+
+- date: 02/01/2014
+  title: February 2014 Calendar
+  pdf: 2014/calendar/2014-02-01-WRC-calendar.pdf
+  type: calendar
+
+# - date: 03/01/2014
+#   title: March 2014 Calendar
+#   pdf: 2014/calendar/2014-03-01-WRC-calendar.pdf
+#   type: calendar
+
+# - date: 04/01/2014
+#   title: April 2014 Calendar
+#   pdf: 2014/calendar/2014-04-01-WRC-calendar.pdf
+#   type: calendar
+
+- date: 05/01/2014
+  title: May 2014 Calendar
+  pdf: 2014/calendar/2014-05-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 06/01/2014
+  title: June 2014 Calendar
+  pdf: 2014/calendar/2014-06-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 09/01/2014
+  title: September 2014 Calendar
+  pdf: 2014/calendar/2014-09-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 10/01/2014
+  title: October 2014 Calendar
+  pdf: 2014/calendar/2014-10-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 11/01/2014
+  title: November 2014 Calendar
+  pdf: 2014/calendar/2014-11-01-WRC-calendar.pdf
+  type: calendar
+
+#
+# Newsletter
+#
+
+- date: 001/01/2014
+  title: January 2014 Newsletter
+  pdf: 2014/newsletter/2014-01-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 02/01/2014
+  title: February 2014 Newsletter
+  pdf: 2014/newsletter/2014-02-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 03/01/2014
+  title: March 2014 Newsletter
+  pdf: 2014/newsletter/2014-03-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 04/1/2014
+  title: April 2014 Newsletter
+  pdf: 2014/newsletter/2014-04-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 05/1/2014
+  title: May 2014 Newsletter
+  pdf: 2014/newsletter/2014-05-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 06/1/2014
+  title: June 2014 Newsletter
+  pdf: 2014/newsletter/2014-06-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 09/01/2014
+  title: September 2014 Newsletter
+  pdf: 2014/newsletter/2014-09-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 10/01/2014
+  title: October 2014 Newsletter
+  pdf: 2014/newsletter/2014-10-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 11/01/2014
+  title: November 2014 Newsletter
+  pdf: 2014/newsletter/2014-11-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 12/01/2014
+  title: December 2014 Newsletter
+  pdf: 2014/newsletter/2014-12-01-WRC-newsletter.pdf
+  type: newsletter
+
+#
+# Services & Bulletins
+#
+
+- date: 03/02/2014
+  title: Beginning of Lent 
+  sermon: Beginning of Lent
+  mp3: 2014/audio/2014-03-02-WRC-full-mass.mp3
+  pdf:
+  summary: No bulletin available.
+  type: service
+
+- date: 03/09/2014
+  title: First Sunday in Lent
+  sermon: Taken by the Devil
+  mp3: 2014/audio/2014-03-09-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-03-09-WRC-bulletin.pdf
+  summary: "I will sing of your steadfast love, O LORD, forever; with my mouth I will proclaim your faithfulness to all generations. (Psalm 89:1, NRSV)"
+  type: service
+  
+- date: 03/16/2014
+  title: Second Sunday in Lent
+  sermon: This is How Much God Loved the World
+  mp3: 2014/audio/2014-03-16-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-03-16-WRC-bulletin.pdf
+  summary: "Beloved in Christ, welcome to worship and Christian fellowship! The presence of each person here is a blessing."
+  type: service
+  
+- date: 03/23/2014
+  title: Third Sunday in Lent
+  sermon: No Longer Hungry
+  mp3: 2014/audio/2014-03-23-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-03-23-WRC-bulletin.pdf
+  summary: "Welcome to worship in the name of God's beloved Son, Jesus Christ, our Savior and Lord. Amen."
+  type: service
+
+- date: 03/30/2104
+  title: Fourth Sunday in Lent
+  sermon: Having Everything We Need
+  mp3: 2014/audio/2014-03-30-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-03-30-WRC-bulletin.pdf
+  summary: "To all God's beloved...called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ (Romans 1:7, NRSV)"
+  type: service
+
+- date: 04/06/2014 
+  title: Fifth Sunday in Lent
+  sermon: Loose Him! Let Him Go!
+  mp3: 2014/audio/2014-04-06-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-04-06-WRC-bulletin.pdf
+  summary: "Everlasting God, help us to renew our spiritual strength as we worship."
+  type: service
+  
+- date: 04/13/2014
+  title: Palm Sunday
+  sermon: He Must Have Felt Betrayed
+  mp3: 2014/audio/2014-04-13-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-04-13-WRC-bulletin.pdf
+  summary: "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! (Matthew 21:9 NIV)"
+  type: service
+  
+- date: 04/20/2014
+  title: Resurrection-Easter Sunday
+  sermon: The Napkin
+  mp3: 2014/audio/2014-04-20-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-04-20-WRC-bulletin.pdf
+  summary: "Alleluia! Christ is risen! Welcome, everyone, to this festive day of worship!"
+  type: service
+  
+- date: 04/27/2014
+  title: Second Sunday of Easter
+  sermon: The Breath of God
+  pdf: 2014/bulletin/2014-04-27-WRC-bulletin.pdf
+  summary: "Welcome to worship as family of our risen Lord and Savior, Jesus the Christ! Amen."
+  type: service
+
+- date: 05/04/2014
+  title: Third Sunday of Easter
+  sermon: Heartburn
+  mp3: 2014/audio/2014-05-04-WRC-full-mass.mp3
+  pdf: 2014/bulletin/2014-05-04-WRC-bulletin.pdf
+  summary: 'Welcome to worship this spring day. May God "spring clean" our hearts and refresh us through this worship!' 
+  type: service
+
+- date: 05/11/2014
+  title: Fourth Sunday of Easter 
+  sermon: The One Thing Mother Cannot Do
+  mp3: 
+  pdf: 2014/bulletin/2014-05-11-WRC-bulletin.pdf
+  summary: "Welcome to worship in the name of Yahweh our Father, Jesus our Brother, and the Holy Spirit, our Guardian and Guide. May we open our hearts fully to God’s love for all."
+  type: service
+
+- date: 05/18/2014
+  title: Fifth Sunday of Easter
+  sermon: Still True After 38 Years 
+  mp3: 
+  pdf: 2014/bulletin/2014-05-18-WRC-bulletin.pdf
+  summary: "We are blessed by the presence of each person here today. Welcome to worship, in Jesus’ name!" 
+  type: service
+
+- date: 05/25/2014
+  title: Untitled
+  sermon: Untitled
+  mp3: 2014/audio/2014-05-25-WRC-full-mass.mp3
+  pdf:
+  summary:
+  type: service
+
+- date: 06/01/2014
+  title: Untitled
+  sermon: Untitled
+  mp3: 2014/audio/2014-06-01-WRC-full-mass.mp3
+  pdf:
+  summary:
+  type: service
+
+- date: 09/07/2014 
+  title: Thirteenth Sunday After Pentecost
+  sermon: Getting Along and Numbers
+  mp3:
+  pdf: 2014/bulletin/2014-09-07-WRC-bulletin.pdf
+  summary: "As summer eases into fall, we're glad you've joined us to praise our timeless God! Welcome!"
+  type: service
+  
+- date: 09/14/2014
+  title: Fourteenth Sunday After Pentecost
+  sermon: Bless the LORD
+  summary: "Welcome to the house of the Lord! May God's grace and peace fill you today."
+  pdf: 2014/bulletin/2014-09-14-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 09/21/2014
+  title: Fifteenth Sunday After Pentecost
+  sermon: God's Voice Through Various Means
+  summary: "Welcome to the Lord's house. May your soul be restored; may your cup overflow; may you experience God's goodness and mercy."
+  pdf: 2014/bulletin/2014-09-21-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 09/28/2014
+  title: Sixteenth Sunday After Pentecost
+  sermon: Where Did Jesus' Authority Come From?
+  summary: "Let us be glad and rejoice in God's salvation, poured out for us in Jesus Christ. Welcome, one and all!" 
+  pdf: 2014/bulletin/2014-09-28-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 10/05/2014 
+  title: Seventeenth Sunday After Pentecost-World Communion Sunday
+  sermon: The RIGHT Kind of Jealousy
+  summary: "The days grow cooler as autumn moves forward. Bless our worship, God of all seasons, with the warmth of your love."
+  pdf: 2014/bulletin/2014-10-05-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 10/12/2014
+  title: Eighteenth Sunday After Pentecost
+  sermon: And the LORD Repented...
+  summary: "Good morning! Welcome to worship at Woestina Church. We're glad you've joined us to hear God's Word and be reminded of his boundless love."
+  pdf: 2014/bulletin/2014-10-12-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 10/19/2014
+  title: Nineteenth Sunday After Pentecost
+  sermon: Peace and Justice
+  summary: "We welcome all members and guests to this worship service and invite you to share in fellowship afterward."
+  pdf: 2014/bulletin/2014-10-19-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 10/26/2014 
+  title: Twentieth Sunday After Pentecost
+  sermon: What's In a Name?
+  summary: "The days grow cooler as autumn moves forward. Bless our worship, God of all seasons, with the warmth of your love." 
+  pdf: 2014/bulletin/2014-10-26-WRC-bulletin.pdf
+  mp3:
+  type: service
+
+- date: 11/02/2014 
+  title: Twenty-First Sunday After Pentecost
+  sermon: God Really Loves Humble People
+  summary: "We warmly welcome all who have come to this service. Let us reach out our hands and hearts in friendship to one another."
+  pdf: 2014/bulletin/2014-11-02-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 11/09/2014
+  title: Twenty-Second Sunday After Pentecost
+  sermon: Comforting Words
+  summary: "As brothers and sisters in Christ, we come before you in worship, O God. Open our hearts to hear your Word and receive your love."
+  pdf: 2014/bulletin/2014-11-09-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 11/16/2014
+  title: Twenty-Third Sunday After Pentecost
+  sermon: Quietly Listening to God
+  summary: "Beloved in Christ, welcome to worship and Christian fellowship! The presence of each person here is a blessing."
+  pdf: 2014/bulletin/2014-11-16-WRC-bulletin.pdf
+  mp3: 
+  type: service
+  
+- date: 11/23/2014
+  title: Christ the King Sunday
+  sermon: Sheep and Goats
+  summary: "Welcome to the worship of Jesus Christ, King above all kings and earthly rulers. May you be blessed to know that the King of all loves you dearly."
+  pdf: 2014/bulletin/2014-11-23-WRC-bulletin.pdf
+  mp3:
+  type: service
+   
+- date: 11/30/2014
+  title: First Sunday of Advent
+  sermon: Watch
+  summary: "The worship most acceptable to God comes from a thankful and cheerful heart. Let this time of worship be spent in gratitude for God's abundant goodness toward us all. With cheerful hearts, let us praise the Lord."
+  pdf: 2014/bulletin/2014-11-30-WRC-bulletin.pdf
+  mp3: 2014/audio/2014-11-30-WRC-full-mass.mp3
+  type: service
+   
+- date: 12/07/2014
+  title: Second Sunday of Advent
+  sermon: Comfort My People
+  summary: 'A voice cries out, "Prepare the way of the Lord!" Help us, O God, prepare our hearts to welcome and worship you.'
+  pdf: 2014/bulletin/2014-12-07-WRC-bulletin.pdf
+  mp3:
+  type: service
+  
+- date: 12/14/2014
+  title: Third Sunday of Advent
+  sermon: Sacred Sandals
+  summary: "It’s almost time! Thank you for joining us as we prepare our hearts and await the divine birth announcement."
+  pdf: 2014/bulletin/2014-12-14-WRC-bulletin.pdf
+  mp3: 2014/audio/2014-12-14-WRC-full-mass.mp3
+  type: service
+  
+- date: 12/21/2014
+  title: Fourth Sunday of Advent
+  sermon: Sunday School Christmas Program
+  summary: "Baby Jesus was born in a stable because there was no room at the inn. This Christmas and always, may we make room for you in our lives, dear Lord."
+  pdf: 2014/bulletin/2014-12-21-WRC-bulletin.pdf
+  mp3:  
+  type: service
+      
+- date: 12/28/2014
+  title: First Sunday After Christmas
+  sermon: Garments of Salvation
+  summary: "As we celebrate the New Year, may we remember Jesus' words that eternal life is knowing God the Father and Jesus the Son, even here and now. Be at peace in God’s timeless love."
+  pdf: 2014/bulletin/2014-12-28-WRC-bulletin.pdf
+  mp3:
+  type: service

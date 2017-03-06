@@ -1,0 +1,412 @@
+#
+# Calendars
+#
+
+- date: 01/01/2016
+  title: January 2016 Calendar
+  pdf: 2016/calendar/2016-01-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 02/01/2016
+  title: February 2016 Calendar
+  pdf: 2016/calendar/2016-02-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 03/01/2016
+  title: March 2016 Calendar
+  pdf: 2016/calendar/2016-03-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 04/01/2016
+  title: April 2016 Calendar
+  pdf: 2016/calendar/2016-04-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 05/01/2016
+  title: May 2016 Calendar
+  pdf: 2016/calendar/2016-05-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 06/01/2016
+  title: June 2016 Calendar
+  pdf: 2016/calendar/2016-06-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 09/01/2016
+  title: September 2016 Calendar
+  pdf: 2016/calendar/2016-09-01-WRC-calendar.pdf
+  type: calendar
+  
+- date: 10/01/2016
+  title: October 2016 Calendar
+  pdf: 2016/calendar/2016-10-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 11/01/2016
+  title: November 2016 Calendar
+  pdf: 2016/calendar/2016-11-01-WRC-calendar.pdf
+  type: calendar
+
+- date: 12/01/2016
+  title: December 2016 Calendar
+  pdf: 2016/calendar/2016-12-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+#
+# Newsletters
+#
+
+- date: 01/01/2016
+  title: January 2016 Newsletter
+  pdf: 2016/newsletter/2016-01-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 02/01/2016
+  title: February 2016 Newsletter
+  pdf: 2016/newsletter/2016-02-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 03/01/2016
+  title: March 2016 Newsletter
+  pdf: 2016/newsletter/2016-03-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 04/01/2016
+  title: April 2016 Newsletter
+  pdf: 2016/newsletter/2016-04-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 05/01/2016
+  title: May 2016 Newsletter
+  pdf: 2016/newsletter/2016-05-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 06/01/2016
+  title: June 2016 Newsletter
+  pdf: 2016/newsletter/2016-06-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 09/01/2016
+  title: September 2016 Newsletter
+  pdf: 2016/newsletter/2016-09-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 10/01/2016
+  title: October 2016 Newsletter
+  pdf: 2016/newsletter/2016-10-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 11/01/2016
+  title: November 2016 Newsletter
+  pdf: 2016/newsletter/2016-11-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 12/01/2016
+  title: December 2016 Newsletter
+  pdf: 2016/newsletter/2016-12-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+
+#
+# Services & Bulletins
+#
+
+- date: 01/03/2016
+  title: Second Sunday after Christmas
+  sermon: "We Beheld His Glory, Hallelujah!"
+  summary: "Happy New Year! Welcome, one and all, as we enter a new year of life, secure in Jesus!"
+  pdf: 2016/bulletin/2016-01-03-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 01/10/2016
+  title: First Sunday after Epiphany
+  sermon: Eudokesa
+  summary: "On this first Sunday after Epiphany, we extend a welcome to all who have come to praise our Creator. We are sincerely happy you have come."
+  pdf: 2016/bulletin/2016-01-10-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 01/17/2016
+  title: Second Sunday after Epiphany
+  sermon: Jesus’ Mother Asks for Help
+  summary: "Lord, may your life-changing presence fill us today with the power we need to properly serve you."
+  pdf: 2016/bulletin/2016-01-17-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 01/24/2016
+  title: Third Sunday after Epiphany
+  sermon: Anointed to Proclaim
+  summary: "Touch us, Lord, that we may all be completely engaged in the service of worship."
+  pdf: 2016/bulletin/2016-01-24-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 01/31/2016
+  title: Fourth Sunday after Epiphany
+  sermon: Disappearing Jesus
+  summary: "Rejoice brothers and sisters, as we serve God in the New Year. May our hearts overflow with love for God and one another. Reach out in Christian love to welcome one another."
+  pdf: 2016/bulletin/2016-01-31-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 02/07/2016
+  title: Transfiguration Sunday
+  sermon: You Look Like Your FATHER
+  summary: "As we rememberyour Transfiguration, Lord, prepare us to grow closer to you so we may glorify and serve you."
+  pdf: 2016/bulletin/2016-02-07-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 02/21/2016
+  title: Second Sunday in Lent
+  sermon: Disappearing Jesus
+  summary: '“God so loved the world that He gave His only Son….” (John 3:16) to offer eternal life for all. God does not condemn you; God reaches out to embrace you. Welcome!'
+  pdf: 2016/bulletin/2016-02-21-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 02/28/2016
+  title: Third Sunday in Lent
+  sermon: Journey Toward God
+  summary: '“I will sing of your steadfast love, O Lord, forever; with my mouth I will proclaim your faithfulness to To all generations.” (Psalm 89:1, NRSV)'
+  pdf: 2016/bulletin/2016-02-28-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+- date: 03/06/2016
+  title: Fourth Sunday in Lent
+  sermon: Sewing Needles
+  summary: 'Jesus commands us to love God and neighbor fully (Mark 12:29-31). One way we show love is by welcoming everyone into Christian fellowship.'
+  pdf: 2016/bulletin/2016-03-06-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+# - date: 03/13/2016
+#   title: 
+#   sermon: 
+#   summary: ''
+#   pdf: 2016/bulletin/2016-03-13-WRC-bulletin.pdf
+#   mp3: 
+  
+- date: 03/20/2016
+  title: Palm Sunday
+  sermon: Lazarus Palms
+  summary: '“Blessed is he who comes in the name of the Lord!” (Mark 11:9, NIV) Blessed are we who worship in His name.'
+  pdf: 2016/bulletin/2016-03-20-WRC-bulletin.pdf
+  mp3: 
+  type: service
+  
+- date: 03/27/2016
+  title: Resurrection Sunday
+  sermon: I Have Seen The Lord!
+  summary: 'Welcome, as we worship the risen Lord! May we be “of one heart and soul” (Acts 4:32) in love for one another and in praise of Christ.'
+  pdf: 2016/bulletin/2016-03-27-WRC-bulletin.pdf
+  mp3: 
+  type: service
+  
+# - date: 04/03/2016
+#   title: 
+#   sermon: 
+#   summary: ''
+#   pdf: 2016/bulletin/2016-04-03-WRC-bulletin.pdf
+#   mp3:
+  
+- date: 04/10/2016
+  title: Third Sunday of Easter
+  sermon: Breaking Bread
+  summary: 'Hallelujah! Welcome to worship as we come together to praise our living Savior! Christ is risen indeed! Hallelujah!'
+  pdf: 2016/bulletin/2016-04-10-WRC-bulletin.pdf
+  mp3:  
+  type: service
+  
+# - date: 04/17/2016
+#   title: Fourth Sunday of Easter
+#   sermon: 
+#   summary: 
+#   pdf: 2016/bulletin/2016-04-17-WRC-bulletin.pdf
+#   mp3:  
+  
+- date: 04/24/2016
+  title: Fifth Sunday of Easter
+  sermon: "Well, Glory!"
+  summary: 'Welcome! We worship in the name of the Father, the Son and the Holy Spirit. May God bless you as we gather before the throne of heaven.'
+  pdf: 2016/bulletin/2016-04-24-WRC-bulletin.pdf
+  mp3:  
+  type: service
+  
+- date: 05/01/2016
+  title: Sixth Sunday of Easter
+  sermon: "Do You Want to be Healed?"
+  summary: "We're blessed by the presence of each person here today. Welcome to worship, in Jesus' name!"
+  pdf: 2016/bulletin/2016-05-01-WRC-bulletin.pdf
+  mp3:  
+  type: service
+  
+- date: 05/08/2016
+  title: Mother's Day
+  sermon: Being One
+  summary: "On this Mother's Day, in the spirit of Mary, Jesus' mother, we proclaim: 'Here am I, the servant of the Lord.' (Luke 1:38, NRSV)"
+  pdf: 2016/bulletin/2016-05-08-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 05/15/2016
+  title: Pentecost
+  sermon: The Holy Spirit in the Reformed Church? Absolutely!
+  summary: "The Holy Spirit created the church on earth and welcomes everyone into it, with all our differences. So, we, too, welcome you to this fellowship of faith."
+  pdf: 2016/bulletin/2016-05-15-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 05/22/2016
+  title: Trinity Sunday
+  sermon: Trinity
+  summary: "Beloved in Christ, welcome to worship and Christian fellowship! The presence of each person here is a blessing."
+  pdf: 2016/bulletin/2016-05-22-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 05/29/2016
+  title: Second Sunday after Pentecost
+  sermon: Looking for Faith
+  summary: "God offers each of us acceptance and love. Let us pass that love to others. In Christ's name, welcome!"
+  pdf: 2016/bulletin/2016-05-29-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 06/05/2016
+  title: Third Sunday after Pentecost
+  sermon: When It Is Hard to Worship
+  summary: 'Our help "comes from the LORD, who made heaven and earth" (Ps. 121:2, NRSV). Come, dear Lord; touch us with your Holy Spirit.'
+  pdf: 2016/bulletin/2016-06-05-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 06/12/2016
+  title: Youth Sunday
+  sermon: Sermon by Garrett McHeard and Alex Brittain
+  summary: "Open our ears and hearts to receive your Word of Truth today as it comes to us through Scripture, preaching, music and fellowship of faith."
+  pdf: 2016/bulletin/2016-06-12-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+# - date: 06/19/2016
+#   title: 
+#   sermon: 
+#   summary: ""
+#   pdf: 2016/bulletin/2016-06-19-WRC-bulletin.pdf
+#   mp3:  
+#   type: service
+
+- date: 06/26/2016
+  title: Sixth Sunday after Pentecost
+  sermon: Trying to Understand Jesus
+  summary: "God offers each of us acceptance and love. Let us pass that love to others. In Christ's name, welcome!"
+  pdf: 2016/bulletin/2016-06-26-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 07/03/2016
+  title: Seventh Sunday after Pentecost
+  sermon: A Lamb and Peace
+  summary: "On this Fourth of July weekend, we joyfully celebrate our nation's birth. We are pleased that you've come to praise God, who richly blesses our beloved country."
+  pdf: 2016/bulletin/2016-07-03-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 07/10/2016
+  title: Eighth Sunday after Pentecost
+  sermon: "A Lawyer's Question"
+  summary: "May God's Holy Spirit touch each of us today and inspire us to extend our hands in friendship to one another. Welcome, children of God"
+  pdf: 2016/bulletin/2016-07-10-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 07/17/2016
+  title: Ninth Sunday after Pentecost
+  sermon: "But I Am the Only One that Matters"
+  summary: "The abundance of your steadfast love prompts us to worship you, dear Creator. Keep our minds and hearts focused on you."
+  pdf: 2016/bulletin/2016-07-17-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 07/24/2016
+  title: Tenth Sunday after Pentecost 
+  sermon: "The Disciples' Prayer"
+  summary: "It is with great pleasure that we welcome each worshiper. Please join in extending a friendly handshake to those who are near you."
+  pdf: 2016/bulletin/2016-07-24-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 07/31/2016
+  title: Eleventh Sunday after Pentecost
+  sermon: "Is Not Rich Toward God"
+  summary: "Welcome to worship in the Lord's name! Please greet one another with the love and peace made known to us in Jesus Christ."
+  pdf: 2016/bulletin/2016-07-31-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 08/07/2016
+  title: Twelfth Sunday after Pentecost
+  sermon: "Faith is a Verb"
+  summary: "Creator God, we ask for renewal only you can supply. Thank you for your grace."
+  pdf: 2016/bulletin/2016-08-07-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 08/14/2016
+  title: Thirteenth Sunday after Pentecost
+  sermon: "Love Your Neighbor. Who is My Neighbor?"
+  summary: "Creator God, we ask for renewal only you can supply. Thank you for your grace."
+  pdf: 2016/bulletin/2016-08-14-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 08/21/2016
+  title: Fourteenth Sunday after Pentecost
+  sermon: "Love Your Neighbor. Who is My Neighbor?"
+  summary: "'O taste and see that the LORD is good, happy are those who take refuge in him.' (Ps 34:8, NRSV). Welcome to worship, where the LORD feeds us with his Word and shelters us in his love."
+  pdf: 2016/bulletin/2016-08-21-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 08/28/2016
+  title: Fifteenth Sunday after Pentecost
+  sermon: "Humbled and Honored"
+  summary: "Grace to you and peace from our Lord Jesus Christ! Welcome one and all to worship and fellowship in His name"
+  pdf: 2016/bulletin/2016-08-28-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+##
+## Fill in gap
+##
+
+- date: 11/20/2016
+  title: Christ the King Sunday
+  sermon: "Serving on Consistory"
+  summary: "O Lord, there are not enough words of thanks for all your blessings. Our hearts overflow in praise and worship!"
+  pdf: 2016/bulletin/2016-11-20-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 11/27/2016
+  title: First Sunday of Advent
+  sermon: "Watch"
+  summary: "As a shepherd leads his flock, the Lord has led us here. God has tender words for us. Welcome into his loving presence"
+  pdf: 2016/bulletin/2016-11-27-WRC-bulletin.pdf
+  mp3:  
+  type: service
+
+- date: 12/04/2016
+  title: Second Sunday of Advent
+  sermon: "Repent, Change Your Ways!"
+  summary: "As a shepherd leads his flock, the Lord has led us here. God has tender words for us. Welcome into his loving presence"
+  pdf: 2016/bulletin/2016-12-04-WRC-bulletin.pdf
+  mp3:  
+  type: service
+  latest: true

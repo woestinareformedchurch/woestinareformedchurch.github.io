@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Woestina Reformed Church</title>
+
+    <link rel="stylesheet" href="/octicons/octicons.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.url }}/css/default.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/footer.css">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"></script>
+    <script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+
+    <style>
+        .grid-item { width: 200px; }
+        body { margin-top: 75px; }
+    </style>
+</head>
+<body>   
+    <nav class="navbar navbar-fixed-top navbar navbar-dark bg-inverse" style="background-color: #0B486B">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/index.html">Woestina Reformed Church</a>
+            </div>
+            <ul class="nav navbar-nav pull-md-right">
+                {% if page.pill == "home" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                    <a class="nav-link navbar-right" href="/index.html">Home</a>
+                </li>
+                {% if page.pill == "archive" %}
+                <li class="nav-item dropdown active">
+                {% else %}
+                <li class="nav-item dropdown">
+                {% endif %}
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Archive</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="/2017.html">2017</a>
+                        <a class="dropdown-item" href="/2016.html">2016</a>
+                        <a class="dropdown-item" href="/2015.html">2015</a>
+                        <a class="dropdown-item" href="/2014.html">2014</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>    
+    
+    <div class="container">
+    {{ content }}
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p class="text-left">2015-2017 &copy; Woestina Reformed Church, member of the <a href="http://rca.org">Reformed Church in America</a></p>
+        </div> 
+    </footer> 
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+    
+    {% include masonry.html %}
+    {% include google.html %}
+
+</body>
+</html>
