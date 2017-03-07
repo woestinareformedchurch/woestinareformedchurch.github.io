@@ -98,13 +98,13 @@
   type: service
   latest: true
   
-- date: 02/01/2017
+- date: 03/01/2017
   title: March 2017 Calendar
   pdf: 2017/2017-03-01-WRC-calendar.pdf
   type: calendar
   latest: true
   
-- date: 02/01/2017
+- date: 03/01/2017
   title: March 2017 Newsletter
   pdf: 2017/2017-03-01-WRC-newsletter.pdf
   type: newsletter
