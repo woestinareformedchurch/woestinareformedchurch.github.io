@@ -116,7 +116,8 @@
   pdf: 2017/2017-03-12-WRC-bulletin.pdf
   mp3: 2017/2017-03-12-WRC-service.mp3
   type: service
-
+  latest: true
+  
 - date: 03/19/2017
   title: Third Sunday of Lent 
   summary: "Help us put aside all worldly cares, dear Lord, as we come to worship you now."
