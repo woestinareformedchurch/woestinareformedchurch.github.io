@@ -14,9 +14,10 @@ pill: home
 {% endfor %} 
 
 <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-6">
         <div class="jumbotron">
-            <h1>{{ heroTitle }}</h1>
+            <h2>{{ heroTitle }}</h2>
+            <hr />
             <p>
                 The new newsletter is here! Click the button below to read the latest
                 news from Woestina.
@@ -26,19 +27,26 @@ pill: home
             </p>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="">
-            <h3>Regular Schedule</h3>
-			<p>
-				Please join us. Everyone is welcome!
-			</p>
+    <div class="col-md-6">
+        <div class="jumbotron">
+            <h2>Regular Schedule</h2>
+            <hr />
 			<ul>
 				<li>Sunday School (children and adult) begins at 9AM</li>
 				<li>Sunday Service begins at 10:30AM</li>
 			</ul>
 			<p>
-				Check the calendar for more information.
+				Please come and join us. <strong>Everyone is welcome!</strong> Check the calendar for more information.
 			</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="page-header">
+            <h4>Announcements</h4>
+            <div class="alert alert-info" role="alert">{{ site.data.announce.message }}</div>
         </div>
     </div>
 </div>
