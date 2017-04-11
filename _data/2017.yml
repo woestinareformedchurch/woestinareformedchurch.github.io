@@ -132,7 +132,6 @@
   pdf: 2017/2017-03-26-WRC-bulletin.pdf
   mp3:
   type: service
-  latest: true
 
 - date: 04/02/2017
   title: Fifth Sunday of Lent  
@@ -148,6 +147,6 @@
   summary: "The bulletin will be forthcoming."
   sermon: 
   pdf:
-  mp3: 2017/2017-04-02-WRC-service.mp3
+  mp3: 2017/2017-04-09-WRC-service.mp3
   type: service
   latest: true
