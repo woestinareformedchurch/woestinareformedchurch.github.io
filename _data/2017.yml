@@ -101,13 +101,11 @@
   title: March 2017 Calendar
   pdf: 2017/2017-03-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 03/01/2017
   title: March 2017 Newsletter
   pdf: 2017/2017-03-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 - date: 03/12/2017
   title: Second Sunday of Lent
@@ -140,13 +138,67 @@
   pdf: 2017/2017-04-02-WRC-bulletin.pdf
   mp3: 2017/2017-04-02-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 04/09/2017
   title: Sixth Sunday of Lent  
-  summary: "The bulletin will be forthcoming."
-  sermon: 
-  pdf:
+  summary: "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest! (Matthew 21:9, NIV)"
+  sermon: "Last Supper Program"
+  pdf: 2017/2017-04-09-WRC-bulletin.pdf
   mp3: 2017/2017-04-09-WRC-service.mp3
   type: service
+
+- date: 04/16/2017
+  title: "Easter: Resurrection Sunday"
+  summary: "Happy Easter! A warm and joyous welcome to all who gather to bear witness to the resurrection of Jesus, our King of Kings!"
+  sermon: "What Do YOU See When You Look at Jesus?"
+  pdf: 2017/2017-04-16-WRC-bulletin.pdf
+  mp3: 
+  type: service
+
+#- date: 04/23/2017
+#  title: Second Sunday of Easter
+#  summary: "Welcome, as we worship the risen Lord. May we be 'of one heart and soul' (Acts 4:32) in love for one another and in praise of Christ."
+#  sermon: "Future Joy!"
+#  pdf: 2017/2017-04-16-WRC-bulletin.pdf
+#  mp3: 
+#  type: service
+#  latest: true
+
+- date: 04/30/2017
+  title: Third Sunday of Easter
+  summary: "Welcome, as we worship the risen Lord. May we be 'of one heart and soul' (Acts 4:32) in love for one another and in praise of Christ."
+  sermon: "Future Joy!"
+  pdf: 2017/2017-04-16-WRC-bulletin.pdf
+  mp3: 
+  type: service
+  latest: true
+
+- date: 05/07/2017
+  title: Fourth Sunday of Easter
+  summary: "Thank you for joining us for worship as we continue to celebrate the Easter season and rejoice in Jesus' resurrection."
+  sermon: "Lions and Tigers and Bears...No Problem!"
+  pdf: 2017/2017-05-07-WRC-bulletin.pdf
+  mp3: 
+  type: service
+  latest: true
+
+#- date: 05/14/2017
+#  title: "Mother's Day"
+#  summary: "Loving Creator, as we worship you on this Mother's Day, help us to strive to do your will and glorify you in our families."
+#  sermon: "At Home With God"
+#  pdf: 2017/2017-05-14-WRC-bulletin.pdf
+#  mp3: 
+#  type: service
+#  latest: true
+
+- date: 05/01/2017
+  title: May 2017 Calendar
+  pdf: 2017/2017-05-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 05/01/2017
+  title: May 2017 Newsletter
+  pdf: 2017/2017-05-01-WRC-newsletter.pdf
+  type: newsletter
   latest: true
