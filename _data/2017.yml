@@ -234,4 +234,22 @@
   pdf: 2017/2017-06-01-WRC-newsletter.pdf
   type: newsletter
   latest: true
+   
+- date: 06/04/2017
+  title: "No Bulletin for this Week"
+  summary: "No bulletin but audio attached!"
+  sermon: ""
+  pdf: 
+  mp3: 2017/2017-06-04-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 06/11/2017
+  title: "Youth Sunday"
+  summary: "Open our ears and hearts to receive your Word of Truth today as it comes to us through Scripture, preaching, music and fellowship of faith."
+  sermon: "Disciples and Disciple-Makers"
+  pdf: 2017/2017-06-11-WRC-bulletin.pdf
+  mp3: 2017/2017-06-11-WRC-service.mp3
+  type: service
+  latest: true
 
