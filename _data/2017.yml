@@ -176,13 +176,11 @@
   title: May 2017 Calendar
   pdf: 2017/2017-05-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 05/01/2017
   title: May 2017 Newsletter
   pdf: 2017/2017-05-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 - date: 05/07/2017
   title: Fourth Sunday of Easter
@@ -207,7 +205,14 @@
   pdf: 2017/2017-05-21-WRC-bulletin.pdf
   mp3: 
   type: service
-  latest: true
+
+- date: 05/28/2017
+  title: "Seventh Sunday of Easter"
+  summary: "Thank you, God, for the gift of your Son. We praise you that we have life through him. (1 John 5:12)"
+  sermon: "You are on Jesus' Prayer List"
+  pdf: 2017/2017-05-28-WRC-bulletin.pdf
+  mp3: 2017/2017-05-28-WRC-service.mp3
+  type: service
 
 - date: 05/28/2017
   title: "Seventh Sunday of Easter"
@@ -217,3 +222,16 @@
   mp3: 2017/2017-05-28-WRC-service.mp3
   type: service
   latest: true
+
+- date: 06/01/2017
+  title: June 2017 Calendar
+  pdf: 2017/2017-06-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 06/01/2017
+  title: June 2017 Newsletter
+  pdf: 2017/2017-06-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
