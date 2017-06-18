@@ -199,7 +199,6 @@
   pdf: 2017/2017-05-14-WRC-bulletin.pdf
   mp3: 2017/2017-05-14-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 05/21/2017
   title: "Sixth Sunday of Easter"
@@ -210,3 +209,11 @@
   type: service
   latest: true
 
+- date: 05/28/2017
+  title: "Seventh Sunday of Easter"
+  summary: "Thank you, God, for the gift of your Son. We praise you that we have life through him. (1 John 5:12)"
+  sermon: "You are on Jesus' Prayer List"
+  pdf: 2017/2017-05-28-WRC-bulletin.pdf
+  mp3: 
+  type: service
+  latest: true
