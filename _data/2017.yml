@@ -226,13 +226,11 @@
   title: June 2017 Calendar
   pdf: 2017/2017-06-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 06/01/2017
   title: June 2017 Newsletter
   pdf: 2017/2017-06-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
    
 - date: 06/04/2017
   title: "No Bulletin for this Week"
@@ -241,7 +239,6 @@
   pdf: 
   mp3: 2017/2017-06-04-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 06/11/2017
   title: "Youth Sunday"
@@ -250,7 +247,6 @@
   pdf: 2017/2017-06-11-WRC-bulletin.pdf
   mp3: 2017/2017-06-11-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 08/06/2017
   title: "Ninth Sunday after Pentecost"
@@ -259,4 +255,50 @@
   pdf: 2017/2017-08-06-WRC-bulletin.pdf
   mp3: 2017/2017-08-06-WRC-service.mp3
   type: service
+
+- date: 08/13/2017
+  title: "Tenth Sunday after Pentecost"
+  summary: "Heavenly Creator, shine the light of your love on each of us  today. May your love be in us and through us as we worship."
+  sermon: "Called by God "
+  pdf: 2017/2017-08-13-WRC-bulletin.pdf
+  mp3: 2017/2017-08-13-WRC-service.mp3
+  type: service  
+
+- date: 08/20/2017
+  title: "Eleventh Sunday after Pentecost "
+  summary: "On this summer day, we welcome you to worship. Let us join our hearts and voices in praise and thanks to God!"
+  sermon: "Persistent Faith"
+  pdf: 2017/2017-08-20-WRC-bulletin.pdf
+  mp3: 2017/2017-08-20-WRC-service.mp3
+  type: service
+  latest: true    
+
+- date: 08/27/2017
+  title: "Twelfth Sunday after Pentecost "
+  summary: "Lord, make us mindful of the joy your grace can be to us. Grant us the gift of your presence, we pray."
+  sermon: "Who is Jesus Christ? "
+  pdf: 2017/2017-08-27-WRC-bulletin.pdf
+  mp3: 2017/2017-08-27-WRC-service.mp3
+  type: service
+  latest: true  
+
+- date: 09/01/2017
+  title: September 2017 Calendar
+  pdf: 2017/2017-09-01-WRC-calendar.pdf
+  type: calendar
   latest: true
+  
+- date: 09/01/2017
+  title: September 2017 Newsletter
+  pdf: 2017/2017-09-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+#- date: 09/03/2017
+#  title: "Thirteenth Sunday after Pentecost "
+#  summary: "We've come to rest from our labors, Lord, because your yoke is easy and your burden is light. Refresh us, O Jesus."
+#  sermon: "God Could Not See My Faults"
+#  pdf: 2017/2017-09-03-WRC-bulletin.pdf
+#  mp3: 2017/2017-009-03-WRC-service.mp3
+#  type: service
+#  latest: true
