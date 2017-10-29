@@ -339,7 +339,6 @@
   pdf: 2017/2017-10-08-WRC-bulletin.pdf
   mp3: 2017/2017-10-08-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 10/15/2017
   title: "Nineteenth Sunday after Pentecost"
@@ -347,5 +346,14 @@
   sermon: "The Invitation"
   pdf: 2017/2017-10-15-WRC-bulletin.pdf
   mp3: 2017/2017-10-15-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 10/22/2017
+  title: "Twentieth Sunday after Pentecost"
+  summary: "Let us be glad and rejoice in God's salvation, poured out for us in Jesus Christ. Welcome, one and all!"
+  sermon: " Trying to Trap Jesus"
+  pdf: 2017/2017-10-22-WRC-bulletin.pdf
+  mp3: 2017/2017-10-22-WRC-service.mp3
   type: service
   latest: true
