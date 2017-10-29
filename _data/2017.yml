@@ -347,13 +347,21 @@
   pdf: 2017/2017-10-15-WRC-bulletin.pdf
   mp3: 2017/2017-10-15-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 10/22/2017
   title: "Twentieth Sunday after Pentecost"
   summary: "Let us be glad and rejoice in God's salvation, poured out for us in Jesus Christ. Welcome, one and all!"
-  sermon: " Trying to Trap Jesus"
+  sermon: "Trying to Trap Jesus"
   pdf: 2017/2017-10-22-WRC-bulletin.pdf
   mp3: 2017/2017-10-22-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 10/29/2017
+  title: "Reformation Sunday"
+  summary: "On Reformation Sunday, we pray that our church and our lives may be always open to the movement of the Holy Spirit."
+  sermon: "Reformed Repentance"
+  pdf: 2017/2017-10-29-WRC-bulletin.pdf
+  mp3: 2017/2017-10-29-WRC-service.mp3
   type: service
   latest: true
