@@ -307,7 +307,6 @@
   pdf: 2017/2017-09-10-WRC-bulletin.pdf
   mp3: 2017/2017-09-10-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 09/17/2017
   title: "Fifteenth Sunday after Pentecost "
@@ -316,7 +315,6 @@
   pdf: 2017/2017-09-17-WRC-bulletin.pdf
   mp3: 2017/2017-09-17-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 09/24/2017
   title: "Sixteenth Sunday after Pentecost "
@@ -327,3 +325,11 @@
   type: service
   latest: true
   
+- date: 10/01/2017
+  title: "World Communion Sunday"
+  summary: "Let us be glad and rejoice in God's salvation, poured out for us in Jesus Christ. Welcome, one and all!"
+  sermon: "Have Fai th"
+  pdf: 2017/2017-10-01-WRC-bulletin.pdf
+  mp3: 2017/2017-10-01-WRC-service.mp3
+  type: service
+  latest: true
