@@ -312,9 +312,18 @@
 - date: 09/17/2017
   title: "Fifteenth Sunday after Pentecost "
   summary: "Welcome to the house of the Lord. May God's grace and peace fill you today."
-  sermon: "Forgive, or Else "
+  sermon: "Forgive, or Else"
   pdf: 2017/2017-09-17-WRC-bulletin.pdf
   mp3: 2017/2017-09-17-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 09/24/2017
+  title: "Sixteenth Sunday after Pentecost "
+  summary: "Grace to you and peace from God our Father and our Lord and Savior Jesus Christ.  Welcome to worship as brothers and sisters in faith."
+  sermon: "Sometimes, It Is Not Fair"
+  pdf: 2017/2017-09-24-WRC-bulletin.pdf
+  mp3: 2017/2017-09-24-WRC-service.mp3
   type: service
   latest: true
   
