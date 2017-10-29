@@ -299,7 +299,6 @@
   pdf: 2017/2017-09-03-WRC-bulletin.pdf
   mp3: 2017/2017-09-03-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 09/10/2017
   title: "Fourteenth Sunday after Pentecost "
@@ -309,3 +308,13 @@
   mp3: 2017/2017-09-10-WRC-service.mp3
   type: service
   latest: true
+
+- date: 09/17/2017
+  title: "Fifteenth Sunday after Pentecost "
+  summary: "Welcome to the house of the Lord. May God's grace and peace fill you today."
+  sermon: "Forgive, or Else "
+  pdf: 2017/2017-09-17-WRC-bulletin.pdf
+  mp3: 2017/2017-09-17-WRC-service.mp3
+  type: service
+  latest: true
+  
