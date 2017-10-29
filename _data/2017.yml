@@ -331,7 +331,6 @@
   pdf: 2017/2017-10-01-WRC-bulletin.pdf
   mp3: 2017/2017-10-01-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 10/08/2017
   title: "Eighteenth Sunday after Pentecost"
@@ -339,5 +338,14 @@
   sermon: "Where Did They Put Jesus?"
   pdf: 2017/2017-10-08-WRC-bulletin.pdf
   mp3: 2017/2017-10-08-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 10/15/2017
+  title: "Nineteenth Sunday after Pentecost"
+  summary: "Welcome to worship! Our gracious, all-forgiving God receives  you with open arms. May his love strengthen you today!"
+  sermon: "The Invitation"
+  pdf: 2017/2017-10-15-WRC-bulletin.pdf
+  mp3: 2017/2017-10-15-WRC-service.mp3
   type: service
   latest: true
