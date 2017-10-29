@@ -284,13 +284,11 @@
   title: September 2017 Calendar
   pdf: 2017/2017-09-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 09/01/2017
   title: September 2017 Newsletter
   pdf: 2017/2017-09-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 - date: 09/03/2017
   title: "Thirteenth Sunday after Pentecost "
@@ -331,6 +329,18 @@
   pdf: 2017/2017-10-01-WRC-bulletin.pdf
   mp3: 2017/2017-10-01-WRC-service.mp3
   type: service
+
+- date: 10/01/2017
+  title: October 2017 Calendar
+  pdf: 2017/2017-10-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 10/01/2017
+  title: October 2017 Newsletter
+  pdf: 2017/2017-19-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
 
 - date: 10/08/2017
   title: "Eighteenth Sunday after Pentecost"
