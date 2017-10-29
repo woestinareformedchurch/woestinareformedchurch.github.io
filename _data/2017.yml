@@ -323,13 +323,21 @@
   pdf: 2017/2017-09-24-WRC-bulletin.pdf
   mp3: 2017/2017-09-24-WRC-service.mp3
   type: service
-  latest: true
   
 - date: 10/01/2017
   title: "World Communion Sunday"
   summary: "Let us be glad and rejoice in God's salvation, poured out for us in Jesus Christ. Welcome, one and all!"
-  sermon: "Have Fai th"
+  sermon: "Have Faith"
   pdf: 2017/2017-10-01-WRC-bulletin.pdf
   mp3: 2017/2017-10-01-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 10/08/2017
+  title: "Eighteenth Sunday after Pentecost"
+  summary: "Welcome to worship, one and all. We gather as brothers and sisters  in Christ to hear His Word and grow in faith and discipleship. God bless you during this holy time."
+  sermon: "Where Did They Put Jesus?"
+  pdf: 2017/2017-10-08-WRC-bulletin.pdf
+  mp3: 2017/2017-10-08-WRC-service.mp3
   type: service
   latest: true
