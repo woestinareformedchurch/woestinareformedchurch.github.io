@@ -397,16 +397,25 @@
   pdf: 2017/2017-11-12-WRC-bulletin.pdf
   mp3: 2017/2017-11-12-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 11/19/2017
   title: "Twenty-fourth Sunday after Pentecost"
   summary: "This is the Sunday before Thanksgiving. Let us be greatly thankful for all of God's blessings."
-  sermon: "Ou May "
+  sermon: "Ou May"
   pdf: 2017/2017-11-19-WRC-bulletin.pdf
   mp3: 2017/2017-11-19-WRC-service.mp3
   type: service
   latest: true
+
+- date: 11/26/2017
+  title: "Christ the King Sunday "
+  summary: "Today is Christ the King Sunday. We are here to celebrate the King of Glory! Welcome, children of the King!"
+  sermon: " Sheep and Goats"
+  pdf: 2017/2017-11-26-WRC-bulletin.pdf
+  mp3: 2017/2017-11-26-WRC-service.mp3
+  type: service
+  latest: true
+
 
 - date: 12/01/2017
   title: December 2017 Calendar
