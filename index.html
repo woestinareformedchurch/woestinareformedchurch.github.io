@@ -13,6 +13,17 @@ pill: home
     {% endif %}
 {% endfor %} 
 
+{% if site.data.announce.message %}
+<div class="row">
+    <div class="col-md-12">
+        <div class="page-header">
+            <h4>Announcements</h4>
+            <div class="alert alert-info" role="alert">{{ site.data.announce.message }}</div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
 <div class="row">
     <div class="col-md-6">
         <div class="jumbotron">
@@ -41,17 +52,6 @@ pill: home
         </div>
     </div>
 </div>
-
-{% if site.data.announce.message %}
-<div class="row">
-    <div class="col-md-12">
-        <div class="page-header">
-            <h4>Announcements</h4>
-            <div class="alert alert-info" role="alert">{{ site.data.announce.message }}</div>
-        </div>
-    </div>
-</div>
-{% endif %}
 
 <div class="row">
     <div class="col-md-12">

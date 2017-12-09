@@ -405,12 +405,11 @@
   pdf: 2017/2017-11-19-WRC-bulletin.pdf
   mp3: 2017/2017-11-19-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 11/26/2017
-  title: "Christ the King Sunday "
+  title: "Christ the King Sunday"
   summary: "Today is Christ the King Sunday. We are here to celebrate the King of Glory! Welcome, children of the King!"
-  sermon: " Sheep and Goats"
+  sermon: "Sheep and Goats"
   pdf: 2017/2017-11-26-WRC-bulletin.pdf
   mp3: 2017/2017-11-26-WRC-service.mp3
   type: service
@@ -427,4 +426,13 @@
   title: December 2017 Newsletter
   pdf: 2017/2017-12-01-WRC-newsletter.pdf
   type: newsletter
+  latest: true
+
+- date: 12/03/2017
+  title: "First Sunday of Advent"
+  summary: "We have prepared our homes and church for Christmas, Lord. Now help us prepare our hearts."
+  sermon: "Gathering Together the Elect"
+  pdf: 2017/2017-12-03-WRC-bulletin.pdf
+  mp3: 2017/2017-12-03-WRC-service.mp3
+  type: service
   latest: true
