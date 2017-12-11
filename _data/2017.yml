@@ -413,8 +413,6 @@
   pdf: 2017/2017-11-26-WRC-bulletin.pdf
   mp3: 2017/2017-11-26-WRC-service.mp3
   type: service
-  latest: true
-
 
 - date: 12/01/2017
   title: December 2017 Calendar
@@ -434,5 +432,14 @@
   sermon: "Gathering Together the Elect"
   pdf: 2017/2017-12-03-WRC-bulletin.pdf
   mp3: 2017/2017-12-03-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 12/03/2017
+  title: "Second Sunday of Advent"
+  summary: "In your mercy, Lord, grant us tranquility and Christmas joy as we approach your throne of grace."
+  sermon: "Prepare"
+  pdf: 2017/2017-12-10-WRC-bulletin.pdf
+  mp3: 2017/2017-12-10-WRC-service.mp3
   type: service
   latest: true
