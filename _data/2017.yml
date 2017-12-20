@@ -433,13 +433,21 @@
   pdf: 2017/2017-12-03-WRC-bulletin.pdf
   mp3: 2017/2017-12-03-WRC-service.mp3
   type: service
-  latest: true
 
-- date: 12/03/2017
+- date: 12/10/2017
   title: "Second Sunday of Advent"
   summary: "In your mercy, Lord, grant us tranquility and Christmas joy as we approach your throne of grace."
   sermon: "Prepare"
   pdf: 2017/2017-12-10-WRC-bulletin.pdf
   mp3: 2017/2017-12-10-WRC-service.mp3
+  type: service
+  latest: true
+  
+- date: 12/17/2017
+  title: "Third Sunday of Advent"
+  summary: "It's almost time! Thank you for joining us as we prepare our hearts and await the divine birth announcement."
+  sermon: "Sunday School Program"
+  pdf: 2017/2017-12-17-WRC-bulletin.pdf
+  mp3: 2017/2017-12-17-WRC-service.mp3
   type: service
   latest: true
