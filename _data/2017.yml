@@ -418,13 +418,11 @@
   title: December 2017 Calendar
   pdf: 2017/2017-12-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 12/01/2017
   title: December 2017 Newsletter
   pdf: 2017/2017-12-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 - date: 12/03/2017
   title: "First Sunday of Advent"
@@ -473,21 +471,3 @@
   pdf: 2017/2017-12-31-WRC-bulletin.pdf
   mp3: 2017/2017-12-31-WRC-service.mp3
   type: service
-
-- date: 01/07/2018
-  title: "First Sunday after the Epiphany"
-  summary: "As we begin this wonderful New Year, may our vow be to serve God with fresh diligence."
-  sermon: "Sacred Sandals"
-  pdf: 2018/2018-01-07-WRC-bulletin.pdf
-  mp3: 
-  type: service
-  latest: true
-
-- date: 01/14/2018
-  title: "Second Sunday after the Epiphany"
-  summary: "Gracious Lord, just as you have brought us to the threshold of this new year, guide us as we journey through each day."
-  sermon: "SCome and See"
-  pdf: 2018/2018-01-14-WRC-bulletin.pdf
-  mp3: 2018/2018-01-14-WRC-service.mp3
-  type: service
-  latest: true

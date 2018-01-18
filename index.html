@@ -3,7 +3,7 @@ layout: default
 pill: home
 ---
 
-{% assign heroContent = site.data.2017 | sort: "date" %}
+{% assign heroContent = site.data.2018 | sort: "date" %}
 {% for tile in heroContent reversed %}
     {% if tile.latest %}
         {% if tile.type == "newsletter" %} 
