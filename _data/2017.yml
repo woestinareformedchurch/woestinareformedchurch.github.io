@@ -441,7 +441,6 @@
   pdf: 2017/2017-12-10-WRC-bulletin.pdf
   mp3: 2017/2017-12-10-WRC-service.mp3
   type: service
-  latest: true
   
 - date: 12/17/2017
   title: "Third Sunday of Advent"
@@ -449,5 +448,22 @@
   sermon: "Sunday School Program"
   pdf: 2017/2017-12-17-WRC-bulletin.pdf
   mp3: 2017/2017-12-17-WRC-service.mp3
+  type: service
+
+- date: 12/24/2017
+  title: "Fourth Sunday of Advent "
+  summary: "As we gather on this blessed Christmas Eve, may we sense the presence of the living Christ, whose glory has graced this earth."
+  sermon: "Description of Jesus"
+  pdf: 2017/2017-12-24-WRC-bulletin.pdf
+  mp3: 2017/2017-12-24-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 12/24/2017
+  title: "Christmas Service"
+  summary: "Christmas Service"
+  sermon: 
+  pdf: 
+  mp3: 2017/2017-12-24-WRC-christmas.mp3
   type: service
   latest: true
