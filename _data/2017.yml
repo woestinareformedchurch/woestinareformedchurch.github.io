@@ -457,7 +457,6 @@
   pdf: 2017/2017-12-24-WRC-bulletin.pdf
   mp3: 2017/2017-12-24-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 12/24/2017
   title: "Christmas Eve Service"
@@ -465,5 +464,14 @@
   sermon: 
   pdf: 
   mp3: 2017/2017-12-24-WRC-christmas.mp3
+  type: service
+  latest: true
+
+- date: 12/31/2017
+  title: "First Sunday after Christmas"
+  summary: "As we await the coming of the New Year, let us resolve to be more like Christ in every endeavor."
+  sermon: "Garments of Salvation"
+  pdf: 2017/2017-12-31-WRC-bulletin.pdf
+  mp3: 2017/2017-12-31-WRC-service.mp3
   type: service
   latest: true
