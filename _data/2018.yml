@@ -17,14 +17,21 @@
   pdf: 2018/2018-01-07-WRC-bulletin.pdf
   mp3: 
   type: service
-  latest: true
 
 - date: 01/14/2018
   title: "Second Sunday after the Epiphany"
   summary: "Gracious Lord, just as you have brought us to the threshold of this new year, guide us as we journey through each day."
-  sermon: "SCome and See"
+  sermon: "Come and See"
   pdf: 2018/2018-01-14-WRC-bulletin.pdf
   mp3: 2018/2018-01-14-WRC-service.mp3
   type: service
   latest: true
 
+- date: 01/21/2018
+  title: "Third Sunday after the Epiphany"
+  summary: "We rejoice in your presence today as we join together in worshiping our loving Creator. Welcome to the family of God!"
+  sermon: "A God Who Repents?"
+  pdf: 2018/2018-01-21-WRC-bulletin.pdf
+  mp3: 2018/2018-01-21-WRC-service.mp3
+  type: service
+  latest: true
