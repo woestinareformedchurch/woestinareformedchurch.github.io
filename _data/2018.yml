@@ -16,6 +16,7 @@
   sermon: "Sacred Sandals"
   pdf: 2018/2018-01-07-WRC-bulletin.pdf
   mp3: 
+  type: service
 
 - date: 01/14/2018
   title: "Second Sunday after the Epiphany"
@@ -23,6 +24,7 @@
   sermon: "Come and See"
   pdf: 2018/2018-01-14-WRC-bulletin.pdf
   mp3: 2018/2018-01-14-WRC-service.mp3
+  type: service
 
 - date: 01/21/2018
   title: "Third Sunday after the Epiphany"
