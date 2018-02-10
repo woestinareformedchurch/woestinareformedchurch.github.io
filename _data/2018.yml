@@ -1,15 +1,25 @@
+###############################################################################
+##
+##  C A L E N D A R  &  N E W S L E T T E R
+##
+###############################################################################
+
 - date: 01/01/2018
   title: January 2018 Calendar
   pdf: 2018/2018-01-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 01/01/2018
   title: January 2018 Newsletter
   pdf: 2018/2018-01-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
   
+###############################################################################
+##
+##  S E R V I C E S
+##
+###############################################################################
+
 - date: 01/07/2018
   title: "First Sunday after the Epiphany"
   summary: "As we begin this wonderful New Year, may our vow be to serve God with fresh diligence."
@@ -51,3 +61,27 @@
   mp3: 2018/2018-02-04-WRC-service.mp3
   type: service
   latest: true
+
+###############################################################################
+##
+##  C A L E N D A R  &  N E W S L E T T E R
+##
+###############################################################################
+
+- date: 02/01/2018
+  title: February 2018 Calendar
+  pdf: 2018/2018-02-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 02/01/2018
+  title: February 2018 Newsletter
+  pdf: 2018/2018-02-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+###############################################################################
+##
+##  S E R V I C E S
+##
+###############################################################################
