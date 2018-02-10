@@ -16,7 +16,6 @@
   sermon: "Sacred Sandals"
   pdf: 2018/2018-01-07-WRC-bulletin.pdf
   mp3: 
-  type: service
 
 - date: 01/14/2018
   title: "Second Sunday after the Epiphany"
@@ -24,7 +23,6 @@
   sermon: "Come and See"
   pdf: 2018/2018-01-14-WRC-bulletin.pdf
   mp3: 2018/2018-01-14-WRC-service.mp3
-  type: service
 
 - date: 01/21/2018
   title: "Third Sunday after the Epiphany"
@@ -33,16 +31,15 @@
   pdf: 2018/2018-01-21-WRC-bulletin.pdf
   mp3: 2018/2018-01-21-WRC-service.mp3
   type: service
-  latest: true
 
-# - date: 01/28/2018
-#   title: "Fourth Sunday after the Epiphany"
-#   summary: ""
-#   sermon: ""
-#   pdf: 2018/2018-01-28-WRC-bulletin.pdf
-#   mp3: 2018/2018-01-28-WRC-service.mp3
-#   type: service
-#   latest: true
+- date: 01/28/2018
+  title: "Fourth Sunday after the Epiphany"
+  summary: "May joy and peace be yours as we praise our Lord and grow close to God and one another. Welcome friends!"
+  sermon: "The Unclean Really Knew the Clean One"
+  pdf: 2018/2018-01-28-WRC-bulletin.pdf
+  mp3: #2018/2018-01-28-WRC-service.mp3
+  type: service
+  latest: true
 
 - date: 02/04/2018
   title: "Fifth Sunday after the Epiphany"
