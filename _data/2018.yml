@@ -51,7 +51,6 @@
   pdf: 2018/2018-01-28-WRC-bulletin.pdf
   mp3: #2018/2018-01-28-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 02/04/2018
   title: "Fifth Sunday after the Epiphany"
@@ -85,3 +84,12 @@
 ##  S E R V I C E S
 ##
 ###############################################################################
+
+- date: 02/11/2018
+  title: "Transfiguration Sunday"
+  summary: "Help us put aside all worldly cares, dear Lord, as we come to worship you now. As we progress in our journey through Lent, dear Savior, help us remember that we don't live by bread alone but by every word that comes from you."
+  sermon: "Transfixed on the Transfiguration"
+  pdf: 2018/2018-02-11-WRC-bulletin.pdf
+  mp3: 2018/2018-02-11-WRC-service.mp3
+  type: service
+  latest: true
