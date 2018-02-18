@@ -6,12 +6,12 @@
 
 - date: 01/01/2018
   title: January 2018 Calendar
-  pdf: 2018/2018-01-01-WRC-calendar.pdf
+  pdf: 2018/calendar/2018-01-01-WRC-calendar.pdf
   type: calendar
   
 - date: 01/01/2018
   title: January 2018 Newsletter
-  pdf: 2018/2018-01-01-WRC-newsletter.pdf
+  pdf: 2018/newsletter/2018-01-01-WRC-newsletter.pdf
   type: newsletter
   
 ###############################################################################
@@ -24,7 +24,7 @@
   title: "First Sunday after the Epiphany"
   summary: "As we begin this wonderful New Year, may our vow be to serve God with fresh diligence."
   sermon: "Sacred Sandals"
-  pdf: 2018/2018-01-07-WRC-bulletin.pdf
+  pdf: 2018/bulletin/2018-01-07-WRC-bulletin.pdf
   mp3: 
   type: service
 
@@ -32,34 +32,33 @@
   title: "Second Sunday after the Epiphany"
   summary: "Gracious Lord, just as you have brought us to the threshold of this new year, guide us as we journey through each day."
   sermon: "Come and See"
-  pdf: 2018/2018-01-14-WRC-bulletin.pdf
-  mp3: 2018/2018-01-14-WRC-service.mp3
+  pdf: 2018/bulletin/2018-01-14-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-01-14-WRC-service.mp3
   type: service
 
 - date: 01/21/2018
   title: "Third Sunday after the Epiphany"
   summary: "We rejoice in your presence today as we join together in worshiping our loving Creator. Welcome to the family of God!"
   sermon: "A God Who Repents?"
-  pdf: 2018/2018-01-21-WRC-bulletin.pdf
-  mp3: 2018/2018-01-21-WRC-service.mp3
+  pdf: 2018/bulletin/2018-01-21-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-01-21-WRC-service.mp3
   type: service
 
 - date: 01/28/2018
   title: "Fourth Sunday after the Epiphany"
   summary: "May joy and peace be yours as we praise our Lord and grow close to God and one another. Welcome friends!"
   sermon: "The Unclean Really Knew the Clean One"
-  pdf: 2018/2018-01-28-WRC-bulletin.pdf
-  mp3: #2018/2018-01-28-WRC-service.mp3
+  pdf: 2018/bulletin/2018-01-28-WRC-bulletin.pdf
+  mp3: #2018/audio/2018-01-28-WRC-service.mp3
   type: service
 
 - date: 02/04/2018
   title: "Fifth Sunday after the Epiphany"
   summary: "Devine Spirit, open my ears to hear your Word, my heart to receive it and my mouth to respond in praise. Amen."
   sermon: "Why are you complaining?"
-  pdf: 2018/2018-02-04-WRC-bulletin.pdf
-  mp3: 2018/2018-02-04-WRC-service.mp3
+  pdf: 2018/bulletin/2018-02-04-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-02-04-WRC-service.mp3
   type: service
-  latest: true
 
 ###############################################################################
 ##
@@ -69,13 +68,13 @@
 
 - date: 02/01/2018
   title: February 2018 Calendar
-  pdf: 2018/2018-02-01-WRC-calendar.pdf
+  pdf: 2018/calendar/2018-02-01-WRC-calendar.pdf
   type: calendar
   latest: true
   
 - date: 02/01/2018
   title: February 2018 Newsletter
-  pdf: 2018/2018-02-01-WRC-newsletter.pdf
+  pdf: 2018/newsletter/2018-02-01-WRC-newsletter.pdf
   type: newsletter
   latest: true
 
@@ -89,7 +88,16 @@
   title: "Transfiguration Sunday"
   summary: "Help us put aside all worldly cares, dear Lord, as we come to worship you now. As we progress in our journey through Lent, dear Savior, help us remember that we don't live by bread alone but by every word that comes from you."
   sermon: "Transfixed on the Transfiguration"
-  pdf: 2018/2018-02-11-WRC-bulletin.pdf
-  mp3: 2018/2018-02-11-WRC-service.mp3
+  pdf: 2018/bulletin/2018-02-11-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-02-11-WRC-service.mp3
   type: service
   latest: true
+
+- date: 02/18/2018
+  title: "First Sunday in Lent"
+  summary: "As we progress in pur journey through Lent, dear Savior, help us remember that we don't live by bread alone but by every word that comes from you. (Matthew 4:4)"
+  sermon: "Cast Out into the Wilderness"
+  pdf: #2018/bulletin/2018-02-18-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-02-18-WRC-service.mp3
+  type: service
+  latest: true  
