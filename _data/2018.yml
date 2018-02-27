@@ -91,13 +91,21 @@
   pdf: 2018/bulletin/2018-02-11-WRC-bulletin.pdf
   mp3: 2018/audio/2018-02-11-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 02/18/2018
   title: "First Sunday in Lent"
   summary: "As we progress in pur journey through Lent, dear Savior, help us remember that we don't live by bread alone but by every word that comes from you. (Matthew 4:4)"
   sermon: "Cast Out into the Wilderness"
-  pdf: #2018/bulletin/2018-02-18-WRC-bulletin.pdf
+  pdf: 2018/bulletin/2018-02-18-WRC-bulletin.pdf
   mp3: 2018/audio/2018-02-18-WRC-service.mp3
+  type: service
+  latest: true  
+
+- date: 02/25/2018
+  title: "Second Sunday in Lent"
+  summary: "As we worship you, Lord, enable us to become truly one in our fellowship."
+  sermon: " Permanent Pardon"
+  pdf: 2018/bulletin/2018-02-25-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-02-25-WRC-service.mp3
   type: service
   latest: true  
