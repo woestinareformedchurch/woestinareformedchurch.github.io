@@ -108,14 +108,14 @@
   type: service
   latest: true  
 
-# - date: 03/04/2018
-#   title: "Third Sunday in Lent"
-#   summary: "May God’s glory abide with us today. May the love of God be increased within us and be extended toward our fellow worshipers. Welcome children of God."
-#   sermon: "Turning over Tables"
-#   pdf: 2018/bulletin/2018-03-04-WRC-bulletin.pdf
-#   mp3: 2018/audio/2018-03-04-WRC-service.mp3
-#   type: service
-#   latest: true    
+- date: 03/04/2018
+  title: "Third Sunday in Lent"
+  summary: "May God’s glory abide with us today. May the love of God be increased within us and be extended toward our fellow worshipers. Welcome children of God."
+  sermon: "Turning over Tables"
+  pdf: 2018/bulletin/2018-03-04-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-03-04-WRC-service.mp3
+  type: service
+  latest: true    
 
 ###############################################################################
 ##
