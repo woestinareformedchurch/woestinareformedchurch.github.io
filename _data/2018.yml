@@ -70,13 +70,11 @@
   title: February 2018 Calendar
   pdf: 2018/calendar/2018-02-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 02/01/2018
   title: February 2018 Newsletter
   pdf: 2018/newsletter/2018-02-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 ###############################################################################
 ##
@@ -104,8 +102,35 @@
 - date: 02/25/2018
   title: "Second Sunday in Lent"
   summary: "As we worship you, Lord, enable us to become truly one in our fellowship."
-  sermon: " Permanent Pardon"
+  sermon: "Permanent Pardon"
   pdf: 2018/bulletin/2018-02-25-WRC-bulletin.pdf
   mp3: 2018/audio/2018-02-25-WRC-service.mp3
   type: service
   latest: true  
+
+# - date: 03/04/2018
+#   title: "Third Sunday in Lent"
+#   summary: "May God’s glory abide with us today. May the love of God be increased within us and be extended toward our fellow worshipers. Welcome children of God."
+#   sermon: "Turning over Tables"
+#   pdf: 2018/bulletin/2018-03-04-WRC-bulletin.pdf
+#   mp3: 2018/audio/2018-03-04-WRC-service.mp3
+#   type: service
+#   latest: true    
+
+###############################################################################
+##
+##  C A L E N D A R  &  N E W S L E T T E R
+##
+###############################################################################
+
+- date: 03/01/2018
+  title: March 2018 Calendar
+  pdf: 2018/calendar/2018-03-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 03/01/2018
+  title: March 2018 Newsletter
+  pdf: 2018/newsletter/2018-03-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
