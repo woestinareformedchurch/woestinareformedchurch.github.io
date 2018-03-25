@@ -137,7 +137,6 @@
   sermon: "Turning over Tables"
   pdf: 2018/bulletin/2018-03-04-WRC-bulletin.pdf
   mp3: 2018/audio/2018-03-04-WRC-service.mp3
-  type: service
 
 - date: 03/11/2018
   title: "Fourth Sunday in Lent"
@@ -146,7 +145,6 @@
   pdf: 2018/bulletin/2018-03-11-WRC-bulletin.pdf
   mp3: 2018/audio/2018-03-11-WRC-service.mp3
   type: service
-  latest: true    
 
 - date: 03/18/2018
   title: "Fifth Sunday in Lent"
@@ -156,3 +154,12 @@
   mp3: 2018/audio/2018-03-18-WRC-service.mp3
   type: service
   latest: true    
+
+- date: 03/25/2018
+  title: "Palm Sunday"
+  summary: "lessed is he who comes in the name of the Lord! (Mark 11:9, NIV). Blessed are we who worship in his name."
+  sermon: "Sunday School depiction of the Last Supper"
+  pdf: 2018/bulletin/2018-03-25-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-03-25-WRC-service.mp3
+  type: service
+  latest: true  
