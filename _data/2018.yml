@@ -97,7 +97,6 @@
   pdf: 2018/bulletin/2018-02-18-WRC-bulletin.pdf
   mp3: 2018/audio/2018-02-18-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 02/25/2018
   title: "Second Sunday in Lent"
@@ -137,6 +136,7 @@
   sermon: "Turning over Tables"
   pdf: 2018/bulletin/2018-03-04-WRC-bulletin.pdf
   mp3: 2018/audio/2018-03-04-WRC-service.mp3
+  type: service
 
 - date: 03/11/2018
   title: "Fourth Sunday in Lent"
