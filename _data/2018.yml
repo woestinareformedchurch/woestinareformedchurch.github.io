@@ -153,13 +153,54 @@
   pdf: 2018/bulletin/2018-03-18-WRC-bulletin.pdf
   mp3: 2018/audio/2018-03-18-WRC-service.mp3
   type: service
-  latest: true    
 
 - date: 03/25/2018
   title: "Palm Sunday"
-  summary: "lessed is he who comes in the name of the Lord! (Mark 11:9, NIV). Blessed are we who worship in his name."
+  summary: "Blessed is he who comes in the name of the Lord! (Mark 11:9, NIV). Blessed are we who worship in his name."
   sermon: "Sunday School depiction of the Last Supper"
   pdf: 2018/bulletin/2018-03-25-WRC-bulletin.pdf
   mp3: 2018/audio/2018-03-25-WRC-service.mp3
   type: service
   latest: true  
+
+- date: 04/01/2018
+  title: "Sunrise Easter Sunday"
+  summary: "Sunrise sewrvice on Easter Sunday"
+  sermon: 
+  pdf: #2018/bulletin/2018-04-01-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-04-01-WRC-sunrise-service.mp3
+  type: service
+  latest: true  
+
+- date: 04/01/2018
+  title: "Easter Sunday"
+  summary: "Easter Sunday"
+  sermon: 
+  pdf: #2018/bulletin/2018-04-01-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-04-01-WRC-easter-service.mp3
+  type: service
+  latest: true  
+
+###############################################################################
+##
+##  C A L E N D A R  &  N E W S L E T T E R
+##
+###############################################################################
+
+- date: 04/01/2018
+  title: April 2018 Calendar
+  pdf: 2018/calendar/2018-04-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 04/01/2018
+  title: April 2018 Newsletter
+  pdf: 2018/newsletter/2018-04-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+###############################################################################
+##
+##  S E R V I C E S
+##
+###############################################################################
