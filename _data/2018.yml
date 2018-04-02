@@ -116,13 +116,11 @@
   title: March 2018 Calendar
   pdf: 2018/calendar/2018-03-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 03/01/2018
   title: March 2018 Newsletter
   pdf: 2018/newsletter/2018-03-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 ###############################################################################
 ##
