@@ -159,7 +159,6 @@
   pdf: 2018/bulletin/2018-03-25-WRC-bulletin.pdf
   mp3: 2018/audio/2018-03-25-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 04/01/2018
   title: "Sunrise Easter Sunday"
@@ -168,7 +167,6 @@
   pdf: #2018/bulletin/2018-04-01-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-01-WRC-sunrise-service.mp3
   type: service
-  latest: true  
 
 - date: 04/01/2018
   title: "Easter Sunday"
@@ -177,7 +175,6 @@
   pdf: #2018/bulletin/2018-04-01-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-01-WRC-easter-service.mp3
   type: service
-  latest: true  
 
 ###############################################################################
 ##
@@ -202,3 +199,21 @@
 ##  S E R V I C E S
 ##
 ###############################################################################
+
+- date: 04/08/2018
+  title: "First Sunday after Easter"
+  summary: "First Sunday after Easter"
+  sermon: 
+  pdf: #2018/bulletin/2018-04-08-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-04-08-WRC-easter-service.mp3
+  type: service
+  latest: true  
+
+- date: 04/15/2018
+  title: "Second Sunday after Easter"
+  summary: "Second Sunday after Easter"
+  sermon: 
+  pdf: #2018/bulletin/2018-04-15-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-04-15-WRC-easter-service.mp3
+  type: service
+  latest: true  
