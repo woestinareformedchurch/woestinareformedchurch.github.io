@@ -201,19 +201,19 @@
 ###############################################################################
 
 - date: 04/08/2018
-  title: "First Sunday after Easter"
-  summary: "First Sunday after Easter"
-  sermon: 
+  title: "Sunday Sunday of Easter"
+  summary: "Sunday Sunday of Easter"
+  sermon: ""
   pdf: #2018/bulletin/2018-04-08-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-08-WRC-easter-service.mp3
   type: service
   latest: true  
 
 - date: 04/15/2018
-  title: "Second Sunday after Easter"
-  summary: "Second Sunday after Easter"
-  sermon: 
-  pdf: #2018/bulletin/2018-04-15-WRC-bulletin.pdf
+  title: "Third Sunday of Easter "
+  summary: "Risen Christ, thank you for sharing new life with me. My heart praises you!"
+  sermon: "They Could See Clearly Now"
+  pdf: 2018/bulletin/2018-04-15-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-15-WRC-easter-service.mp3
   type: service
   latest: true  
