@@ -207,13 +207,21 @@
   pdf: #2018/bulletin/2018-04-08-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-08-WRC-easter-service.mp3
   type: service
-  latest: true  
 
 - date: 04/15/2018
   title: "Third Sunday of Easter "
   summary: "Risen Christ, thank you for sharing new life with me. My heart praises you!"
   sermon: "They Could See Clearly Now"
   pdf: 2018/bulletin/2018-04-15-WRC-bulletin.pdf
-  mp3: 2018/audio/2018-04-15-WRC-easter-service.mp3
+  mp3: 2018/audio/2018-04-15-WRC-service.mp3
+  type: service
+  latest: true  
+
+- date: 04/22/2018
+  title: "Fourth Sunday of Easter "
+  summary: "Jesus, the good Shepherd, welcomes you into his flock, and so do we. Thanks for joining us to worship and share in Christian friendship."
+  sermon: "The Sheep Dog Who Could Not Speak English"
+  pdf: 2018/bulletin/2018-04-15-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-04-15-WRC-service.mp3
   type: service
   latest: true  
