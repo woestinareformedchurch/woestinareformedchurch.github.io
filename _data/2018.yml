@@ -215,7 +215,6 @@
   pdf: 2018/bulletin/2018-04-15-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-15-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 04/22/2018
   title: "Fourth Sunday of Easter "
@@ -223,5 +222,14 @@
   sermon: "The Sheep Dog Who Could Not Speak English"
   pdf: 2018/bulletin/2018-04-22-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-22-WRC-service.mp3
+  type: service
+  latest: true  
+
+- date: 04/29/2018
+  title: "Fifth Sunday of Easter "
+  summary: "Keep us mindful, O Lord, that we are here because of your goodness. Let your light shine on us and through us."
+  sermon: "Abiding in God"
+  pdf: 2018/bulletin/2018-04-29-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-04-29-WRC-service.mp3
   type: service
   latest: true  
