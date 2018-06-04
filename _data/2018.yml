@@ -251,3 +251,18 @@
   pdf: 2018/newsletter/2018-06-01-WRC-newsletter.pdf
   type: newsletter
   latest: true
+
+###############################################################################
+##
+##  S E R V I C E S
+##
+###############################################################################
+
+- date: 05/06/2018
+  title: "Sixth Sunday of Easter"
+  summary: "Dear Lord, you deserve praise forever. May all glory be yours for the gift of life, the loveliness of the earth  and your love through Christ. Amen."
+  sermon: "Abiding Friends"
+  pdf: 2018/bulletin/2018-05-06-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-05-06-WRC-service.mp3
+  type: service
+  latest: true  
