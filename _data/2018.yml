@@ -221,7 +221,6 @@
   pdf: 2018/bulletin/2018-04-22-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-22-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 04/29/2018
   title: "Fifth Sunday of Easter "
@@ -230,7 +229,6 @@
   pdf: 2018/bulletin/2018-04-29-WRC-bulletin.pdf
   mp3: 2018/audio/2018-04-29-WRC-service.mp3
   type: service
-  latest: true  
 
 ###############################################################################
 ##
@@ -265,4 +263,46 @@
   pdf: 2018/bulletin/2018-05-06-WRC-bulletin.pdf
   mp3: 2018/audio/2018-05-06-WRC-service.mp3
   type: service
-  latest: true  
+
+- date: 05/13/2018
+  title: "Seventh Sunday of Easter"
+  summary: "On this Mother's Day, in the spirit of Mary, Jesus' mother, we proclaim: 'Here am I, the servant of the Lord.' (Luke 1:38, NRSV)"
+  sermon: "Glorified Name"
+  pdf: 2018/bulletin/2018-05-13-WRC-bulletin.pdf
+  mp3: #2018/audio/2018-05-13-WRC-service.mp3
+  type: service
+
+- date: 05/20/2018
+  title: "Pentecost"
+  summary: "On this Pentecost Sunday, almighty God, help us know the touch and power of your Holy Spirit."
+  sermon: "The Holy Spirit in the Reformed Church? Absolutely!"
+  pdf: 2018/bulletin/2018-05-20-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-05-20-WRC-service.mp3
+  type: service
+
+- date: 05/27/2018
+  title: "Trinity Sunday"
+  summary: "Dear Lord, you deserve praise forever. May all glory be yours for the gift of life, the loveliness of the earth and your love through Christ."
+  sermon: "Memorial Day for the Cross in the Middle"
+  pdf: 2018/bulletin/2018-05-27-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-05-27-WRC-service.mp3
+  type: service
+  latest: true    
+
+- date: 06/03/2018
+  title: "Second Sunday after Pentecost"
+  summary: "On this second Sunday after Pentecost, let us say with the  psalmist: 'I will praise the LORD as long as I live.' (Psalm 146:2 RSV)"
+  sermon: "Looking for Ways to Destroy Jesus"
+  pdf: 2018/bulletin/2018-06-03-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-06-03-WRC-service.mp3
+  type: service
+  latest: true    
+
+- date: 06/10/2018
+  title: "Youth Sunday"
+  summary: "Open our ears and hearts to receive your Word of Truth today as it comes to us through Scripture, preaching, music and the fellowship of faith."
+  sermon: "Testimony"
+  pdf: 2018/bulletin/2018-06-10-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-06-10-WRC-service.mp3
+  type: service
+  latest: true    
