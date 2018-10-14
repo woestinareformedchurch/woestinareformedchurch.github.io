@@ -242,13 +242,11 @@
   title: June 2018 Calendar
   pdf: 2018/calendar/2018-06-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 06/01/2018
   title: June 2018 Newsletter
   pdf: 2018/newsletter/2018-06-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 ###############################################################################
 ##
@@ -305,6 +303,32 @@
   mp3: 2018/audio/2018-06-10-WRC-service.mp3
   type: service
   latest: true    
+
+###############################################################################
+##
+##  C A L E N D A R  &  N E W S L E T T E R
+##
+###############################################################################
+
+## No May Newsletter or Calendar were presented.
+
+- date: 09/01/2018
+  title: Septenber 2018 Calendar
+  pdf: 2018/calendar/2018-09-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 09/01/2018
+  title: September 2018 Newsletter
+  pdf: 2018/newsletter/2018-09-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+###############################################################################
+##
+##  S E R V I C E S
+##
+###############################################################################
 
 - date: 10/07/2018
   title: "World Communion Sunday"
