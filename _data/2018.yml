@@ -287,7 +287,6 @@
   pdf: 2018/bulletin/2018-05-27-WRC-bulletin.pdf
   mp3: 2018/audio/2018-05-27-WRC-service.mp3
   type: service
-  latest: true    
 
 - date: 06/03/2018
   title: "Second Sunday after Pentecost"
@@ -304,5 +303,14 @@
   sermon: "Testimony"
   pdf: 2018/bulletin/2018-06-10-WRC-bulletin.pdf
   mp3: 2018/audio/2018-06-10-WRC-service.mp3
+  type: service
+  latest: true    
+
+- date: 10/07/2018
+  title: "World Communion Sunday"
+  summary: "Gracious God, we praise you for the opportunity to focus on you in worship now. Amen."
+  sermon: "Marriage and Children"
+  pdf: 2018/bulletin/2018-10-07-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-10-07-WRC-service.mp3
   type: service
   latest: true    
