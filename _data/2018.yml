@@ -293,7 +293,6 @@
   pdf: 2018/bulletin/2018-06-03-WRC-bulletin.pdf
   mp3: 2018/audio/2018-06-03-WRC-service.mp3
   type: service
-  latest: true    
 
 - date: 06/10/2018
   title: "Youth Sunday"
@@ -374,3 +373,18 @@
   pdf: 2018/newsletter/2018-12-01-WRC-newsletter.pdf
   type: newsletter
   latest: true
+
+###############################################################################
+##
+##  S E R V I C E S
+##
+###############################################################################
+
+- date: 12/02/2018
+  title: "The First Sunday of Advent"
+  summary: "We have prepared our homes and church for Christmas, Lord. Now help us prepare our hearts."
+  sermon: "Gathering Together the Elect"
+  pdf: 2018/bulletin/2018-12-02-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-12-02-WRC-service.mp3
+  type: service
+  latest: true    
