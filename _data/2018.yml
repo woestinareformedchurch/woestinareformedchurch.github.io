@@ -385,6 +385,7 @@
   pdf: 2018/bulletin/2018-11-18-WRC-bulletin.pdf
   mp3: 2018/audio/2018-11-18-WRC-service.mp3
   type: service
+  latest: true
 
 - date: 11/25/2018
   title: "Christ the King Sunday"
