@@ -301,7 +301,6 @@
   pdf: 2018/bulletin/2018-06-10-WRC-bulletin.pdf
   mp3: 2018/audio/2018-06-10-WRC-service.mp3
   type: service
-  latest: true    
 
 ###############################################################################
 ##
@@ -334,7 +333,6 @@
   pdf: 2018/bulletin/2018-10-07-WRC-bulletin.pdf
   mp3: 2018/audio/2018-10-07-WRC-service.mp3
   type: service
-  latest: true    
 
 ###############################################################################
 ##
@@ -379,6 +377,15 @@
 ##  S E R V I C E S
 ##
 ###############################################################################
+
+- date: 11/25/2018
+  title: "Christ the King Sunday"
+  summary: "On Christ the King Sunday, we welcome you in the name of Jesus, our King of kings. Let us bow down before Him, giving Him the honor He rightfully deserves."
+  sermon: "They Called Him 'King'"
+  pdf: 2018/bulletin/2018-11-25-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-11-25-WRC-service.mp3
+  type: service
+  latest: true    
 
 - date: 12/02/2018
   title: "The First Sunday of Advent"
