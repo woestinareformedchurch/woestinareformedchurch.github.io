@@ -385,7 +385,6 @@
   pdf: 2018/bulletin/2018-11-18-WRC-bulletin.pdf
   mp3: 2018/audio/2018-11-18-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 11/25/2018
   title: "Christ the King Sunday"
@@ -402,5 +401,14 @@
   sermon: "Gathering Together the Elect"
   pdf: 2018/bulletin/2018-12-02-WRC-bulletin.pdf
   mp3: 2018/audio/2018-12-02-WRC-service.mp3
+  type: service
+  latest: true    
+
+- date: 12/09/2018
+  title: "The Second Sunday of Advent"
+  summary: "Welcome in Christ's name. Scripture says if we walk in Christ's light, we can have fellowship with one another."
+  sermon: "Prepare"
+  pdf: 2018/bulletin/2018-12-09-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-12-09-WRC-service.mp3
   type: service
   latest: true    
