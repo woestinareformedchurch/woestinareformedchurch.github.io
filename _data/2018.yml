@@ -401,7 +401,6 @@
   pdf: 2018/bulletin/2018-12-02-WRC-bulletin.pdf
   mp3: 2018/audio/2018-12-02-WRC-service.mp3
   type: service
-  latest: true    
 
 - date: 12/09/2018
   title: "The Second Sunday of Advent"
@@ -415,8 +414,17 @@
 - date: 12/16/2018
   title: "The Third Sunday of Advent"
   summary: "On this third Sunday of Advent, we're glad you've  joined us to prepare for Christ's coming. Welcome!"
-  sermon: " Encouraging Words?"
+  sermon: "Encouraging Words?"
   pdf: 2018/bulletin/2018-12-16-WRC-bulletin.pdf
   mp3: 2018/audio/2018-12-16-WRC-service.mp3
+  type: service
+  latest: true    
+
+- date: 12/23/2018
+  title: "The Fourth Sunday of Advent"
+  summary: "On this fourth Sunday of Advent, may the glorious good news of Christ's birth fill us with love and good will."
+  sermon: "Sunday School Christmas Program"
+  pdf: 2018/bulletin/2018-12-23-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-12-23-WRC-service.mp3
   type: service
   latest: true    
