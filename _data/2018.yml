@@ -364,13 +364,11 @@
   title: December 2018 Calendar
   pdf: 2018/calendar/2018-12-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 12/01/2018
   title: December 2018 Newsletter
   pdf: 2018/newsletter/2018-12-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 ###############################################################################
 ##
@@ -409,7 +407,6 @@
   pdf: 2018/bulletin/2018-12-09-WRC-bulletin.pdf
   mp3: 2018/audio/2018-12-09-WRC-service.mp3
   type: service
-  latest: true    
 
 - date: 12/16/2018
   title: "The Third Sunday of Advent"
@@ -428,3 +425,13 @@
   mp3: 2018/audio/2018-12-23-WRC-service.mp3
   type: service
   latest: true    
+
+- date: 12/30/2018
+  title: "First Sunday after Christmas"
+  summary: "On this first Sunday after Christmas, may we remain joyous and share that joy with everyone around us."
+  sermon: " Garments of Salvation"
+  pdf: 2018/bulletin/2018-12-30-WRC-bulletin.pdf
+  mp3: 2018/audio/2018-12-30-WRC-service.mp3
+  type: service
+  latest: true    
+
