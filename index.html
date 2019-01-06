@@ -70,13 +70,6 @@ pill: home
                 {% include grid_item.html %}
               {% endif %}
             {% endfor %} 
-
-            {% assign tileContent =  site.data.2018 | sort: "date" %}
-            {% for tile in tileContent reversed %}
-              {% if tile.latest %} 
-                {% include grid_item.html %}
-              {% endif %}
-            {% endfor %} 
         </div>
     </div>
 </div>
