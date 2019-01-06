@@ -9,3 +9,12 @@
   pdf: 2019/newsletter/2019-01-01-WRC-newsletter.pdf
   type: newsletter
   latest: true
+
+- date: 01/06/2019
+  title: "Epiphany of the Lord"
+  summary: "On this Epiphany Sunday, let us, with the wise men, pay homage to our newborn King."
+  sermon: " Ah! Logos!"
+  pdf: 2019/bulletin/2019-01-06-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-01-06-WRC-service.mp3
+  type: service
+  latest: true  
