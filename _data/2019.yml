@@ -2,13 +2,11 @@
   title: January 2019 Calendar
   pdf: 2019/calendar/2019-01-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 01/01/2019
   title: January 2019 Newsletter
   pdf: 2019/newsletter/2019-01-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 - date: 01/06/2019
   title: "Epiphany of the Lord"
@@ -43,4 +41,16 @@
   pdf: 2019/bulletin/2019-01-27-WRC-bulletin.pdf
   mp3: 2019/audio/2019-01-27-WRC-service.mp3
   type: service
+  latest: true
+
+- date: 02/01/2019
+  title: February 2019 Calendar
+  pdf: 2019/calendar/2019-02-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 02/01/2019
+  title: February 2019 Newsletter
+  pdf: 2019/newsletter/2019-02-01-WRC-newsletter.pdf
+  type: newsletter
   latest: true
