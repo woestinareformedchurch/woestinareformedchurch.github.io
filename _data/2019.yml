@@ -23,7 +23,6 @@
   pdf: 2019/bulletin/2019-01-13-WRC-bulletin.pdf
   mp3: 2019/audio/2019-01-13-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 01/20/2019
   title: "No Service Recorded"
@@ -32,7 +31,6 @@
   pdf: 
   mp3: 
   type: service
-  latest: true
 
 - date: 02/27/2019
   title: "The Second Sunday after the Epiphany"
@@ -54,3 +52,13 @@
   pdf: 2019/newsletter/2019-02-01-WRC-newsletter.pdf
   type: newsletter
   latest: true
+
+- date: 02/27/2019
+  title: "The Third Sunday after the Epiphany"
+  summary: "God of peace, calm our spirits and grant us renewal and strengh to serve you."
+  sermon: "Rejecting Jesus"
+  pdf: #2019/bulletin/2019-02-03-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-02-03-WRC-service.mp3
+  type: service
+  latest: true
+  
