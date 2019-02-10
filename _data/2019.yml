@@ -39,7 +39,6 @@
   pdf: 2019/bulletin/2019-01-27-WRC-bulletin.pdf
   mp3: 2019/audio/2019-01-27-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 02/01/2019
   title: February 2019 Calendar
@@ -54,11 +53,19 @@
   latest: true
 
 - date: 02/03/2019
-  title: "The Third Sunday after the Epiphany"
+  title: "Fourth Sunday after the Epiphany"
   summary: "God of peace, calm our spirits and grant us renewal and strengh to serve you."
   sermon: "Rejecting Jesus"
   pdf: #2019/bulletin/2019-02-03-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-03-WRC-service.mp3
   type: service
   latest: true
-  
+
+- date: 02/10/2019
+  title: "Fifth Sunday after the Epiphany"
+  summary: "We welcome eash of you to God's House. As we gather to draw near to God, may we also draw near to those worshipping with us."
+  sermon: "The Holiness of God"
+  pdf: #2019/bulletin/2019-02-10-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-02-10-WRC-service.mp3
+  type: service
+  latest: true
