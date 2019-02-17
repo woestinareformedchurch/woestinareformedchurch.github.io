@@ -59,13 +59,21 @@
   pdf: #2019/bulletin/2019-02-03-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-03-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 02/10/2019
   title: "Fifth Sunday after the Epiphany"
-  summary: "We welcome eash of you to God's House. As we gather to draw near to God, may we also draw near to those worshipping with us."
+  summary: "We welcome each of you to God's House. As we gather to draw near to God, may we also draw near to those worshipping with us."
   sermon: "The Holiness of God"
   pdf: #2019/bulletin/2019-02-10-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-10-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 02/17/2019
+  title: "Sixth Sunday after the Epiphany"
+  summary: "We welcome each of you to God's House. As we gather to draw near to God, may we also draw near to those worshipping with us."
+  sermon: "Blessings from the Plain"
+  pdf: #2019/bulletin/2019-02-17-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-02-17-WRC-service.mp3
   type: service
   latest: true
