@@ -75,13 +75,21 @@
   pdf: 2019/bulletin/2019-02-17-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-17-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 02/24/2019
   title: "Seventh Sunday after the Epiphany"
   summary: "Almighty God, as you confronted Isaiah in the temple, clearly speak your words of strength, forgiveness and grace to us."
-  sermon: "What Kinf of Love is this?"
+  sermon: "What Kind of Love is this?"
   pdf: #2019/bulletin/2019-02-24-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-24-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 03/03/2019
+  title: "Eighth Sunday after the Epiphany/Transfiguration"
+  summary: "No bulletin."
+  sermon: "No bulletin."
+  pdf: #2019/bulletin/2019-03-03-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-03-03-WRC-service.mp3
   type: service
   latest: true
