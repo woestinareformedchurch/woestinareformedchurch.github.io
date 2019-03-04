@@ -50,7 +50,6 @@
   title: February 2019 Newsletter
   pdf: 2019/newsletter/2019-02-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 - date: 02/03/2019
   title: "Fourth Sunday after the Epiphany"
@@ -58,7 +57,6 @@
   sermon: "Rejecting Jesus"
   pdf: 2019/bulletin/2019-02-03-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-03-WRC-service.mp3
-  type: service
 
 - date: 02/10/2019
   title: "Fifth Sunday after the Epiphany"
@@ -92,4 +90,16 @@
   pdf: #2019/bulletin/2019-03-03-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-03-WRC-service.mp3
   type: service
+  latest: true
+
+- date: 03/01/2019
+  title: March 2019 Calendar
+  pdf: 2019/calendar/2019-03-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 03/01/2019
+  title: March 2019 Newsletter
+  pdf: 2019/newsletter/2019-03-01-WRC-newsletter.pdf
+  type: newsletter
   latest: true
