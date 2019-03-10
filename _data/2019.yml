@@ -81,6 +81,7 @@
   pdf: #2019/bulletin/2019-02-24-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-24-WRC-service.mp3
   type: service
+  latest: true
 
 - date: 03/03/2019
   title: "Eighth Sunday after the Epiphany/Transfiguration"
