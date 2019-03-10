@@ -81,7 +81,6 @@
   pdf: #2019/bulletin/2019-02-24-WRC-bulletin.pdf
   mp3: 2019/audio/2019-02-24-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 03/03/2019
   title: "Eighth Sunday after the Epiphany/Transfiguration"
@@ -102,4 +101,13 @@
   title: March 2019 Newsletter
   pdf: 2019/newsletter/2019-03-01-WRC-newsletter.pdf
   type: newsletter
+  latest: true
+
+- date: 03/10/2019
+  title: "First Sunday in Lent"
+  summary: "No bulletin available."
+  sermon: "No bulletin available."
+  pdf: #2019/bulletin/2019-03-10-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-03-10-WRC-service.mp3
+  type: service
   latest: true
