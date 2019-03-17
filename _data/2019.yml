@@ -89,7 +89,6 @@
   pdf: #2019/bulletin/2019-03-03-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-03-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 03/01/2019
   title: March 2019 Calendar
@@ -109,5 +108,14 @@
   sermon: "No bulletin available."
   pdf: #2019/bulletin/2019-03-10-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-10-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 03/10/2019
+  title: "First Second in Lent"
+  summary: "As we progress in our journey through Lent, dear Savior, help us remember that we don't live by bread alone but by every word that comes from you. (Matthew 4:4)"
+  sermon: "No bulletin available."
+  pdf: #2019/bulletin/2019-03-10-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-03-17-WRC-service.mp3
   type: service
   latest: true
