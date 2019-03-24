@@ -109,13 +109,21 @@
   pdf: #2019/bulletin/2019-03-10-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-10-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 03/10/2019
-  title: "First Second in Lent"
+  title: "Second Sunday in Lent"
   summary: "As we progress in our journey through Lent, dear Savior, help us remember that we don't live by bread alone but by every word that comes from you. (Matthew 4:4)"
   sermon: "No bulletin available."
   pdf: #2019/bulletin/2019-03-10-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-17-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 03/24/2019
+  title: "Third Sunday in Lent"
+  summary: "Welcome to all who've come to praise and worship the living God. Let us give glory and thanksgiving to our Creator and show kindness to one another."
+  sermon: "No bulletin available."
+  pdf: #2019/bulletin/2019-03-24-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-03-24-WRC-service.mp3
   type: service
   latest: true
