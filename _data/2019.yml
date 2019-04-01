@@ -117,7 +117,6 @@
   pdf: #2019/bulletin/2019-03-10-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-17-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 03/24/2019
   title: "Third Sunday in Lent"
@@ -125,5 +124,14 @@
   sermon: "No bulletin available."
   pdf: #2019/bulletin/2019-03-24-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-24-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 03/31/2019
+  title: "Fourth Sunday in Lent"
+  summary: "As we prepare for worship, trust his promise: 'For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.' (John 3:16 KJV)"
+  sermon: "No bulletin available."
+  pdf: #2019/bulletin/2019-03-24-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-03-31-WRC-service.mp3
   type: service
   latest: true
