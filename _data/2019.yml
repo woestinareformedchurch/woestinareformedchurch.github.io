@@ -125,7 +125,6 @@
   pdf: #2019/bulletin/2019-03-24-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-24-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 03/31/2019
   title: "Fourth Sunday in Lent"
@@ -148,4 +147,15 @@
   title: April 2019 Newsletter
   pdf: 2019/newsletter/2019-04-01-WRC-newsletter.pdf
   type: newsletter
+  latest: true
+
+## ============================================================================
+
+- date: 04/07/2019
+  title: "Fifth Sunday in Lent"
+  summary: "Give us courageous and righteous hearts, O God, so that our thoughts and actions may be pure and pleasing to you."
+  sermon: "No bulletin available."
+  pdf: #2019/bulletin/2019-03-24-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-04-07-WRC-service.mp3
+  type: service
   latest: true
