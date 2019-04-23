@@ -157,4 +157,20 @@
   pdf: 2019/bulletin/2019-04-07-WRC-bulletin.pdf
   mp3: 2019/audio/2019-04-07-WRC-service.mp3
   type: service
+
+- title: "Palm and Passion Sunday"
+  summary: "On this Palm Sunday, help us to understand its meaning and to rejoice as we hail our Lord, Jesus Christ."
+  sermon: "A Supper that Led to a Betrayal"
+  pdf: 2019/bulletin/2019-04-14-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-04-07-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 04/21/2019
+  title: "Easter Sunday"
+  summary: "Christ is risen! Rejoice and be glad in this special day the Lord has made!"
+  sermon: " Seeing Jesus Clearly"
+  pdf: 2019/bulletin/2019-04-21-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-04-21-WRC-service.mp3
+  type: service
   latest: true
