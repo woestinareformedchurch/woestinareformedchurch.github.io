@@ -132,7 +132,6 @@
   pdf: #2019/bulletin/2019-03-24-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-31-WRC-service.mp3
   type: service
-  latest: true
 
 ## ============================================================================
 
@@ -169,8 +168,18 @@
 - date: 04/21/2019
   title: "Easter Sunday"
   summary: "Christ is risen! Rejoice and be glad in this special day the Lord has made!"
-  sermon: " Seeing Jesus Clearly"
+  sermon: "Seeing Jesus Clearly"
   pdf: 2019/bulletin/2019-04-21-WRC-bulletin.pdf
   mp3: 2019/audio/2019-04-21-WRC-service.mp3
+  type: service
+  latest: true
+
+
+- date: 04/21/2019
+  title: "Sendond Sunday of Easter"
+  summary: "Welcome, as we worship the risen Lord. May we be 'of one heart and soul' (Acts 4:32) in love for one another and in praise of Christ."
+  sermon: "Hands and Side"
+  pdf: 2019/bulletin/2019-04-28-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-04-28-WRC-service.mp3
   type: service
   latest: true
