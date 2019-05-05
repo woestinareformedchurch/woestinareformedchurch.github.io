@@ -139,13 +139,11 @@
   title: April 2019 Calendar
   pdf: 2019/calendar/2019-04-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 04/01/2019
   title: April 2019 Newsletter
   pdf: 2019/newsletter/2019-04-01-WRC-newsletter.pdf
   type: newsletter
-  latest: true
 
 ## ============================================================================
 
