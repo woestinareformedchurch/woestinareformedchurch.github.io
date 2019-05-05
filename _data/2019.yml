@@ -187,6 +187,22 @@
   summary: "As we worship you, Lord, reveal to us your glory. Let us feel your love and know with certainty that we have been in your holy presence."
   sermon: "One Word Made a Difference"
   pdf: 2019/bulletin/2019-05-05-WRC-bulletin.pdf
-  mp3: 2019/audio/2019-05-50-WRC-service.mp3
+  mp3: 2019/audio/2019-05-05-WRC-service.mp3
   type: service
   latest: true
+
+  ## ============================================================================
+
+- date: 05/01/2019
+  title: May 2019 Calendar
+  pdf: 2019/calendar/2019-05-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 05/01/2019
+  title: May 2019 Newsletter
+  pdf: 2019/newsletter/2019-05-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+## ============================================================================
