@@ -172,8 +172,6 @@
   pdf: 2019/bulletin/2019-04-21-WRC-bulletin.pdf
   mp3: 2019/audio/2019-04-21-WRC-service.mp3
   type: service
-  latest: true
-
 
 - date: 04/21/2019
   title: "Second Sunday of Easter"
@@ -181,5 +179,14 @@
   sermon: "Hands and Side"
   pdf: 2019/bulletin/2019-04-28-WRC-bulletin.pdf
   mp3: 2019/audio/2019-04-28-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 05/05/2019
+  title: "Third Sunday of Easter"
+  summary: "As we worship you, Lord, reveal to us your glory. Let us feel your love and know with certainty that we have been in your holy presence."
+  sermon: "One Word Made a Difference"
+  pdf: 2019/bulletin/2019-05-05-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-05-50-WRC-service.mp3
   type: service
   latest: true
