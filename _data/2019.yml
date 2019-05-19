@@ -155,13 +155,13 @@
   mp3: 2019/audio/2019-04-07-WRC-service.mp3
   type: service
 
-- title: "Palm and Passion Sunday"
+- date: 04/14/2019
+  title: "Palm and Passion Sunday"
   summary: "On this Palm Sunday, help us to understand its meaning and to rejoice as we hail our Lord, Jesus Christ."
   sermon: "A Supper that Led to a Betrayal"
   pdf: 2019/bulletin/2019-04-14-WRC-bulletin.pdf
   mp3: #2019/audio/2019-04-07-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 04/21/2019
   title: "Easter Sunday"
@@ -178,7 +178,6 @@
   pdf: 2019/bulletin/2019-04-28-WRC-bulletin.pdf
   mp3: 2019/audio/2019-04-28-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 05/05/2019
   title: "Third Sunday of Easter"
@@ -187,7 +186,6 @@
   pdf: 2019/bulletin/2019-05-05-WRC-bulletin.pdf
   mp3: 2019/audio/2019-05-05-WRC-service.mp3
   type: service
-  latest: true
 
   ## ============================================================================
 
@@ -204,3 +202,21 @@
   latest: true
 
 ## ============================================================================
+
+- date: 05/12/2019
+  title: "Fourth Sunday of Easter - Mother's Day"
+  summary: "Happy Mother's Day! We pray for joy in all mother-child relationships and for comfort for those who are sad. Welcome into Christian fellowship where we rejoice with and support one another."
+  sermon: "Sheep Instead of Mother"
+  pdf: 2019/bulletin/2019-05-12-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-05-12-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 05/19/2019
+  title: "Fifth Sunday of Easter"
+  summary: "Thank you for joining us for worship as we continue to celebrate the Easter season and rejoice in Jesus' resurrection."
+  sermon: "Glorified Love"
+  pdf: 2019/bulletin/2019-05-19-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-05-19-WRC-service.mp3
+  type: service
+  latest: true
