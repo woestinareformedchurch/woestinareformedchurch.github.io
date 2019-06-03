@@ -210,7 +210,6 @@
   pdf: 2019/bulletin/2019-05-12-WRC-bulletin.pdf
   mp3: 2019/audio/2019-05-12-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 05/19/2019
   title: "Fifth Sunday of Easter"
@@ -218,5 +217,14 @@
   sermon: "Glorified Love"
   pdf: 2019/bulletin/2019-05-19-WRC-bulletin.pdf
   mp3: 2019/audio/2019-05-19-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 06/02/2019
+  title: "Seventh Sunday of Easter"
+  summary: "Lord, make us mindful of your power and your glory in this time of worship."
+  sermon: "Being One"
+  pdf: 2019/bulletin/2019-06-02-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-06-02-WRC-service.mp3
   type: service
   latest: true
