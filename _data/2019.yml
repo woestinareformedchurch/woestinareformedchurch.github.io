@@ -218,7 +218,6 @@
   pdf: 2019/bulletin/2019-05-19-WRC-bulletin.pdf
   mp3: 2019/audio/2019-05-19-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 06/02/2019
   title: "Seventh Sunday of Easter"
@@ -226,5 +225,14 @@
   sermon: "Being One"
   pdf: 2019/bulletin/2019-06-02-WRC-bulletin.pdf
   mp3: 2019/audio/2019-06-02-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 06/09/2019
+  title: "Youth Sunday"
+  summary: "We celebrate the coming of the Holy Spirit who gave power and unity to Christ's followers. It is time for us to unite in joy, love, fellowship and worship."
+  sermon: " God Gives the Holy Spirit"
+  pdf: 2019/bulletin/2019-06-09-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-06-09-WRC-service.mp3
   type: service
   latest: true
