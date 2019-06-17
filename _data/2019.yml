@@ -226,7 +226,6 @@
   pdf: 2019/bulletin/2019-06-02-WRC-bulletin.pdf
   mp3: 2019/audio/2019-06-02-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 06/09/2019
   title: "Youth Sunday"
@@ -236,3 +235,11 @@
   mp3: 2019/audio/2019-06-09-WRC-service.mp3
   type: service
   latest: true
+
+- date: 06/16/2019
+  title: "Father's Day"
+  summary: "On this Father's Day, we worship God and honor our earthly fathers as He commanded."
+  sermon: "Trinity"
+  pdf: 2019/bulletin/2019-06-16-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-06-16-WRC-service.mp3
+  type: service
