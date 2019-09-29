@@ -254,7 +254,6 @@
   pdf: 2019/bulletin/2019-06-16-WRC-bulletin.pdf
   mp3: 2019/audio/2019-06-16-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 06/23/2019
   title: "Second Sunday after Pentecost"
@@ -263,23 +262,38 @@
   pdf: 2019/bulletin/2019-06-23-WRC-bulletin.pdf
   mp3: #2019/audio/2019-06-23-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 06/30/2019
   title: "Third Sunday after Pentecost"
   summary: "May our worship be pleasing to you, Lord. Fill us with your Spirit."
   sermon: "Trying to Understand Jesus"
   pdf: 2019/bulletin/2019-06-30-WRC-bulletin.pdf
-  mp3: #2019/audio/2019-06-23-WRC-service.mp3
+  mp3: #2019/audio/2019-06-30-WRC-service.mp3
   type: service
-  latest: true
 
-- date: 06/30/2019
+- date: 07/07/2019
   title: "Fourth Sunday after Pentecost"
   summary: "As we glorify you, dear Lord, may we know the mercy and strength that come from your fountain of overflowing grace."
   sermon: "A Lamb and Peace"
   pdf: 2019/bulletin/2019-07-07-WRC-bulletin.pdf
-  mp3: #2019/audio/2019-06-23-WRC-service.mp3
+  mp3: #2019/audio/2019-07-07-WRC-service.mp3
+  type: service
+
+- date: 07/14/2019
+  title: "Fifth Sunday after Pentecost"
+  summary: "Open our hearts, Lord, to the power of your Word in this service. Bless those who lead our worship and bear witness among us."
+  sermon: "Picking Up Strangers"
+  pdf: 2019/bulletin/2019-07-14-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-07-14-WRC-service.mp3
+  type: service
+  latest: true  
+
+- date: 07/21/2019
+  title: "Sixth Sunday after Pentecost"
+  summary: "We have come to glorify you, Lord of all. May we not miss any word you wish for us to hear and obey."
+  sermon: "Anxious"
+  pdf: 2019/bulletin/2019-07-21-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-07-21-WRC-service.mp3
   type: service
   latest: true  
 
