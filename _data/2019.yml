@@ -310,7 +310,6 @@
   pdf: 2019/bulletin/2019-08-04-WRC-bulletin.pdf
   mp3: #2019/audio/2019-08-04-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 08/11/2019
   title: "Ninth Sunday after Pentecost"
@@ -319,7 +318,6 @@
   pdf: 2019/bulletin/2019-08-11-WRC-bulletin.pdf
   mp3: #2019/audio/2019-08-11-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 08/18/2019
   title: "Tenth Sunday after Pentecost"
@@ -328,7 +326,6 @@
   pdf: 2019/bulletin/2019-08-18-WRC-bulletin.pdf
   mp3: #2019/audio/2019-08-18-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 08/25/2019
   title: "Eleventh Sunday after Pentecost"
@@ -337,4 +334,38 @@
   pdf: 2019/bulletin/2019-08-25-WRC-bulletin.pdf
   mp3: #2019/audio/2019-08-25-WRC-service.mp3
   type: service
-  latest: true  
+
+- date: 09/08/2019
+  title: "Thirteenth Sunday after Pentecost"
+  summary: "Welcome to worship, Christian education and fellowship this morning. We rejoice to gather with long-term friends and to meet new ones."
+  sermon: "Absolute Dependence on God"
+  pdf: 2019/bulletin/2019-09-08-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-09-08-WRC-service.mp3
+  type: service
+
+- date: 09/15/2019
+  title: "Fourteenth Sunday after Pentecost"
+  summary: "Grace to you and peace from God our Father and our Lord and Savior Jesus Christ. Welcome to worship as brothers and sisters in faith."
+  sermon: "A Sheep and a Woman"
+  pdf: 2019/bulletin/2019-09-15-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-09-15-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 09/22/2019
+  title: "Fifteenth Sunday after Pentecost"
+  summary: "Welcome to the house of the Lord! May God's grace and peace fill you today."
+  sermon: "Two Masters"
+  pdf: 2019/bulletin/2019-09-22-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-09-22-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 09/27/2019
+  title: "Sixteenth Sunday after Pentecost"
+  summary: "Welcome to the house of the Lord. May God's grace and peace fill you today."
+  sermon: "The Voices of Moses and the Prophets"
+  pdf: 2019/bulletin/2019-09-27-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-09-27-WRC-service.mp3
+  type: service
+  latest: true
