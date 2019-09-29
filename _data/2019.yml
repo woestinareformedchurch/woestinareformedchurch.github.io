@@ -1,3 +1,8 @@
+## ============================================================================
+## ============================================================================
+## ============================================================================
+## ============================================================================
+
 - date: 01/01/2019
   title: January 2019 Calendar
   pdf: 2019/calendar/2019-01-01-WRC-calendar.pdf
@@ -7,6 +12,65 @@
   title: January 2019 Newsletter
   pdf: 2019/newsletter/2019-01-01-WRC-newsletter.pdf
   type: newsletter
+
+- date: 02/01/2019
+  title: February 2019 Calendar
+  pdf: 2019/calendar/2019-02-01-WRC-calendar.pdf
+  type: calendar
+  
+- date: 02/01/2019
+  title: February 2019 Newsletter
+  pdf: 2019/newsletter/2019-02-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 03/01/2019
+  title: March 2019 Calendar
+  pdf: 2019/calendar/2019-03-01-WRC-calendar.pdf
+  type: calendar
+  
+- date: 03/01/2019
+  title: March 2019 Newsletter
+  pdf: 2019/newsletter/2019-03-01-WRC-newsletter.pdf
+  type: newsletter
+
+
+- date: 04/01/2019
+  title: April 2019 Calendar
+  pdf: 2019/calendar/2019-04-01-WRC-calendar.pdf
+  type: calendar
+  
+- date: 04/01/2019
+  title: April 2019 Newsletter
+  pdf: 2019/newsletter/2019-04-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 05/01/2019
+  title: May 2019 Calendar
+  pdf: 2019/calendar/2019-05-01-WRC-calendar.pdf
+  type: calendar
+  
+- date: 05/01/2019
+  title: May 2019 Newsletter
+  pdf: 2019/newsletter/2019-05-01-WRC-newsletter.pdf
+  type: newsletter
+
+
+- date: 06/01/2019
+  title: June 2019 Calendar
+  pdf: 2019/calendar/2019-06-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 06/01/2019
+  title: June 2019 Newsletter
+  pdf: 2019/newsletter/2019-06-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
+
+## ============================================================================
+## ============================================================================
+## ============================================================================
+## ============================================================================
 
 - date: 01/06/2019
   title: "Epiphany of the Lord"
@@ -39,16 +103,6 @@
   pdf: 2019/bulletin/2019-01-27-WRC-bulletin.pdf
   mp3: 2019/audio/2019-01-27-WRC-service.mp3
   type: service
-
-- date: 02/01/2019
-  title: February 2019 Calendar
-  pdf: 2019/calendar/2019-02-01-WRC-calendar.pdf
-  type: calendar
-  
-- date: 02/01/2019
-  title: February 2019 Newsletter
-  pdf: 2019/newsletter/2019-02-01-WRC-newsletter.pdf
-  type: newsletter
 
 - date: 02/03/2019
   title: "Fourth Sunday after the Epiphany"
@@ -89,18 +143,6 @@
   mp3: 2019/audio/2019-03-03-WRC-service.mp3
   type: service
 
-## ============================================================================
-
-- date: 03/01/2019
-  title: March 2019 Calendar
-  pdf: 2019/calendar/2019-03-01-WRC-calendar.pdf
-  type: calendar
-  
-- date: 03/01/2019
-  title: March 2019 Newsletter
-  pdf: 2019/newsletter/2019-03-01-WRC-newsletter.pdf
-  type: newsletter
-
 - date: 03/10/2019
   title: "First Sunday in Lent"
   summary: "No bulletin available."
@@ -132,20 +174,6 @@
   pdf: #2019/bulletin/2019-03-24-WRC-bulletin.pdf
   mp3: 2019/audio/2019-03-31-WRC-service.mp3
   type: service
-
-## ============================================================================
-
-- date: 04/01/2019
-  title: April 2019 Calendar
-  pdf: 2019/calendar/2019-04-01-WRC-calendar.pdf
-  type: calendar
-  
-- date: 04/01/2019
-  title: April 2019 Newsletter
-  pdf: 2019/newsletter/2019-04-01-WRC-newsletter.pdf
-  type: newsletter
-
-## ============================================================================
 
 - date: 04/07/2019
   title: "Fifth Sunday in Lent"
@@ -186,20 +214,6 @@
   pdf: 2019/bulletin/2019-05-05-WRC-bulletin.pdf
   mp3: 2019/audio/2019-05-05-WRC-service.mp3
   type: service
-
-  ## ============================================================================
-
-- date: 05/01/2019
-  title: May 2019 Calendar
-  pdf: 2019/calendar/2019-05-01-WRC-calendar.pdf
-  type: calendar
-  
-- date: 05/01/2019
-  title: May 2019 Newsletter
-  pdf: 2019/newsletter/2019-05-01-WRC-newsletter.pdf
-  type: newsletter
-
-## ============================================================================
 
 - date: 05/12/2019
   title: "Fourth Sunday of Easter - Mother's Day"
@@ -243,18 +257,16 @@
   type: service
   latest: true
 
-  ## ============================================================================
-
-- date: 06/01/2019
-  title: June 2019 Calendar
-  pdf: 2019/calendar/2019-06-01-WRC-calendar.pdf
-  type: calendar
-  latest: true
-  
-- date: 06/01/2019
-  title: June 2019 Newsletter
-  pdf: 2019/newsletter/2019-06-01-WRC-newsletter.pdf
-  type: newsletter
+- date: 06/23/2019
+  title: "Second Sunday after Pentecost"
+  summary: "God offers each of us acceptance and love. Let us pass that love to others. In Christ's name, welcome!"
+  sermon: " The Demons Who Preferred Pork"
+  pdf: 2019/bulletin/2019-06-23-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-06-23-WRC-service.mp3
+  type: service
   latest: true
 
 ## ============================================================================
+## SKIPPED JULY & AUGUST
+## ============================================================================
+
