@@ -274,7 +274,16 @@
   type: service
   latest: true
 
+- date: 06/30/2019
+  title: "Fourth Sunday after Pentecost"
+  summary: "As we glorify you, dear Lord, may we know the mercy and strength that come from your fountain of overflowing grace."
+  sermon: "A Lamb and Peace"
+  pdf: 2019/bulletin/2019-07-07-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-06-23-WRC-service.mp3
+  type: service
+  latest: true  
+
 ## ============================================================================
-## SKIPPED JULY & AUGUST
+## SKIPPED AUGUST
 ## ============================================================================
 
