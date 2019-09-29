@@ -286,7 +286,6 @@
   pdf: 2019/bulletin/2019-07-14-WRC-bulletin.pdf
   mp3: #2019/audio/2019-07-14-WRC-service.mp3
   type: service
-  latest: true  
 
 - date: 07/21/2019
   title: "Sixth Sunday after Pentecost"
@@ -295,9 +294,47 @@
   pdf: 2019/bulletin/2019-07-21-WRC-bulletin.pdf
   mp3: #2019/audio/2019-07-21-WRC-service.mp3
   type: service
+
+- date: 07/28/2019
+  title: "Seventh Sunday after Pentecost"
+  summary: "On this day of worship, loving God, may we sense the immeasurable joy that comes from being with You."
+  sermon: "Teach Us to Pray"
+  pdf: 2019/bulletin/2019-07-28-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-07-28-WRC-service.mp3
+  type: service
+
+- date: 08/04/2019
+  title: "Eighth Sunday after Pentecost"
+  summary: "Creator God we ask for renewal only you can supply. Thank you for your grace."
+  sermon: "A Different Perspective"
+  pdf: 2019/bulletin/2019-08-04-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-08-04-WRC-service.mp3
+  type: service
   latest: true  
 
-## ============================================================================
-## SKIPPED AUGUST
-## ============================================================================
+- date: 08/11/2019
+  title: "Ninth Sunday after Pentecost"
+  summary: "Lord, make us mindful of the joy your grace can be to us. Grant us the gift of your presence, we pray."
+  sermon: "Singing and Testimonials"
+  pdf: 2019/bulletin/2019-08-11-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-08-11-WRC-service.mp3
+  type: service
+  latest: true  
 
+- date: 08/18/2019
+  title: "Tenth Sunday after Pentecost"
+  summary: "Lord of us all, may our souls be fully receptive to your message for us here and now."
+  sermon: "Difficult Words"
+  pdf: 2019/bulletin/2019-08-18-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-08-18-WRC-service.mp3
+  type: service
+  latest: true  
+
+- date: 08/25/2019
+  title: "Eleventh Sunday after Pentecost"
+  summary: "Help us, loving Creator, focus intently on your presence in our midst."
+  sermon: "Even If We Will Not Bow Down"
+  pdf: 2019/bulletin/2019-08-25-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-08-25-WRC-service.mp3
+  type: service
+  latest: true  
