@@ -364,7 +364,6 @@
   pdf: 2019/bulletin/2019-09-15-WRC-bulletin.pdf
   mp3: #2019/audio/2019-09-15-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 09/22/2019
   title: "Fifteenth Sunday after Pentecost"
@@ -373,7 +372,6 @@
   pdf: 2019/bulletin/2019-09-22-WRC-bulletin.pdf
   mp3: #2019/audio/2019-09-22-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 09/29/2019
   title: "Sixteenth Sunday after Pentecost"
@@ -381,5 +379,23 @@
   sermon: "The Voices of Moses and the Prophets"
   pdf: 2019/bulletin/2019-09-29-WRC-bulletin.pdf
   mp3: #2019/audio/2019-09-29-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 10/06/2019
+  title: "World Communion Sunday"
+  summary: "Lord, prepare us each to be a sanctuary so our very being may resound in thankfulness and praise today and evermore."
+  sermon: "Have Faith"
+  pdf: 2019/bulletin/2019-10-06-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-10-06-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 10/13/2019
+  title: "Eighteenth Sunday after Pentecost"
+  summary: "Welcome to Workship! Our gracious, all-forgiving God receives you with open arms. May his love strenghten you today."
+  sermon: "Only One Said 'Thank You'"
+  pdf: #2019/bulletin/2019-10-13-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-10-13-WRC-service.mp3
   type: service
   latest: true
