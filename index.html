@@ -26,7 +26,7 @@ pill: home
 
 <div class="row">
     <div class="col-md-6">
-        <div class="jumbotron">
+        <div class="jumbotron container-fluid">
             <h2>{{ heroTitle }}</h2>
             <hr />
             <p>
@@ -39,7 +39,7 @@ pill: home
         </div>
     </div>
     <div class="col-md-6">
-        <div class="jumbotron">
+        <div class="jumbotron container-fluid">
             <h2>Sunday Service</h2>
             <hr />
 			<ul>
@@ -53,10 +53,21 @@ pill: home
     </div>
 </div>
 
+{% if site.data.sundayschool.message %}
+<div class="row">
+    <div class="col-md-12">
+        <div class="page-heading">
+            <h4>Sunday School</h4>
+            <div class="alert alert-info" role="alert">{{ site.data.sundayschool.message }}</div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
 <div class="row">
     <div class="col-md-12">
         <div class="page-header">
-            <h4>Latest Publications</h4>
+            <h4>Publications</h4>
         </div>
     </div>
 </div>
