@@ -380,7 +380,6 @@
   pdf: 2019/bulletin/2019-09-29-WRC-bulletin.pdf
   mp3: #2019/audio/2019-09-29-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 10/06/2019
   title: "World Communion Sunday"
@@ -389,13 +388,38 @@
   pdf: 2019/bulletin/2019-10-06-WRC-bulletin.pdf
   mp3: #2019/audio/2019-10-06-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 10/13/2019
   title: "Eighteenth Sunday after Pentecost"
   summary: "Welcome to Workship! Our gracious, all-forgiving God receives you with open arms. May his love strenghten you today."
   sermon: "Only One Said 'Thank You'"
-  pdf: #2019/bulletin/2019-10-13-WRC-bulletin.pdf
+  pdf: 2019/bulletin/2019-10-13-WRC-bulletin.pdf
   mp3: 2019/audio/2019-10-13-WRC-service.mp3
   type: service
+
+- date: 10/20/2019
+  title: "Nineteenth Sunday after Pentecost"
+  summary: "Gracious God, we praise you for the opportunity to focus on you in worship now. Amen."
+  sermon: "Praying the Real Way"
+  pdf: 2019/bulletin/2019-10-20-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-10-13-WRC-service.mp3
+  type: service
+
+- date: 10/27/2019
+  title: "Reformation Sunday"
+  summary: "Welcome to the house of the Lord! May God's grace and peace fill you today."
+  sermon: "Picking Up Paper"
+  pdf: 2019/bulletin/2019-10-27-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-10-13-WRC-service.mp3
+  type: service
   latest: true
+
+- date: 11/03/2019
+  title: "Twenty-first Sunday after Pentecost"
+  summary: "As brothers and sisters in Christ, we come before you in worship O God. Open our hearts to hear your Word and receive your love."
+  sermon: "Only One Way to Get Lost"
+  pdf: 2019/bulletin/2019-11-03-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-10-13-WRC-service.mp3
+  type: service
+  latest: true
+  
