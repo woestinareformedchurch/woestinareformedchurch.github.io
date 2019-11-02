@@ -73,11 +73,21 @@
   title: October 2019 Calendar
   pdf: 2019/calendar/2019-10-01-WRC-calendar.pdf
   type: calendar
-  latest: true
   
 - date: 10/01/2019
   title: October 2019 Newsletter
   pdf: 2019/newsletter/2019-10-01-WRC-newsletter.pdf
+  type: newsletter
+
+- date: 11/01/2019
+  title: November 2019 Calendar
+  pdf: 2019/calendar/2019-11-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  
+- date: 11/01/2019
+  title: November 2019 Newsletter
+  pdf: 2019/newsletter/2019-11-01-WRC-newsletter.pdf
   type: newsletter
   latest: true
 
