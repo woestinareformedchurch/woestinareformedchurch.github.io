@@ -422,13 +422,30 @@
   pdf: 2019/bulletin/2019-10-27-WRC-bulletin.pdf
   mp3: #2019/audio/2019-10-13-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 11/03/2019
   title: "Twenty-first Sunday after Pentecost"
   summary: "As brothers and sisters in Christ, we come before you in worship O God. Open our hearts to hear your Word and receive your love."
   sermon: "Only One Way to Get Lost"
   pdf: 2019/bulletin/2019-11-03-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-10-13-WRC-service.mp3
+  type: service
+  latest: true
+  
+- date: 11/10/2019
+  title: "Twenty-second Sunday after Pentecost"
+  summary: "Happy are those who seek you, Lord, with their whole heart and walk in your ways (Ps. 119:2-3). May today's worship inspire us to follow that example."
+  sermon: "God of the Living"
+  pdf: 2019/bulletin/2019-11-10-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-11-10-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 11/17/2019
+  title: "Twenty-third Sunday after Pentecost"
+  summary: "“Grace to you and peace from him who is and who was and who is to come” (Rev. 1:4) Welcome to all!"
+  sermon: " I Will Tell You What to Say"
+  pdf: 2019/bulletin/2019-11-17-WRC-bulletin.pdf
   mp3: #2019/audio/2019-10-13-WRC-service.mp3
   type: service
   latest: true
