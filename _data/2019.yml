@@ -438,7 +438,6 @@
   pdf: 2019/bulletin/2019-11-10-WRC-bulletin.pdf
   mp3: 2019/audio/2019-11-10-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 11/17/2019
   title: "Twenty-third Sunday after Pentecost"
@@ -454,6 +453,15 @@
   summary: "Today is Christ the King Sunday. We are here to celebrate the King of Glory! Welcome, Children of the King."
   sermon: "They Called Him 'King'"
   pdf: 2019/bulletin/2019-11-24-WRC-bulletin.pdf
-  mp3: #2019/audio/2019-11-17-WRC-service.mp3
+  mp3: #2019/audio/2019-11-24-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 12/01/2019
+  title: "First Sunday of Advent"
+  summary: "On this first Sunday of Advent, we're glad you have joined us to prepare for Christ's coming. Welcome!"
+  sermon: "Watching and Waiting"
+  pdf: 2019/bulletin/2019-12-01-WRC-bulletin.pdf
+  mp3: #2019/audio/2019-12-01-WRC-service.mp3
   type: service
   latest: true
