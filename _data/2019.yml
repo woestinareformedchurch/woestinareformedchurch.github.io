@@ -455,7 +455,6 @@
   pdf: 2019/bulletin/2019-11-17-WRC-bulletin.pdf
   mp3: 2019/audio/2019-11-17-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 11/24/2019
   title: "Christ the King Sunday"
@@ -472,5 +471,14 @@
   sermon: "Watching and Waiting"
   pdf: 2019/bulletin/2019-12-01-WRC-bulletin.pdf
   mp3: #2019/audio/2019-12-01-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 12/08/2019
+  title: "Second Sunday of Advent"
+  summary: "A voice cries out, 'Prepare the way of the Load!' Help us, O God, prepare our hearts to welcome and worship you."
+  sermon: "Prepare"
+  pdf: #2019/bulletin/2019-12-08-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-12-08-WRC-service.mp3
   type: service
   latest: true
