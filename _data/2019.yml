@@ -463,7 +463,6 @@
   pdf: 2019/bulletin/2019-11-24-WRC-bulletin.pdf
   mp3: #2019/audio/2019-11-24-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 12/01/2019
   title: "First Sunday of Advent"
@@ -480,5 +479,14 @@
   sermon: "Prepare"
   pdf: #2019/bulletin/2019-12-08-WRC-bulletin.pdf
   mp3: 2019/audio/2019-12-08-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 12/15/2019
+  title: "Third Sunday of Advent"
+  summary: "On this third Sunday of Advent, we are glad you've joined us to prepare for Christ's coming. Welcome!"
+  sermon: "Stumbling Over the Manger"
+  pdf: 2019/bulletin/2019-12-15-WRC-bulletin.pdf
+  mp3: 2019/audio/2019-12-15-WRC-service.mp3
   type: service
   latest: true
