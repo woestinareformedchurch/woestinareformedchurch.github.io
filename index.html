@@ -75,7 +75,7 @@ pill: home
 <div class="row">
     <div class="col-md-12">
         <div class="grid">
-            {% assign tileContent = site.data.2019 | sort: "date" %}
+            {% assign tileContent = site.data.2020 | sort: "date" %}
             {% for tile in tileContent reversed %}
               {% if tile.latest %} 
                 {% include grid_item.html %}
