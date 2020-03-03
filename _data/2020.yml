@@ -47,7 +47,6 @@
   pdf: 2020/bulletin/2020-01-05-WRC-bulletin.pdf
   #mp3: 2020/audio/2020-01-05-WRC-service.mp3
   type: service
-  latest: true
 
 - date: 02/09/2020
   title: "February 9, 2020"
@@ -64,5 +63,14 @@
   #sermon: "We Beheld His Glory, Hallelujah!"
   #pdf: 2020/bulletin/2020-01-05-WRC-bulletin.pdf
   mp3: 2020/audio/2020-02-23-WRC-service.mp3
+  type: service
+  latest: true
+
+- date: 03/01/2020
+  title: "March 1, 2020"
+  summary: "March 1, 2020"
+  #sermon: "We Beheld His Glory, Hallelujah!"
+  #pdf: 2020/bulletin/2020-01-05-WRC-bulletin.pdf
+  mp3: 2020/audio/2020-03-01-WRC-service.mp3
   type: service
   latest: true
