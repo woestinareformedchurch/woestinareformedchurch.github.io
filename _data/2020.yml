@@ -49,3 +49,12 @@
   type: service
   latest: true
 
+
+- date: 02/09/2020
+  title: "February 9, 2020"
+  summary: "February 9, 2020"
+  #sermon: "We Beheld His Glory, Hallelujah!"
+  #pdf: 2020/bulletin/2020-01-05-WRC-bulletin.pdf
+  mp3: 2020/audio/2020-02-09-WRC-service.mp3
+  type: service
+  latest: true
