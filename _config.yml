@@ -4,4 +4,4 @@ highlighter: rouge
 
 permalink: /:year/:categories/:year-:month-:day-:title.html
 
-static_url: https://s3.amazonaws.com/static.woestinareformedchurch.org
+static_url: https://s3.amazonaws.com/static.woestinareformedchurch.org/2020

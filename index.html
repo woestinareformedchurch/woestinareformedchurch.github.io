@@ -1,86 +1,49 @@
 ---
 layout: default
-pill: home
+service: 2020-03-21-WRC-service.mp3
+newsletter: 2020-03-01-WRC-newsletter.pdf
 ---
+<header class="jumbotron my-4">
+    <h1 class="display-3">Online Sunday Services</h1>
+    <p class="lead">Woestina is offering abbreviated Sunday services online for our members and neighbors.</p>
+    <a href="{{ site.static_url }}/audio/{{ page.service }}" class="btn btn-primary">Listen to the most recent Service</a>
+</header>
 
-{% assign heroContent = site.data.2020 | sort: "date" %}
-{% for tile in heroContent reversed %}
-    {% if tile.latest %}
-        {% if tile.type == "newsletter" %} 
-            {% capture heroUrl %}https://s3.amazonaws.com/static.woestinareformedchurch.org/{{ tile.pdf }}{% endcapture %}
-            {% capture heroTitle %}{{ tile.title }}{% endcapture %}
-        {% endif %} 
-    {% endif %}
-{% endfor %} 
+<div class="row text-center">
 
-{% if site.data.announce.message %}
-<div class="row">
-    <div class="col-md-12">
-        <div class="page-header">
-            <h4>Announcements</h4>
-            <div class="alert alert-info" role="alert">{{ site.data.announce.message }}</div>
-        </div>
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">March 22, 2020</h4>
+        <p class="card-text">Pastor Kent McHeard delivers the first sermon using the abbreviated online format.</p>
+      </div>
+      <div class="card-footer">
+        <a href="{{ site.static_url }}/audio/{{ page.service }}" class="btn btn-primary">Listen Online</a>
+      </div>
     </div>
-</div>
-{% endif %}
+  </div>
 
-<div class="row">
-    <div class="col-md-6">
-        <div class="jumbotron container-fluid">
-            <h2>{{ heroTitle }}</h2>
-            <hr />
-            <p>
-                The new newsletter is here! Click the button below to read the latest
-                news from Woestina.
-            </p>
-            <p>
-                <a class="btn btn-primary" href="{{ heroUrl }}">View Newsletter</a>
-            </p>
-        </div>
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Newsletter</h4>
+        <p class="card-text">Click the button below to read the current newsletter.</p>
+      </div>
+      <div class="card-footer">
+        <a href="{{ site.static_url }}/newsletter/{{ page.newsletter }}" class="btn btn-primary">Read the Newsletter</a>
+      </div>
     </div>
-    <div class="col-md-6">
-        <div class="jumbotron container-fluid">
-            <h2>Sunday Service</h2>
-            <hr />
-			<ul>
-                <li>Sunday School (children and adult) begins at 9AM</li>
-				<li>Sunday Service begins at 10:30AM</li>
-			</ul>
-			<p>
-				Please come and join us. <strong>Everyone is welcome!</strong> Check the calendar for more information.
-			</p>
-        </div>
-    </div>
-</div>
+  </div>
 
-{% if site.data.sundayschool.message %}
-<div class="row">
-    <div class="col-md-12">
-        <div class="page-heading">
-            <h4>Sunday School</h4>
-            <div class="alert alert-info" role="alert">{{ site.data.sundayschool.message }}</div>
-        </div>
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Contact Us</h4>
+        <p class="card-text font-weight-bold">Woestina Reformed Church</p>
+        <p class="card-text">1397 Main Street<br/>Rotterdam Junction, NY 12150</p>
+        <p class="card-text">Phone: (518) 887-5152</p>
+      </div>
     </div>
-</div>
-{% endif %}
+  </div>
 
-<div class="row">
-    <div class="col-md-12">
-        <div class="page-header">
-            <h4>Publications</h4>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-md-12">
-        <div class="grid">
-            {% assign tileContent = site.data.2020 | sort: "date" %}
-            {% for tile in tileContent reversed %}
-              {% if tile.latest %} 
-                {% include grid_item.html %}
-              {% endif %}
-            {% endfor %} 
-        </div>
-    </div>
 </div>
