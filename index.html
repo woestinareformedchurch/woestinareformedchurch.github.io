@@ -6,7 +6,7 @@ newsletter: 2020-03-01-WRC-newsletter.pdf
 <header class="jumbotron my-4">
     <h1 class="display-3">Online Sunday Services</h1>
     <p class="lead">Woestina is offering abbreviated Sunday services online for our members and neighbors.</p>
-    <a href="{{ site.static_url }}/audio/{{ page.service }}" class="btn btn-primary">Listen to the most recent Service</a>
+    <audio src="{{ site.static_url }}/audio/{{ page.service }}" preload="auto"></audio>
 </header>
 
 <div class="row text-center">
@@ -18,7 +18,7 @@ newsletter: 2020-03-01-WRC-newsletter.pdf
         <p class="card-text">Pastor Kent McHeard delivers the first sermon using the abbreviated online format.</p>
       </div>
       <div class="card-footer">
-        <a href="{{ site.static_url }}/audio/{{ page.service }}" class="btn btn-primary">Listen Online</a>
+        <a href="{{ site.static_url }}/audio/{{ page.service }}" download="{{ page.service }}" target="_blank" class="btn btn-primary">Click to Download Audio</a>
       </div>
     </div>
   </div>
