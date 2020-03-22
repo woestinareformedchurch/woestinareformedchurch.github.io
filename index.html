@@ -6,7 +6,9 @@ newsletter: 2020-03-01-WRC-newsletter.pdf
 <header class="jumbotron my-4">
     <h1 class="display-3">Online Sunday Services</h1>
     <p class="lead">Woestina is offering abbreviated Sunday services online for our members and neighbors.</p>
-    <audio src="{{ site.static_url }}/audio/{{ page.service }}" preload="auto"></audio>
+    <audio controls>
+      <source src="{{ site.static_url }}/audio/{{ page.service }}"/>
+    </audio>
 </header>
 
 <div class="row text-center">
@@ -14,11 +16,8 @@ newsletter: 2020-03-01-WRC-newsletter.pdf
   <div class="col-lg-4 col-md-6 mb-4">
     <div class="card h-100">
       <div class="card-body">
-        <h4 class="card-title">March 22, 2020</h4>
-        <p class="card-text">Pastor Kent McHeard delivers the first sermon using the abbreviated online format.</p>
-      </div>
-      <div class="card-footer">
-        <a href="{{ site.static_url }}/audio/{{ page.service }}" download="{{ page.service }}" target="_blank" class="btn btn-primary">Click to Download Audio</a>
+        <h4 class="card-title">Archives</h4>
+        <a href="{{ site.static_url }}/audio/{{ page.service }}" download="{{ page.service }}" target="_blank" >March 22, 2020</a>
       </div>
     </div>
   </div>
@@ -38,7 +37,7 @@ newsletter: 2020-03-01-WRC-newsletter.pdf
   <div class="col-lg-4 col-md-6 mb-4">
     <div class="card h-100">
       <div class="card-body">
-        <h4 class="card-title">Contact Us</h4>
+        <h4 class="card-title">Contact<h4>
         <p class="card-text font-weight-bold">Woestina Reformed Church</p>
         <p class="card-text">1397 Main Street<br/>Rotterdam Junction, NY 12150</p>
         <p class="card-text">Phone: (518) 887-5152</p>
