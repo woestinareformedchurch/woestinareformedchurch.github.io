@@ -1,10 +1,11 @@
 ---
 layout: default
+recorded: March 29, 2020
 service: 2020-03-29-WRC-service.mp3
 newsletter: 2020-03-01-WRC-newsletter.pdf
 ---
 <header class="jumbotron my-4">
-    <h1 class="display-3">Online Sunday Services</h1>
+    <h1 class="display-3">Services for {{ page.recorded }}</h1>
     <p class="lead">Woestina is offering abbreviated Sunday services online for our members and neighbors.</p>
     <audio controls>
       <source src="{{ site.static_url }}/audio/{{ page.service }}"/>
