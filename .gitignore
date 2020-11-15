@@ -1,3 +1,5 @@
 .vs/
 _site/
 .vscode/
+.idea/
+.jekyll-cache/
