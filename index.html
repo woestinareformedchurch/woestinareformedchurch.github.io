@@ -1,14 +1,13 @@
 ---
 layout: default
-recorded: November 15, 2020
-service: 2020-11-15-WRC-service.mp3
-newsletter: 2020-11-01-WRC-newsletter.pdf
+recorded: November 22, 2020
+newsletter: November 1, 2020
 ---
 <header class="jumbotron my-4">
-    <h1 class="display-3">Services for {{ page.recorded }}</h1>
-    <p class="lead">This week we celebrate the Twenty-Fourth Sunday after Pentecost.</p>
+    <h1 class="display-3">Services for {{ page.recorded | date: "%B %d, %Y" }}</h1>
+    <p class="lead">This week we celebrate the Last Sunday after Pentecost.</p>
     <audio controls>
-      <source src="{{ site.static_url }}/audio/{{ page.service }}"/>
+      <source src='{{ site.static_url }}/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3'/>
     </audio>
 </header>
 
@@ -19,6 +18,7 @@ newsletter: 2020-11-01-WRC-newsletter.pdf
       <h4 class="card-header card-title">Archives</h4>
       <div class="card-body">
         <ul class="list-unstyled">
+          <li><a href="{{ site.static_url }}/audio/2020-11-22-WRC-service.mp3" download="2020-11-22-WRC-service.mp3" target="_blank" >November 22, 2020</a></li>
           <li><a href="{{ site.static_url }}/audio/2020-11-15-WRC-service.mp3" download="2020-11-15-WRC-service.mp3" target="_blank" >November 15, 2020</a></li>
           <li><a href="{{ site.static_url }}/audio/2020-11-08-WRC-service.mp3" download="2020-11-08-WRC-service.mp3" target="_blank" >November 8, 2020</a></li>
           <li><a href="{{ site.static_url }}/audio/2020-11-01-WRC-service.mp3" download="2020-11-01-WRC-service.mp3" target="_blank" >November 1, 2020</a></li>
@@ -83,7 +83,7 @@ newsletter: 2020-11-01-WRC-newsletter.pdf
         </p>
       </div>
       <div class="card-footer">
-        <a href="{{ site.static_url }}/newsletter/{{ page.newsletter }}" class="btn btn-primary">Read the latest Newsletter</a>
+        <a href='{{ site.static_url }}/newsletter/{{ page.newsletter | date: "%Y-%m-%d"}}-WRC-newsletter.pdf' class="btn btn-primary">Read the latest Newsletter</a>
       </div>
     </div>
   </div>
