@@ -1,14 +1,14 @@
 ---
 layout: default
 recorded: November 22, 2020
-newsletter: November 1, 2020
+newsletter: December 1, 2020
 ---
 <header class="jumbotron my-4">
-    <h1 class="display-3">Services for {{ page.recorded | date: "%B %d, %Y" }}</h1>
-    <p class="lead">This week we celebrate the Last Sunday after Pentecost.</p>
-    <audio controls>
-      <source src='{{ site.static_url }}/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3'/>
-    </audio>
+  <h1 class="display-3">Services for {{ page.recorded | date: "%B %d, %Y" }}</h1>
+  <p class="lead">This week we celebrate the Last Sunday after Pentecost.</p>
+  <audio controls>
+    <source src='{{ site.static_url }}/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3' />
+  </audio>
 </header>
 
 <div class="row text-center">
@@ -17,86 +17,203 @@ newsletter: November 1, 2020
     <div class="card h-100">
       <h4 class="card-header card-title">Archives</h4>
       <div class="card-body">
-        <ul class="list-unstyled">
-          <li><a href="{{ site.static_url }}/audio/2020-11-22-WRC-service.mp3" download="2020-11-22-WRC-service.mp3" target="_blank" >November 22, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-11-15-WRC-service.mp3" download="2020-11-15-WRC-service.mp3" target="_blank" >November 15, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-11-08-WRC-service.mp3" download="2020-11-08-WRC-service.mp3" target="_blank" >November 8, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-11-01-WRC-service.mp3" download="2020-11-01-WRC-service.mp3" target="_blank" >November 1, 2020</a></li>
 
-          <li><a href="{{ site.static_url }}/audio/2020-10-25-WRC-service.mp3" download="2020-10-25-WRC-service.mp3" target="_blank" >October 25, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-10-18-WRC-service.mp3" download="2020-10-18-WRC-service.mp3" target="_blank" >October 18, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-10-11-WRC-service.mp3" download="2020-10-11-WRC-service.mp3" target="_blank" >October 11, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-10-04-WRC-service.mp3" download="2020-10-04-WRC-service.mp3" target="_blank" >October 4, 2020</a></li>
 
-          <li><a href="{{ site.static_url }}/audio/2020-09-20-WRC-service.mp3" download="2020-09-20-WRC-service.mp3" target="_blank" >September 20, 2020</a> (<a href="{{ site.static_url }}/audio/2020-09-20-WRC-service-amp.mp3" download="2020-09-20-WRC-service-amp.mp3" target="_blank">amplified</a>)</li>
-          <li><a href="{{ site.static_url }}/audio/2020-09-13-WRC-service.mp3" download="2020-09-13-WRC-service.mp3" target="_blank" >September 13, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-09-06-WRC-service.mp3" download="2020-09-06-WRC-service.mp3" target="_blank" >September 6, 2020</a></li>
+        <div class="accordion" id="accordionExample">
+          <div class="card">
+            <div class="card-header" id="headingNovember">
+              <h2 class="mb-0">
+                <button class="btn btn-link btn-block type=" button" data-toggle="collapse"
+                  data-target="#collapseNovember" aria-expanded="true" aria-controls="collapseOne">
+                  November
+                </button>
+              </h2>
+            </div>
+            <div id="collapseNovember" class="collapse show" aria-labelledby="headingOne"
+              data-parent="#accordionExample">
+              <div class="card-body">
+                <ul class="list-unstyled">
+                  <li><a href="{{ site.static_url }}/audio/2020-11-22-WRC-service.mp3"
+                      download="2020-11-22-WRC-service.mp3" target="_blank">November 22, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-11-15-WRC-service.mp3"
+                      download="2020-11-15-WRC-service.mp3" target="_blank">November 15, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-11-08-WRC-service.mp3"
+                      download="2020-11-08-WRC-service.mp3" target="_blank">November 8, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-11-01-WRC-service.mp3"
+                      download="2020-11-01-WRC-service.mp3" target="_blank">November 1, 2020</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
 
-          <li><a href="{{ site.static_url }}/audio/2020-08-30-WRC-service.mp3" download="2020-08-30-WRC-service.mp3" target="_blank" >August 30, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-08-23-WRC-service.mp3" download="2020-08-23-WRC-service.mp3" target="_blank" >August 23, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-08-16-WRC-service.mp3" download="2020-08-16-WRC-service.mp3" target="_blank" >August 16, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-08-02-WRC-service.mp3" download="2020-08-02-WRC-service.mp3" target="_blank" >August 2, 2020</a></li>
+          <div class="card">
+            <div class="card-header" id="headingOctober">
+                <button class="btn btn-link btn-block collapsed" type="button" data-toggle="collapse"
+                  data-target="#collapseOctober" aria-expanded="false" aria-controls="collapseTwo">
+                  October
+                </button>
+            </div>
+            <div id="collapseOctober" class="collapse" aria-labelledby="headingOctober" data-parent="#accordionExample">
+              <div class="card-body">
+                <ul class="list-unstyled">
+                  <li><a href="{{ site.static_url }}/audio/2020-10-25-WRC-service.mp3"
+                      download="2020-10-25-WRC-service.mp3" target="_blank">October 25, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-10-18-WRC-service.mp3"
+                      download="2020-10-18-WRC-service.mp3" target="_blank">October 18, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-10-11-WRC-service.mp3"
+                      download="2020-10-11-WRC-service.mp3" target="_blank">October 11, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-10-04-WRC-service.mp3"
+                      download="2020-10-04-WRC-service.mp3" target="_blank">October 4, 2020</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
 
-          <li><a href="{{ site.static_url }}/audio/2020-07-12-WRC-service.mp3" download="2020-07-12-WRC-service.mp3" target="_blank" >July 12, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-07-05-WRC-service.mp3" download="2020-07-05-WRC-service.mp3" target="_blank" >July 7, 2020</a></li>
+          <div class="card">
+            <div class="card-header" id="headingSeptember">
+              <h2 class="mb-0">
+                <button class="btn btn-link btn-block collapsed" type="button" data-toggle="collapse"
+                  data-target="#collapseSeptember" aria-expanded="false" aria-controls="collapseTwo">
+                  September
+                </button>
+              </h2>
+            </div>
+            <div id="collapseSeptember" class="collapse" aria-labelledby="headingSeptember"
+              data-parent="#accordionExample">
+              <div class="card-body">
+                <ul class="list-unstyled">
+                  <li><a href="{{ site.static_url }}/audio/2020-09-20-WRC-service.mp3"
+                      download="2020-09-20-WRC-service.mp3" target="_blank">September 20, 2020</a> (<a
+                      href="{{ site.static_url }}/audio/2020-09-20-WRC-service-amp.mp3"
+                      download="2020-09-20-WRC-service-amp.mp3" target="_blank">amplified</a>)</li>
+                  <li><a href="{{ site.static_url }}/audio/2020-09-13-WRC-service.mp3"
+                      download="2020-09-13-WRC-service.mp3" target="_blank">September 13, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-09-06-WRC-service.mp3"
+                      download="2020-09-06-WRC-service.mp3" target="_blank">September 6, 2020</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
 
-          <li><a href="{{ site.static_url }}/audio/2020-06-28-WRC-service.mp3" download="2020-06-28-WRC-service.mp3" target="_blank" >June 28, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-06-21-WRC-service.mp3" download="2020-06-21-WRC-service.mp3" target="_blank" >June 21, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-06-14-WRC-service.mp3" download="2020-06-14-WRC-service.mp3" target="_blank" >June 14, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-06-07-WRC-service.mp3" download="2020-06-07-WRC-service.mp3" target="_blank" >June 7, 2020</a></li>
+          <div class="card">
+            <div class="card-header" id="headingSummer">
+              <h2 class="mb-0">
+                <button class="btn btn-link btn-block collapsed" type="button" data-toggle="collapse"
+                  data-target="#collapseSummer" aria-expanded="false" aria-controls="collapseTwo">
+                  Summer 2020
+                </button>
+              </h2>
+            </div>
+            <div id="collapseSummer" class="collapse" aria-labelledby="headingSummer" data-parent="#accordionExample">
+              <div class="card-body">
+                <ul class="list-unstyled">
+                  <li><a href="{{ site.static_url }}/audio/2020-08-30-WRC-service.mp3"
+                      download="2020-08-30-WRC-service.mp3" target="_blank">August 30, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-08-23-WRC-service.mp3"
+                      download="2020-08-23-WRC-service.mp3" target="_blank">August 23, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-08-16-WRC-service.mp3"
+                      download="2020-08-16-WRC-service.mp3" target="_blank">August 16, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-08-02-WRC-service.mp3"
+                      download="2020-08-02-WRC-service.mp3" target="_blank">August 2, 2020</a></li>
+                      <li><a href="{{ site.static_url }}/audio/2020-07-12-WRC-service.mp3"
+                        download="2020-07-12-WRC-service.mp3" target="_blank">July 12, 2020</a></li>
+                    <li><a href="{{ site.static_url }}/audio/2020-07-05-WRC-service.mp3"
+                        download="2020-07-05-WRC-service.mp3" target="_blank">July 7, 2020</a></li>
+                        <li><a href="{{ site.static_url }}/audio/2020-06-28-WRC-service.mp3"
+                          download="2020-06-28-WRC-service.mp3" target="_blank">June 28, 2020</a></li>
+                      <li><a href="{{ site.static_url }}/audio/2020-06-21-WRC-service.mp3"
+                          download="2020-06-21-WRC-service.mp3" target="_blank">June 21, 2020</a></li>
+                      <li><a href="{{ site.static_url }}/audio/2020-06-14-WRC-service.mp3"
+                          download="2020-06-14-WRC-service.mp3" target="_blank">June 14, 2020</a></li>
+                      <li><a href="{{ site.static_url }}/audio/2020-06-07-WRC-service.mp3"
+                          download="2020-06-07-WRC-service.mp3" target="_blank">June 7, 2020</a></li>
+                  </ul>
+              </div>
+            </div>
+          </div>
 
-          <li><a href="{{ site.static_url }}/audio/2020-05-31-WRC-service.mp3" download="2020-05-31-WRC-service.mp3" target="_blank" >May 31, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-05-24-WRC-service.mp3" download="2020-05-24-WRC-service.mp3" target="_blank" >May 24, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-05-17-WRC-service.mp3" download="2020-05-17-WRC-service.mp3" target="_blank" >May 17, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-05-10-WRC-service.mp3" download="2020-05-10-WRC-service.mp3" target="_blank" >May 10, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-05-03-WRC-service.mp3" download="2020-05-03-WRC-service.mp3" target="_blank" >May 3, 2020</a></li>
+          <div class="card">
+            <div class="card-header" id="headingSpring">
+              <h2 class="mb-0">
+                <button class="btn btn-link btn-block collapsed" type="button" data-toggle="collapse"
+                  data-target="#collapseSpring" aria-expanded="false" aria-controls="collapseTwo">
+                  Spring 2020
+                </button>
+              </h2>
+            </div>
+            <div id="collapseSpring" class="collapse" aria-labelledby="headingSpring" data-parent="#accordionExample">
+              <div class="card-body">
+                <ul class="list-unstyled">
+                  <li><a href="{{ site.static_url }}/audio/2020-05-31-WRC-service.mp3"
+                      download="2020-05-31-WRC-service.mp3" target="_blank">May 31, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-05-24-WRC-service.mp3"
+                      download="2020-05-24-WRC-service.mp3" target="_blank">May 24, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-05-17-WRC-service.mp3"
+                      download="2020-05-17-WRC-service.mp3" target="_blank">May 17, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-05-10-WRC-service.mp3"
+                      download="2020-05-10-WRC-service.mp3" target="_blank">May 10, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-05-03-WRC-service.mp3"
+                      download="2020-05-03-WRC-service.mp3" target="_blank">May 3, 2020</a></li>
+                      <li><a href="{{ site.static_url }}/audio/2020-04-26-WRC-service.mp3"
+                        download="2020-04-26-WRC-service.mp3" target="_blank">April 26, 2020</a></li>
+                    <li><a href="{{ site.static_url }}/audio/2020-04-19-WRC-service.mp3"
+                        download="2020-04-19-WRC-service.mp3" target="_blank">April 19, 2020</a></li>
+                    <li><a href="{{ site.static_url }}/audio/2020-04-12-WRC-service.mp3"
+                        download="2020-04-12-WRC-service.mp3" target="_blank">April 12, 2020</a></li>
+                    <li><a href="{{ site.static_url }}/audio/2020-04-05-WRC-service.mp3"
+                        download="2020-04-05-WRC-service.mp3" target="_blank">April 5, 2020</a></li>
+                    <li><a href="{{ site.static_url }}/audio/2020-03-29-WRC-service.mp3"
+                      download="2020-03-29-WRC-service.mp3" target="_blank">March 29, 2020</a></li>
+                    <li><a href="{{ site.static_url }}/audio/2020-03-22-WRC-service.mp3"
+                      download="2020-03-22-WRC-service.mp3" target="_blank">March 22, 2020</a></li>
+                    </ul>
+                  </ul>
+              </div>
+            </div>
+          </div>
 
-          <li><a href="{{ site.static_url }}/audio/2020-04-26-WRC-service.mp3" download="2020-04-26-WRC-service.mp3" target="_blank" >April 26, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-04-19-WRC-service.mp3" download="2020-04-19-WRC-service.mp3" target="_blank" >April 19, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-04-12-WRC-service.mp3" download="2020-04-12-WRC-service.mp3" target="_blank" >April 12, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-04-05-WRC-service.mp3" download="2020-04-05-WRC-service.mp3" target="_blank" >April 5, 2020</a></li>
 
-          <li><a href="{{ site.static_url }}/audio/2020-03-29-WRC-service.mp3" download="2020-03-29-WRC-service.mp3" target="_blank" >March 29, 2020</a></li>
-          <li><a href="{{ site.static_url }}/audio/2020-03-22-WRC-service.mp3" download="2020-03-22-WRC-service.mp3" target="_blank" >March 22, 2020</a></li>
-        </ul>
+        </div>
       </div>
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 mb-4">
-    <div class="card h-100">
-      <h4 class="card-header card-title">Newsletters</h4>
-      <div class="card-body">
-        <ul class="list-unstyled">
-          <li><a href="{{ site.static_url }}/newsletter/2020-11-01-WRC-newsletter.pdf">November 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-10-01-WRC-newsletter.pdf">October 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-09-01-WRC-newsletter.pdf">September 2020</a></li>
-          <li><a title="The newsletter is not published during the summer months.">August 2020</a></li>
-          <li><a title="The newsletter is not published during the summer months.">July 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-06-01-WRC-newsletter.pdf">June 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-05-01-WRC-newsletter.pdf">May 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-04-01-WRC-newsletter.pdf">April 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-03-01-WRC-newsletter.pdf">March 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-02-01-WRC-newsletter.pdf">February 2020</a></li>
-          <li><a href="{{ site.static_url }}/newsletter/2020-01-01-WRC-newsletter.pdf">January 2020</a></li>
-        </ul>
-        </p>
-      </div>
-      <div class="card-footer">
-        <a href='{{ site.static_url }}/newsletter/{{ page.newsletter | date: "%Y-%m-%d"}}-WRC-newsletter.pdf' class="btn btn-primary">Read the latest Newsletter</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-md-6 mb-4">
-    <div class="card h-100">
-      <h4 class="card-header card-title">Contact<h4>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <h4 class="card-header card-title">Newsletters</h4>
         <div class="card-body">
-        <p class="card-text font-weight-bold">Woestina Reformed Church</p>
-        <p class="card-text">1397 Main Street<br/>P.O. Box 420<br/>Rotterdam Junction, NY 12150</p>
-        <p class="card-text">Phone: (518) 887-5152</p>
+          <ul class="list-unstyled">
+            <li><a href="{{ site.static_url }}/newsletter/2020-12-01-WRC-newsletter.pdf">December 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-11-01-WRC-newsletter.pdf">November 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-10-01-WRC-newsletter.pdf">October 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-09-01-WRC-newsletter.pdf">September 2020</a></li>
+            <li><a title="The newsletter is not published during the summer months.">August 2020</a></li>
+            <li><a title="The newsletter is not published during the summer months.">July 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-06-01-WRC-newsletter.pdf">June 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-05-01-WRC-newsletter.pdf">May 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-04-01-WRC-newsletter.pdf">April 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-03-01-WRC-newsletter.pdf">March 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-02-01-WRC-newsletter.pdf">February 2020</a></li>
+            <li><a href="{{ site.static_url }}/newsletter/2020-01-01-WRC-newsletter.pdf">January 2020</a></li>
+          </ul>
+          </p>
+        </div>
+        <div class="card-footer">
+          <a href='{{ site.static_url }}/newsletter/{{ page.newsletter | date: "%Y-%m-%d"}}-WRC-newsletter.pdf'
+            class="btn btn-primary">Read the latest Newsletter</a>
+        </div>
       </div>
     </div>
-  </div>
 
-</div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <h4 class="card-header card-title">Contact<h4>
+            <div class="card-body">
+              <p class="card-text font-weight-bold">Woestina Reformed Church</p>
+              <p class="card-text">1397 Main Street<br />P.O. Box 420<br />Rotterdam Junction, NY 12150</p>
+              <p class="card-text">Phone: (518) 887-5152</p>
+            </div>
+      </div>
+    </div>
+
+  </div>
