@@ -5,8 +5,8 @@ day: First Sunday of Advent
 newsletter: December 1, 2020
 ---
 <header class="jumbotron my-4">
-  <h1 class="display-3">Services for {{ page.recorded | date: "%B %d, %Y" }}</h1>
-  <p class="lead">This week we celebrate the {{ page.day }}.</p>
+  <h1 class="display-3">{{ page.day }}</h1>
+  <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
   <audio controls>
     <source src='{{ site.static_url }}/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3' />
   </audio>
