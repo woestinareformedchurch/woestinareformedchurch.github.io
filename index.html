@@ -1,7 +1,7 @@
 ---
 layout: default
-recorded: November 29, 2020
-day: First Sunday of Advent
+recorded: December 6, 2020
+day: Second Sunday of Advent
 newsletter: December 1, 2020
 ---
 <header class="jumbotron my-4">
@@ -18,13 +18,31 @@ newsletter: December 1, 2020
     <div class="card h-100">
       <h4 class="card-header card-title">Archives</h4>
       <div class="card-body">
-
-
         <div class="accordion" id="accordionExample">
+
+          <div class="card">
+            <div class="card-header" id="headingDecember">
+              <h2 class="mb-0">
+                <button class="btn btn-link btn-block" type="button" data-toggle="collapse"
+                  data-target="#collapseDecember" aria-expanded="true" aria-controls="collapseOne">
+                  December
+                </button>
+              </h2>
+            </div>
+            <div id="collapseDecember" class="collapse show" aria-labelledby="headingOne"
+              data-parent="#accordionExample">
+              <div class="card-body">
+                <ul class="list-unstyled">
+                  <li><a href="{{ site.static_url }}/audio/2020-12-06-WRC-service.mp3" download="2020-11-29-WRC-service.mp3" target="_blank">December 6, 2020</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
           <div class="card">
             <div class="card-header" id="headingNovember">
               <h2 class="mb-0">
-                <button class="btn btn-link btn-block type=" button" data-toggle="collapse"
+                <button class="btn btn-link btn-block collapsed" type="button" data-toggle="collapse"
                   data-target="#collapseNovember" aria-expanded="true" aria-controls="collapseOne">
                   November
                 </button>
@@ -174,7 +192,6 @@ newsletter: December 1, 2020
               </div>
             </div>
           </div>
-
 
         </div>
       </div>
