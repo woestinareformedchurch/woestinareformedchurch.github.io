@@ -1,16 +1,23 @@
 ---
 layout: default
-recorded: December 6, 2020
-day: Second Sunday of Advent
+recorded: December 13, 2020
+day: Third Sunday of Advent
 newsletter: December 1, 2020
 ---
-<header class="jumbotron my-4">
-  <h1 class="display-3">{{ page.day }}</h1>
-  <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
-  <audio controls>
-    <source src='{{ site.static_url }}/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3' />
-  </audio>
-</header>
+<div class="row">
+  <div class="col-md-6 col-sm-12">   
+    <header class="jumbotron my-4">
+      <h2 class="display-4">{{ page.day }}</h2>
+      <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
+      <audio controls>
+        <source src='{{ site.static_url }}/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3' />
+      </audio>
+    </header>
+  </div>
+  <div class="col-md-6 col-sm-12">
+    <img style="margin-top: 27px;" class="img-fluid rounded" src='img/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-sign.png' alt="Church Service Sign"/>
+  </div>
+</div>
 
 <div class="row text-center">
 
@@ -33,7 +40,8 @@ newsletter: December 1, 2020
               data-parent="#accordionExample">
               <div class="card-body">
                 <ul class="list-unstyled">
-                  <li><a href="{{ site.static_url }}/audio/2020-12-06-WRC-service.mp3" download="2020-11-29-WRC-service.mp3" target="_blank">December 6, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-12-13-WRC-service.mp3" download="2020-13-29-WRC-service.mp3" target="_blank">December 13, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-12-06-WRC-service.mp3" download="2020-12-06-WRC-service.mp3" target="_blank">December 6, 2020</a></li>
                 </ul>
               </div>
             </div>
@@ -43,13 +51,12 @@ newsletter: December 1, 2020
             <div class="card-header" id="headingNovember">
               <h2 class="mb-0">
                 <button class="btn btn-link btn-block collapsed" type="button" data-toggle="collapse"
-                  data-target="#collapseNovember" aria-expanded="true" aria-controls="collapseOne">
+                  data-target="#collapseNovember" aria-expanded="true" aria-controls="collapseNovember">
                   November
                 </button>
               </h2>
             </div>
-            <div id="collapseNovember" class="collapse show" aria-labelledby="headingOne"
-              data-parent="#accordionExample">
+            <div id="collapseNovember" class="collapse" aria-labelledby="collapseNovember" data-parent="#accordionExample">
               <div class="card-body">
                 <ul class="list-unstyled">
                   <li><a href="{{ site.static_url }}/audio/2020-11-29-WRC-service.mp3"
