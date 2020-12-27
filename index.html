@@ -1,23 +1,24 @@
 ---
 layout: default
-recorded: December 20, 2020
-day: Fourth Sunday of Advent
+recorded: December 27, 2020
+day: First Sunday after Christmas
 newsletter: December 1, 2020
 ---
-<div class="row">
-  <div class="col-md-6 col-sm-12">   
-    <header class="jumbotron my-4">
+
+<header class="jumbotron my-4">
+  <div class="row">
+    <div class="col-md-6 col-sm-12">   
       <h2 class="display-4">{{ page.day }}</h2>
       <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
       <audio controls>
         <source src='{{ site.static_url }}/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3' />
       </audio>
-    </header>
+    </div>
+    <div class="col-md-6 col-sm-12">   
+      <img __style="margin-top: 25px;" class="img-fluid rounded" src='img/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-sign.png' alt="Church Service Sign"/>
+    </div>
   </div>
-  <div class="col-md-6 col-sm-12">
-    <img style="margin-top: 27px;" class="img-fluid rounded" src='img/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-sign.png' alt="Church Service Sign"/>
-  </div>
-</div>
+</header>
 
 <div class="row text-center">
 
@@ -40,7 +41,8 @@ newsletter: December 1, 2020
               data-parent="#accordionExample">
               <div class="card-body">
                 <ul class="list-unstyled">
-                  <li><a href="{{ site.static_url }}/audio/2020-12-20-WRC-service.mp3" download="2020-12-30-WRC-service.mp3" target="_blank">December 20, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-12-27-WRC-service.mp3" download="2020-12-27-WRC-service.mp3" target="_blank">December 27, 2020</a></li>
+                  <li><a href="{{ site.static_url }}/audio/2020-12-20-WRC-service.mp3" download="2020-12-20-WRC-service.mp3" target="_blank">December 20, 2020</a></li>
                   <li><a href="{{ site.static_url }}/audio/2020-12-13-WRC-service.mp3" download="2020-12-13-WRC-service.mp3" target="_blank">December 13, 2020</a></li>
                   <li><a href="{{ site.static_url }}/audio/2020-12-06-WRC-service.mp3" download="2020-12-06-WRC-service.mp3" target="_blank">December 6, 2020</a></li>
                 </ul>
