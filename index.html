@@ -1,7 +1,7 @@
 ---
 layout: default
-recorded: December 27, 2020
-day: First Sunday after Christmas
+recorded: January 3, 2021
+day: Second Sunday after Christmas
 newsletter: January 1, 2021
 ---
 
@@ -15,7 +15,7 @@ newsletter: January 1, 2021
       </audio>
     </div>
     <div class="col-md-6 col-sm-12">   
-      <img __style="margin-top: 25px;" class="img-fluid rounded" src='img/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-sign.png' alt="Church Service Sign"/>
+      <img __style="margin-top: 25px;" class="img-fluid rounded" src='img/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-sign.jpg' alt="Church Service Sign"/>
     </div>
   </div>
 </header>
@@ -29,6 +29,25 @@ newsletter: January 1, 2021
         <div class="accordion" id="accordionExample">
 
           <div class="card">
+            <div class="card-header" id="headingJanuary">
+              <h2 class="mb-0">
+                <button class="btn btn-link btn-block" type="button" data-toggle="collapse"
+                  data-target="#collapseJanuary" aria-expanded="true" aria-controls="collapseOne">
+                  January
+                </button>
+              </h2>
+            </div>
+            <div id="collapseJanuary" class="collapse show" aria-labelledby="headingOne"
+              data-parent="#accordionExample">
+              <div class="card-body">
+                <ul class="list-unstyled">
+                  <li><a href="{{ site.static_url }}/2021/audio/2021-01-03-WRC-service.mp3" download="2021-01-03-WRC-service.mp3" target="_blank">January 3, 2021</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
             <div class="card-header" id="headingDecember">
               <h2 class="mb-0">
                 <button class="btn btn-link btn-block" type="button" data-toggle="collapse"
@@ -37,7 +56,7 @@ newsletter: January 1, 2021
                 </button>
               </h2>
             </div>
-            <div id="collapseDecember" class="collapse show" aria-labelledby="headingOne"
+            <div id="collapseDecember" class="collapse" aria-labelledby="headingOne"
               data-parent="#accordionExample">
               <div class="card-body">
                 <ul class="list-unstyled">
