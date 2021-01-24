@@ -1,0 +1,20 @@
+<div class="card">
+    <div class="card-header" id="heading{{ month }}">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block" type="button" data-toggle="collapse" data-target="#collapse{{ month }}" aria-expanded="true" aria-controls="collapse{{ month }}">
+          {{ month }}
+        </button>
+      </h2>
+    </div>
+    <div id="collapse{{ month }}" class="collapse show" aria-labelledby="heading{{ month }}" data-parent="#accordionExample">
+      <div class="card-body">
+
+        <ul class="list-unstyled">
+            {% for service in services reversed %} 
+            <li><a href='{{ site.static_url }}/{{ year }}/audio/{{ service.date | date: "%Y-%m-%d" }}-WRC-service.mp3' download='{{ service.date | date: "%Y-%m-%d" }}-service.mp3' target="_blank">{{ service.date }}</a></li>
+          {% endfor %}
+        </ul>
+
+      </div>
+    </div>
+  </div>

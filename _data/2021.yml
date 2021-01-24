@@ -1,0 +1,14 @@
+services:
+  january:
+    - date: January 3, 2021
+      title: Second Sunday after Christmas
+      mp3: true
+    - date: January 10, 2021
+      title: First Sunday After the Epiphany
+      mp3: true
+    - date: January 17, 2021
+      title: Second Sunday After the Epiphany
+      mp3: true
+    - date: January 24, 2021
+      title: Third Sunday After the Epiphany
+      mp3: true
