@@ -21,21 +21,41 @@ newsletter: January 1, 2021
   </div>
 </header>
 
+{% if site.data.sundayschool.enabled %}
 <div class="row">
-  <div class="col-12">
+  <div class="col-6">
     <div class="card">
+      <h4 class="card-header card-title text-center">Sunday School</h4>
       <div class="card-body">
-        <h5 class="card-title">Sunday School 2020 Christmas Program</h5>
-        <p>Listen to the Sunday School Christmas program <b>A New Star!</b>!</p>
+
+        <h5 class="card-title">{{ site.data.sundayschool.title }}</h5>
+        <p>{{ site.data.sundayschool.body }}</p>
+        {% if site.data.sundayschool.audio %} 
         <audio controls>
           <source src="{{ site.static_url }}/2020/audio/2020-WRC-NewStarChristmasProgram.mp3" />
         </audio>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+
+  <div class="col-6">
+    <div class="card h-100">
+      <h4 class="card-header card-title text-center">Church Service</h4>
+      <div class="card-body">
+
+        <ul class="list-unstyled">
+          <li class="card-text font-weight-bold">Sunday Service begins at 10:30am</li>
+          <li class="card-text">Listen on the radio at 87.3 FM</li>
+        </ul>
+
       </div>
     </div>
   </div>
 </div>
-
 <br/>
+{% endif %}
 
 <div class="row text-center">
 
