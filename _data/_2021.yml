@@ -15,3 +15,14 @@ services:
     - date: January 31, 2021
       title: Fourth Sunday After the Epiphany
       mp3: true
+  february:
+    - date: February 7, 2021
+      title: Fifth Sunday after the Epiphany
+      mp3: false
+    - date: February 14, 2021
+      title: Transfiguration Sunday
+      mp3: true
+    - date: February 21, 2021
+      title: First Sunday in Lent
+      mp3: true
+      
