@@ -1,7 +1,7 @@
 ---
 layout: default
-recorded: February 28, 2021
-day: Second Sunday in Lent
+recorded: March 7, 2021
+day: Third Sunday in Lent
 newsletter: February 1, 2021
 ---
 
@@ -66,9 +66,15 @@ newsletter: February 1, 2021
         <div class="accordion" id="accordionExample">
 
           {% assign year = "2021" %}
+          {% assign month = "March" %}
+          {% assign services = site.data._2021.services.march %}
+          {% assign open = true %}
+          {% include services.html %}
+
+          {% assign year = "2021" %}
           {% assign month = "February" %}
           {% assign services = site.data._2021.services.february %}
-          {% assign open = true %}
+          {% assign open = false %}
           {% include services.html %}
 
           {% assign year = "2021" %}
