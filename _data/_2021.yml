@@ -41,3 +41,7 @@ services:
     - date: March 28, 2021
       title: Fourth Sunday in Lent
       mp3: true
+  april:
+    - date: April 4, 2021
+      title: "Easter: Resurrection of the Lord"
+      mp3: true

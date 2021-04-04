@@ -1,7 +1,7 @@
 ---
 layout: default
-recorded: March 28, 2021
-day: Palm/Passion Sunday
+recorded: April 4, 2021
+day: "Easter: Resurrection of the Lord"
 newsletter: March 1, 2021
 ---
 
@@ -66,9 +66,15 @@ newsletter: March 1, 2021
         <div class="accordion" id="accordionExample">
 
           {% assign year = "2021" %}
+          {% assign month = "April" %}
+          {% assign services = site.data._2021.services.april %}
+          {% assign open = true %}
+          {% include services.html %}
+
+          {% assign year = "2021" %}
           {% assign month = "March" %}
           {% assign services = site.data._2021.services.march %}
-          {% assign open = true %}
+          {% assign open = false %}
           {% include services.html %}
 
           {% assign year = "2021" %}
