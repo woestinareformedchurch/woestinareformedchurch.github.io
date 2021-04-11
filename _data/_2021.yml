@@ -45,3 +45,6 @@ services:
     - date: April 4, 2021
       title: "Easter: Resurrection of the Lord"
       mp3: true
+    - date: April 11, 2021
+      title: "Second Sunday of Easter"
+      mp3: true
