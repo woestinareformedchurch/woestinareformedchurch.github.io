@@ -51,3 +51,6 @@ services:
     - date: April 18, 2021
       title: "Third Sunday of Easter"
       mp3: true
+    - date: April 25, 2021
+      title: "Fourth Sunday of Easter"
+      mp3: true
