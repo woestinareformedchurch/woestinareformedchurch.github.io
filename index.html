@@ -65,6 +65,12 @@ newsletter: May 1, 2021
         <div class="accordion" id="accordionExample">
 
           {% assign year = "2021" %}
+          {% assign month = "May" %}
+          {% assign services = site.data._2021.services.may %}
+          {% assign open = true %}
+          {% include services.html %}
+
+          {% assign year = "2021" %}
           {% assign month = "April" %}
           {% assign services = site.data._2021.services.april %}
           {% assign open = true %}
