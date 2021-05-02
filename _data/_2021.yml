@@ -54,3 +54,7 @@ services:
     - date: April 25, 2021
       title: "Fourth Sunday of Easter"
       mp3: true
+  may:
+    - date: May 2, 2021
+      title: "Fifth Sunday of Easter"
+      mp3: true

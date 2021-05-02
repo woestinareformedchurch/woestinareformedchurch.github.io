@@ -1,12 +1,12 @@
 ---
 layout: default
-recorded: April 25, 2021
-newsletter: April 1, 2021
+recorded: May 2, 2021
+newsletter: May 1, 2021
 ---
 <header class="jumbotron my-4">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      {% assign last_service = site.data._2021.services.april | last %}
+      {% assign last_service = site.data._2021.services.may | last %}
       <h2 class="display-4">{{ last_service.title }}</h2>
       <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
       <audio controls>
@@ -208,6 +208,7 @@ newsletter: April 1, 2021
       <h4 class="card-header card-title">Newsletters</h4>
       <div class="card-body">
         <ul class="list-unstyled">
+          <li><a href="{{ site.static_url }}/2021/newsletter/2021-05-01-WRC-newsletter.pdf">May 2021</a></li>
           <li><a href="{{ site.static_url }}/2021/newsletter/2021-04-01-WRC-newsletter.pdf">April 2021</a></li>
           <li><a href="{{ site.static_url }}/2021/newsletter/2021-03-01-WRC-newsletter.pdf">March 2021</a></li>
           <li><a href="{{ site.static_url }}/2021/newsletter/2021-02-01-WRC-newsletter.pdf">February 2021</a></li>
