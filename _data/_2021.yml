@@ -58,3 +58,6 @@ services:
     - date: May 2, 2021
       title: "Fifth Sunday of Easter"
       mp3: true
+    - date: May 9, 2021
+      title: "Sixth Sunday of Easter"
+      mp3: true
