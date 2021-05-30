@@ -67,3 +67,6 @@ services:
     - date: May 23, 2021
       title: "Pentecost"
       mp3: true
+    - date: May 30, 2021
+      title: "Trinity Sunday"
+      mp3: true
