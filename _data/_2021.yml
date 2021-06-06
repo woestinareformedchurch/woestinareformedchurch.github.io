@@ -70,3 +70,7 @@ services:
     - date: May 30, 2021
       title: "Trinity Sunday"
       mp3: true
+  june:
+    - date: June 6, 2021
+      title: "Second Sunday after Pentecost"
+      mp3: true
