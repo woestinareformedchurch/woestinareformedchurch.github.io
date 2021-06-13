@@ -74,3 +74,6 @@ services:
     - date: June 6, 2021
       title: "Second Sunday after Pentecost"
       mp3: true
+    - date: June 13, 2021
+      title: "Third Sunday after Pentecost"
+      mp3: true
