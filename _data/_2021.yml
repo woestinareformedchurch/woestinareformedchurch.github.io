@@ -77,3 +77,13 @@ services:
     - date: June 13, 2021
       title: "Third Sunday after Pentecost"
       mp3: true
+    - date: June 20, 2021
+      title: "Fourth Sunday after Pentecost"
+      mp3: false
+    - date: June 27, 2021
+      title: "Fifth Sunday after Pentecost"
+      mp3: false
+  july:
+    - date: July 4, 2021
+      title: "Sixth Sunday after Pentecost"
+      mp3: true
