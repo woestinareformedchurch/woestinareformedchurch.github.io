@@ -89,4 +89,4 @@ services:
       mp3: true
     - date: July 11, 2021
       title: "Seventh Sunday after Pentecost"
-      mp3: false
+      mp3: true
