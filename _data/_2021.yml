@@ -87,3 +87,6 @@ services:
     - date: July 4, 2021
       title: "Sixth Sunday after Pentecost"
       mp3: true
+    - date: July 11, 2021
+      title: "Seventh Sunday after Pentecost"
+      mp3: false
