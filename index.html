@@ -1,6 +1,6 @@
 ---
 layout: default
-recorded: July 11, 2021
+recorded: July 18, 2021
 newsletter: June 1, 2021
 ---
 <header class="jumbotron my-4">
@@ -19,6 +19,20 @@ newsletter: June 1, 2021
     </div>
   </div>
 </header>
+
+{% if site.data.announce.enabled %}
+<div class="row">
+  <div class="col-12">
+    <div class="card">
+      <h4 class="card-header card-title text-center">{{ site.data.announce.title }}</h4>
+      <div class="card-body">
+        <h5 class="card-title">{{ site.data.announce.message }}</h5>
+      </div>
+    </div>
+  </div>
+</div>
+<br/>
+{% endif %}
 
 {% if site.data.sundayschool.enabled %}
 <div class="row">
