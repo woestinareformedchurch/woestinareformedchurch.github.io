@@ -1,12 +1,12 @@
 ---
 layout: default
-recorded: July 25, 2021
+recorded: August 1, 2021
 newsletter: June 1, 2021
 ---
 <header class="jumbotron my-4">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      {% assign last_service = site.data._2021.services.july | last %}
+      {% assign last_service = site.data._2021.services.august | last %}
       <h2 class="display-4">{{ last_service.title }}</h2>
       <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
       <audio controls>
@@ -79,9 +79,15 @@ newsletter: June 1, 2021
         <div class="accordion" id="accordionExample">
 
           {% assign year = "2021" %}
+          {% assign month = "August" %}
+          {% assign services = site.data._2021.services.august %}
+          {% assign open = true %}
+          {% include services.html %}
+
+          {% assign year = "2021" %}
           {% assign month = "July" %}
           {% assign services = site.data._2021.services.july %}
-          {% assign open = true %}
+          {% assign open = false %}
           {% include services.html %}
 
           {% assign year = "2021" %}
@@ -240,6 +246,7 @@ newsletter: June 1, 2021
       <h4 class="card-header card-title">Newsletters</h4>
       <div class="card-body">
         <ul class="list-unstyled">
+          <li><a title="The newsletter is not published during the summer months.">August 2021</a></li>
           <li><a title="The newsletter is not published during the summer months.">July 2021</a></li>
           <li><a href="{{ site.static_url }}/2021/newsletter/2021-06-01-WRC-newsletter.pdf">June 2021</a></li>
           <li><a href="{{ site.static_url }}/2021/newsletter/2021-05-01-WRC-newsletter.pdf">May 2021</a></li>

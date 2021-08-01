@@ -96,3 +96,7 @@ services:
     - date: July 25, 2021
       title: "Ninth Sunday after Pentecost"
       mp3: true
+  august:
+    - date: August 1, 2021
+      title: "Tenth Sunday after Pentecost"
+      mp3: true
