@@ -100,3 +100,9 @@ services:
     - date: August 1, 2021
       title: "Tenth Sunday after Pentecost"
       mp3: true
+    - date: August 8, 2021
+      title: "Eleventh Sunday after Pentecost"
+      mp3: false
+    - date: August 15, 2021
+      title: "Twelfth Sunday after Pentecost"
+      mp3: true
