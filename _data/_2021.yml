@@ -106,3 +106,6 @@ services:
     - date: August 15, 2021
       title: "Twelfth Sunday after Pentecost"
       mp3: true
+    - date: August 22, 2021
+      title: "Thirteenth Sunday after Pentecost"
+      mp3: true
