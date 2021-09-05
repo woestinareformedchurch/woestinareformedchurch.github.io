@@ -112,3 +112,7 @@ services:
     - date: August 29, 2021
       title: "Fourteenth Sunday after Pentecost"
       mp3: true
+  september:
+    - date: September 5, 2021
+      title: "Fifteenth Sunday after Pentecost"
+      mp3: true
