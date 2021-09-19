@@ -119,3 +119,6 @@ services:
     - date: September 12, 2021
       title: "Sixteenth Sunday after Pentecost"
       mp3: true
+    - date: September 19, 2021
+      title: "Seventeenth Sunday after Pentecost"
+      mp3: true
