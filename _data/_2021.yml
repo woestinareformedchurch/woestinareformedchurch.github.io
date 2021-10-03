@@ -125,3 +125,7 @@ services:
     - date: September 26, 2021
       title: "Eighteenth Sunday after Pentecost"
       mp3: true
+  october:
+    - date: October 3, 2021
+      title: "Nineteenth Sunday after Pentecost"
+      mp3: true
