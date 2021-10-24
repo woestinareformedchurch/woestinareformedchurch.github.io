@@ -135,3 +135,6 @@ services:
     - date: October 17, 2021
       title: "Twenty-First Sunday after Pentecost"
       mp3: true
+    - date: October 24, 2021
+      title: "Twenty-Second Sunday after Pentecost"
+      mp3: true
