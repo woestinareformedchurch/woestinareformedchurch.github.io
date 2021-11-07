@@ -141,3 +141,7 @@ services:
     - date: October 31, 2021
       title: "Twenty-Third Sunday after Pentecost"
       mp3: true
+  november:
+    - date: November 7, 2021
+      title: "Twenty-Fourth Sunday after Pentecost"
+      mp3: true
