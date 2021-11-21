@@ -148,3 +148,6 @@ services:
     - date: November 14, 2021
       title: "Twenty-Fifth Sunday after Pentecost"
       mp3: true
+    - date: November 21, 2021
+      title: "Twenty-Sixth Sunday after Pentecost"
+      mp3: true
