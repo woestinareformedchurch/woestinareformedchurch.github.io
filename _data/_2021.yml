@@ -151,3 +151,6 @@ services:
     - date: November 21, 2021
       title: "Twenty-Sixth Sunday after Pentecost"
       mp3: true
+    - date: November 28, 2021
+      title: "First Sunday of Advent"
+      mp3: true
