@@ -154,3 +154,7 @@ services:
     - date: November 28, 2021
       title: "First Sunday of Advent"
       mp3: true
+  december:
+    - date: December 5, 2021
+      title: "Second Sunday of Advent"
+      mp3: true

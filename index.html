@@ -1,12 +1,12 @@
 ---
 layout: default
-recorded: November 28, 2021
+recorded: December 5, 2021
 newsletter: December 1, 2021
 ---
 <header class="jumbotron my-4">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      {% assign last_service = site.data._2021.services.november | last %}
+      {% assign last_service = site.data._2021.services.december | last %}
       <h2 class="display-4">{{ last_service.title }}</h2>
       <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
       <audio controls>
@@ -79,9 +79,15 @@ newsletter: December 1, 2021
         <div class="accordion" id="accordionExample">
 
           {% assign year = "2021" %}
+          {% assign month = "December" %}
+          {% assign services = site.data._2021.services.december %}
+          {% assign open = true %}
+          {% include services.html %}
+
+          {% assign year = "2021" %}
           {% assign month = "November" %}
           {% assign services = site.data._2021.services.november %}
-          {% assign open = true %}
+          {% assign open = false %}
           {% include services.html %}
 
           {% assign year = "2021" %}
