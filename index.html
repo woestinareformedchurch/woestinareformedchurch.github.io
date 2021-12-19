@@ -13,9 +13,11 @@ newsletter: December 1, 2021
         <source src='{{ site.static_url }}/2021/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3' />
       </audio>
       <p></p>
+      {% if last_service.bulletin %}
       <p>
         <a class="btn btn-primary" href="{{ site.static_url }}/2021/bulletin/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-bulletin.pdf">Read the Bulletin</a>
       </p>
+      {% endif %}
     </div>
     <div class="col-md-6 col-sm-12">
       <img __style="margin-top: 25px;" class="img-fluid rounded"
