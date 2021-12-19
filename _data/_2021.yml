@@ -161,3 +161,6 @@ services:
     - date: December 12, 2021
       title: "Third Sunday of Advent"
       mp3: true
+    - date: December 19, 2021
+      title: "Fourth Sunday of Advent"
+      mp3: true
