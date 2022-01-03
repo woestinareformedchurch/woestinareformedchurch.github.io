@@ -3,4 +3,4 @@ services:
     - date: January 1, 2022
       title: Second Sunday after Christmas
       mp3: true
-      bulletin: true
+      bulletin: false
