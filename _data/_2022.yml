@@ -1,6 +1,10 @@
 services:
   january:
-    - date: January 1, 2022
+    - date: January 2, 2022
       title: Second Sunday after Christmas
+      mp3: true
+      bulletin: false
+    - date: January 16, 2022
+      title: Second Sunday after the Epiphany
       mp3: true
       bulletin: false

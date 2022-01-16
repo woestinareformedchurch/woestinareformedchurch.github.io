@@ -1,6 +1,6 @@
 ---
 layout: default
-recorded: January 2, 2022
+recorded: January 16, 2022
 newsletter: December 1, 2021
 ---
 <header class="jumbotron my-4">
@@ -84,10 +84,16 @@ newsletter: December 1, 2021
       <div class="card-body">
         <div class="accordion" id="accordionExample">
 
+          {% assign year = "2022" %}
+          {% assign month = "January" %}
+          {% assign services = site.data._2022.services.january %}
+          {% assign open = true %}
+          {% include services.html %}
+
           {% assign year = "2021" %}
           {% assign month = "December" %}
           {% assign services = site.data._2021.services.december %}
-          {% assign open = true %}
+          {% assign open = false %}
           {% include services.html %}
 
           {% assign year = "2021" %}
