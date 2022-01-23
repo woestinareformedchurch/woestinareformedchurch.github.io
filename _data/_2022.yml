@@ -8,3 +8,7 @@ services:
       title: Second Sunday after the Epiphany
       mp3: true
       bulletin: false
+    - date: January 23, 2022
+      title: Third Sunday after the Epiphany
+      mp3: true
+      bulletin: false
