@@ -12,3 +12,12 @@ services:
       title: Third Sunday after the Epiphany
       mp3: true
       bulletin: false
+    - date: January 30, 2022
+      title: Fourth Sunday after the Epiphany
+      mp3: true
+      bulletin: false
+  february:
+    - date: February 6, 2022
+      title: Fifth Sunday after Epiphany
+      mp3: true
+      bulletin: false
