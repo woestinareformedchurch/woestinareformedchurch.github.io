@@ -21,3 +21,8 @@ services:
       title: Fifth Sunday after Epiphany
       mp3: true
       bulletin: false
+    - date: February 13, 2022
+      title: Sixth Sunday after Epiphany
+      mp3: true
+      bulletin: false
+    
