@@ -25,4 +25,7 @@ services:
       title: Sixth Sunday after Epiphany
       mp3: true
       bulletin: false
-    
+    - date: February 20, 2022
+      title: Seventh Sunday after the Epiphany
+      mp3: true
+      bulletin: false
