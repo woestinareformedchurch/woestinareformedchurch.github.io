@@ -1,166 +1,154 @@
 services:
-  january:
-    - date: January 3, 2021
-      title: Second Sunday after Christmas
-      mp3: true
-    - date: January 10, 2021
-      title: First Sunday After the Epiphany
-      mp3: true
-    - date: January 17, 2021
-      title: Second Sunday After the Epiphany
-      mp3: true
-    - date: January 24, 2021
-      title: Third Sunday After the Epiphany
-      mp3: true
-    - date: January 31, 2021
-      title: Fourth Sunday After the Epiphany
-      mp3: true
-  february:
-    - date: February 7, 2021
-      title: Fifth Sunday after the Epiphany
-      mp3: false
-    - date: February 14, 2021
-      title: Transfiguration Sunday
-      mp3: true
-    - date: February 21, 2021
-      title: First Sunday in Lent
-      mp3: true
-    - date: February 28, 2021
-      title: Second Sunday in Lent
-      mp3: true
-  march:
-    - date: March 7, 2021
-      title: Third Sunday in Lent
-      mp3: true
-    - date: March 14, 2021
-      title: Fourth Sunday in Lent
-      mp3: true
-    - date: March 21, 2021
-      title: Fifth Sunday in Lent
-      mp3: false
-    - date: March 28, 2021
-      title: Fourth Sunday in Lent
-      mp3: true
-  april:
-    - date: April 4, 2021
-      title: "Easter: Resurrection of the Lord"
-      mp3: true
-    - date: April 11, 2021
-      title: "Second Sunday of Easter"
-      mp3: true
-    - date: April 18, 2021
-      title: "Third Sunday of Easter"
-      mp3: true
-    - date: April 25, 2021
-      title: "Fourth Sunday of Easter"
-      mp3: true
-  may:
-    - date: May 2, 2021
-      title: "Fifth Sunday of Easter"
-      mp3: true
-    - date: May 9, 2021
-      title: "Sixth Sunday of Easter"
-      mp3: true
-    - date: May 16, 2021
-      title: "Seventh Sunday of Easter"
-      mp3: true
-    - date: May 23, 2021
-      title: "Pentecost"
-      mp3: true
-    - date: May 30, 2021
-      title: "Trinity Sunday"
-      mp3: true
-  june:
-    - date: June 6, 2021
-      title: "Second Sunday after Pentecost"
-      mp3: true
-    - date: June 13, 2021
-      title: "Third Sunday after Pentecost"
-      mp3: true
-    - date: June 20, 2021
-      title: "Fourth Sunday after Pentecost"
-      mp3: false
-    - date: June 27, 2021
-      title: "Fifth Sunday after Pentecost"
-      mp3: false
-  july:
-    - date: July 4, 2021
-      title: "Sixth Sunday after Pentecost"
-      mp3: true
-    - date: July 11, 2021
-      title: "Seventh Sunday after Pentecost"
-      mp3: true
-    - date: July 18, 2021
-      title: "Eighth Sunday after Pentecost"
-      mp3: true
-    - date: July 25, 2021
-      title: "Ninth Sunday after Pentecost"
-      mp3: true
-  august:
-    - date: August 1, 2021
-      title: "Tenth Sunday after Pentecost"
-      mp3: true
-    - date: August 8, 2021
-      title: "Eleventh Sunday after Pentecost"
-      mp3: false
-    - date: August 15, 2021
-      title: "Twelfth Sunday after Pentecost"
-      mp3: true
-    - date: August 22, 2021
-      title: "Thirteenth Sunday after Pentecost"
-      mp3: true
-    - date: August 29, 2021
-      title: "Fourteenth Sunday after Pentecost"
-      mp3: true
-  september:
-    - date: September 5, 2021
-      title: "Fifteenth Sunday after Pentecost"
-      mp3: true
-    - date: September 12, 2021
-      title: "Sixteenth Sunday after Pentecost"
-      mp3: true
-    - date: September 19, 2021
-      title: "Seventeenth Sunday after Pentecost"
-      mp3: true
-    - date: September 26, 2021
-      title: "Eighteenth Sunday after Pentecost"
-      mp3: true
-  october:
-    - date: October 3, 2021
-      title: "Nineteenth Sunday after Pentecost"
-      mp3: true
-    - date: October 10, 2021
-      title: "Twentieth Sunday after Pentecost"
-      mp3: true
-    - date: October 17, 2021
-      title: "Twenty-First Sunday after Pentecost"
-      mp3: true
-    - date: October 24, 2021
-      title: "Twenty-Second Sunday after Pentecost"
-      mp3: true
-    - date: October 31, 2021
-      title: "Twenty-Third Sunday after Pentecost"
-      mp3: true
-  november:
-    - date: November 7, 2021
-      title: "Twenty-Fourth Sunday after Pentecost"
-      mp3: true
-    - date: November 14, 2021
-      title: "Twenty-Fifth Sunday after Pentecost"
-      mp3: true
-    - date: November 21, 2021
-      title: "Twenty-Sixth Sunday after Pentecost"
-      mp3: true
-    - date: November 28, 2021
-      title: "First Sunday of Advent"
-      mp3: true
-  december:
-    - date: December 5, 2021
-      title: "Second Sunday of Advent"
-      mp3: true
-    - date: December 12, 2021
-      title: "Third Sunday of Advent"
-      mp3: true
-    - date: December 19, 2021
-      title: "Fourth Sunday of Advent"
-      mp3: true
+  - date: January 3, 2021
+    title: Second Sunday after Christmas
+    mp3: true
+  - date: January 10, 2021
+    title: First Sunday After the Epiphany
+    mp3: true
+  - date: January 17, 2021
+    title: Second Sunday After the Epiphany
+    mp3: true
+  - date: January 24, 2021
+    title: Third Sunday After the Epiphany
+    mp3: true
+  - date: January 31, 2021
+    title: Fourth Sunday After the Epiphany
+    mp3: true
+  - date: February 7, 2021
+    title: Fifth Sunday after the Epiphany
+    mp3: false
+  - date: February 14, 2021
+    title: Transfiguration Sunday
+    mp3: true
+  - date: February 21, 2021
+    title: First Sunday in Lent
+    mp3: true
+  - date: February 28, 2021
+    title: Second Sunday in Lent
+    mp3: true
+  - date: March 7, 2021
+    title: Third Sunday in Lent
+    mp3: true
+  - date: March 14, 2021
+    title: Fourth Sunday in Lent
+    mp3: true
+  - date: March 21, 2021
+    title: Fifth Sunday in Lent
+    mp3: false
+  - date: March 28, 2021
+    title: Fourth Sunday in Lent
+    mp3: true
+  - date: April 4, 2021
+    title: "Easter: Resurrection of the Lord"
+    mp3: true
+  - date: April 11, 2021
+    title: "Second Sunday of Easter"
+    mp3: true
+  - date: April 18, 2021
+    title: "Third Sunday of Easter"
+    mp3: true
+  - date: April 25, 2021
+    title: "Fourth Sunday of Easter"
+    mp3: true
+  - date: May 2, 2021
+    title: "Fifth Sunday of Easter"
+    mp3: true
+  - date: May 9, 2021
+    title: "Sixth Sunday of Easter"
+    mp3: true
+  - date: May 16, 2021
+    title: "Seventh Sunday of Easter"
+    mp3: true
+  - date: May 23, 2021
+    title: "Pentecost"
+    mp3: true
+  - date: May 30, 2021
+    title: "Trinity Sunday"
+    mp3: true
+  - date: June 6, 2021
+    title: "Second Sunday after Pentecost"
+    mp3: true
+  - date: June 13, 2021
+    title: "Third Sunday after Pentecost"
+    mp3: true
+  - date: June 20, 2021
+    title: "Fourth Sunday after Pentecost"
+    mp3: false
+  - date: June 27, 2021
+    title: "Fifth Sunday after Pentecost"
+    mp3: false
+  - date: July 4, 2021
+    title: "Sixth Sunday after Pentecost"
+    mp3: true
+  - date: July 11, 2021
+    title: "Seventh Sunday after Pentecost"
+    mp3: true
+  - date: July 18, 2021
+    title: "Eighth Sunday after Pentecost"
+    mp3: true
+  - date: July 25, 2021
+    title: "Ninth Sunday after Pentecost"
+    mp3: true
+  - date: August 1, 2021
+    title: "Tenth Sunday after Pentecost"
+    mp3: true
+  - date: August 8, 2021
+    title: "Eleventh Sunday after Pentecost"
+    mp3: false
+  - date: August 15, 2021
+    title: "Twelfth Sunday after Pentecost"
+    mp3: true
+  - date: August 22, 2021
+    title: "Thirteenth Sunday after Pentecost"
+    mp3: true
+  - date: August 29, 2021
+    title: "Fourteenth Sunday after Pentecost"
+    mp3: true
+  - date: September 5, 2021
+    title: "Fifteenth Sunday after Pentecost"
+    mp3: true
+  - date: September 12, 2021
+    title: "Sixteenth Sunday after Pentecost"
+    mp3: true
+  - date: September 19, 2021
+    title: "Seventeenth Sunday after Pentecost"
+    mp3: true
+  - date: September 26, 2021
+    title: "Eighteenth Sunday after Pentecost"
+    mp3: true
+  - date: October 3, 2021
+    title: "Nineteenth Sunday after Pentecost"
+    mp3: true
+  - date: October 10, 2021
+    title: "Twentieth Sunday after Pentecost"
+    mp3: true
+  - date: October 17, 2021
+    title: "Twenty-First Sunday after Pentecost"
+    mp3: true
+  - date: October 24, 2021
+    title: "Twenty-Second Sunday after Pentecost"
+    mp3: true
+  - date: October 31, 2021
+    title: "Twenty-Third Sunday after Pentecost"
+    mp3: true
+  - date: November 7, 2021
+    title: "Twenty-Fourth Sunday after Pentecost"
+    mp3: true
+  - date: November 14, 2021
+    title: "Twenty-Fifth Sunday after Pentecost"
+    mp3: true
+  - date: November 21, 2021
+    title: "Twenty-Sixth Sunday after Pentecost"
+    mp3: true
+  - date: November 28, 2021
+    title: "First Sunday of Advent"
+    mp3: true
+  - date: December 5, 2021
+    title: "Second Sunday of Advent"
+    mp3: true
+  - date: December 12, 2021
+    title: "Third Sunday of Advent"
+    mp3: true
+  - date: December 19, 2021
+    title: "Fourth Sunday of Advent"
+    mp3: true
