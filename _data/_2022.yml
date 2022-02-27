@@ -29,3 +29,7 @@ services:
       title: Seventh Sunday after the Epiphany
       mp3: true
       bulletin: false
+    - date: February 27, 2022
+      title: Last Sunday after Epiphany
+      mp3: true
+      bulletin: false
