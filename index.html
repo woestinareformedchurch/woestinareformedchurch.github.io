@@ -85,6 +85,12 @@ newsletter: February 1, 2022
         <div class="accordion" id="serviceAccordion">
 
           {% assign year = "2022" %}
+          {% assign month = "March" %}
+          {% assign services = site.data._2022.services.march %}
+          {% assign open = true %}
+          {% include services.html %}
+
+          {% assign year = "2022" %}
           {% assign month = "February" %}
           {% assign services = site.data._2022.services.february %}
           {% assign open = true %}
