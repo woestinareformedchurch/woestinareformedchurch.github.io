@@ -33,3 +33,8 @@ services:
       title: Last Sunday after Epiphany
       mp3: true
       bulletin: false
+  march:
+    - date: March 6, 2022
+      title: First Sunday in Lent
+      mp3: true
+      bulletin: false
