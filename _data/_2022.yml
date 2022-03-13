@@ -38,3 +38,7 @@ services:
       title: First Sunday in Lent
       mp3: true
       bulletin: false
+    - date: March 13, 2022
+      title: Second Sunday in Lent
+      mp3: true
+      bulletin: false      
