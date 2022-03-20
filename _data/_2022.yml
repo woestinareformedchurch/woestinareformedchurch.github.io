@@ -41,4 +41,8 @@ services:
     - date: March 13, 2022
       title: Second Sunday in Lent
       mp3: true
-      bulletin: false      
+      bulletin: false
+    - date: March 20, 2022
+      title: Third Sunday in Lent
+      mp3: true
+      bulletin: false
