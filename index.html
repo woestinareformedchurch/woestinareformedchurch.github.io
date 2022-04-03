@@ -1,12 +1,12 @@
 ---
 layout: default
-recorded: March 27, 2022
+recorded: April 3, 2022
 newsletter: March 1, 2022
 ---
 <header class="jumbotron my-4">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      {% assign last_service = site.data._2022.services.march | last %}
+      {% assign last_service = site.data._2022.services.april | last %}
       <h2 class="display-4">{{ last_service.title }}</h2>
       <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
       <audio controls>
@@ -84,6 +84,12 @@ newsletter: March 1, 2022
       <div class="card-body">
         <div class="accordion" id="serviceAccordion">
 
+          {% assign year = "2022" %}
+          {% assign month = "April" %}
+          {% assign services = site.data._2022.services.april %}
+          {% assign open = true %}
+          {% include services.html %}
+          
           {% assign year = "2022" %}
           {% assign month = "March" %}
           {% assign services = site.data._2022.services.march %}

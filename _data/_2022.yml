@@ -50,3 +50,8 @@ services:
       title: Fourth Sunday in Lent
       mp3: true
       bulletin: false
+  april:
+    - date: April 3, 2022
+      title: Fifth Sunday in Lent
+      mp3: true
+      bulletin: false
