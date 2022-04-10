@@ -55,3 +55,7 @@ services:
       title: Fifth Sunday in Lent
       mp3: true
       bulletin: false
+    - date: April 10, 2022
+      title: "Sunday of the Passion: Palm Sunday"
+      mp3: true
+      bulletin: false
