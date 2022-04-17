@@ -9,6 +9,7 @@
     <div id="service2022" class="collapse" data-parent="#serviceAccordion">
         <div class="card-body">
             {% assign services = site.data._2022.services | reverse %}
+            {% assign linkyear = 2022 %}
             {% include services.html %}
         </div>
     </div>

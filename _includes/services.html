@@ -1,7 +1,7 @@
 <ul class="list-unstyled">
 {% for service in services %}
     {% if service.mp3 == true %}
-    <li><a href='{{ site.static_url }}/{{ page.year }}/audio/{{ service.date | date: "%Y-%m-%d" }}-WRC-service.mp3' download='{{ service.date | date: "%Y-%m-%d" }}-service.mp3' target="_blank">{{ service.date }}</a></li>
+    <li><a href='{{ site.static_url }}/{{ linkyear }}/audio/{{ service.date | date: "%Y-%m-%d" }}-WRC-service.mp3' download='{{ service.date | date: "%Y-%m-%d" }}-service.mp3' target="_blank">{{ service.date }}</a></li>
     {% else %}
     <li><a title="No recording available for this service.">{{ service.date }}</a></li>
     {% endif %}
