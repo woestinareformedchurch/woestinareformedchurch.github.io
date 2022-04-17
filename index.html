@@ -1,6 +1,5 @@
 ---
 layout: default
-recorded: April 10, 2022
 newsletter: April 1, 2022
 ---
 <header class="jumbotron my-4">
@@ -10,18 +9,18 @@ newsletter: April 1, 2022
       <h2 class="display-4">{{ last_service.title }}</h2>
       <p class="lead">Recorded on {{ last_service.date | date: "%B %d, %Y" }}</p>
       <audio controls>
-        <source src='{{ site.static_url }}/2022/audio/{{ last_service.title | date: "%Y-%m-%d" }}-WRC-service.mp3' />
+        <source src='{{ site.static_url }}/2022/audio/{{ last_service.date | date: "%Y-%m-%d" }}-WRC-service.mp3' />
       </audio>
       <p></p>
       {% if last_service.bulletin %}
       <p>
-        <a class="btn btn-primary" href="{{ site.static_url }}/2021/bulletin/{{ last_service.title | date: "%Y-%m-%d" }}-WRC-bulletin.pdf">Read the Bulletin</a>
+        <a class="btn btn-primary" href="{{ site.static_url }}/2021/bulletin/{{ last_service.date | date: "%Y-%m-%d" }}-WRC-bulletin.pdf">Read the Bulletin</a>
       </p>
       {% endif %}
     </div>
     <div class="col-md-6 col-sm-12">
       <img __style="margin-top: 25px;" class="img-fluid rounded"
-        src='img/latest-sign.jpg?date={{ last_service.title | date: "%Y-%m-%d" }}' alt="Church Service Sign" />
+        src='img/latest-sign.jpg?date={{ last_service.date | date: "%Y-%m-%d" }}' alt="Church Service Sign" />
     </div>
   </div>
 </header>
@@ -37,29 +36,11 @@ newsletter: April 1, 2022
       <div class="card-body">
         <div class="accordion" id="serviceAccordion">
 
+          {% comment %}
           {% assign year = "2022" %}
-          {% assign month = "April" %}
-          {% assign services = site.data._2022.services.april %}
-          {% assign open = true %}
+          {% assign services = site.data._2022.services %}
           {% include services.html %}
-          
-          {% assign year = "2022" %}
-          {% assign month = "March" %}
-          {% assign services = site.data._2022.services.march %}
-          {% assign open = true %}
-          {% include services.html %}
-
-          {% assign year = "2022" %}
-          {% assign month = "February" %}
-          {% assign services = site.data._2022.services.february %}
-          {% assign open = true %}
-          {% include services.html %}
-
-          {% assign year = "2022" %}
-          {% assign month = "January" %}
-          {% assign services = site.data._2022.services.january %}
-          {% assign open = false %}
-          {% include services.html %}
+          {% endcomment %}
 
           <!-- 2021 -->
           <div class="card">
