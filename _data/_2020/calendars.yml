@@ -1,0 +1,18 @@
+- date: 01/01/2020
+  title: January 2020 Calendar
+  pdf: 2020/calendar/2020-01-01-WRC-calendar.pdf
+  type: calendar
+  
+
+- date: 02/01/2020
+  title: February 2020 Calendar
+  pdf: 2020/calendar/2020-02-01-WRC-calendar.pdf
+  type: calendar
+  
+
+- date: 03/01/2020
+  title: March 2020 Calendar
+  pdf: 2020/calendar/2020-03-01-WRC-calendar.pdf
+  type: calendar
+  latest: true
+  

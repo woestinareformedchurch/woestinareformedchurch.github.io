@@ -1,0 +1,21 @@
+{% if site.data.sundayschool.enabled %}
+<div class="row">
+  <div class="col-12">
+    <div class="card">
+      <h4 class="card-header card-title text-center">Sunday School</h4>
+      <div class="card-body">
+
+        <h5 class="card-title">{{ site.data.sundayschool.title }}</h5>
+        <p>{{ site.data.sundayschool.body }}</p>
+        {% if site.data.sundayschool.audio %} 
+        <audio controls>
+          <source src="{{ site.static_url }}/2020/audio/2020-WRC-NewStarChristmasProgram.mp3" />
+        </audio>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+</div>
+<br/>
+{% endif %}

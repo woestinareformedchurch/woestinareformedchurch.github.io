@@ -1,0 +1,13 @@
+- date: 01/01/2020
+  title: January 2020 Newsletter
+  pdf: 2020/newsletter/2020-01-01-WRC-newsletter.pdf
+  type: newsletter
+- date: 02/01/2020
+  title: February 2020 Newsletter
+  pdf: 2020/newsletter/2020-02-01-WRC-newsletter.pdf
+  type: newsletter
+- date: 03/01/2020
+  title: March 2020 Newsletter
+  pdf: 2020/newsletter/2020-03-01-WRC-newsletter.pdf
+  type: newsletter
+  latest: true
