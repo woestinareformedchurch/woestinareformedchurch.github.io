@@ -6,75 +6,28 @@ newsletter: April 1, 2022
 <header class="jumbotron my-4">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      {% assign last_service = site.data._2022.services.april | last %}
+      {% assign last_service = site.data._2022.services | last %}
       <h2 class="display-4">{{ last_service.title }}</h2>
-      <p class="lead">Recorded on {{ page.recorded | date: "%B %d, %Y" }}</p>
+      <p class="lead">Recorded on {{ last_service.date | date: "%B %d, %Y" }}</p>
       <audio controls>
-        <source src='{{ site.static_url }}/2022/audio/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-service.mp3' />
+        <source src='{{ site.static_url }}/2022/audio/{{ last_service.title | date: "%Y-%m-%d" }}-WRC-service.mp3' />
       </audio>
       <p></p>
       {% if last_service.bulletin %}
       <p>
-        <a class="btn btn-primary" href="{{ site.static_url }}/2021/bulletin/{{ page.recorded | date: "%Y-%m-%d" }}-WRC-bulletin.pdf">Read the Bulletin</a>
+        <a class="btn btn-primary" href="{{ site.static_url }}/2021/bulletin/{{ last_service.title | date: "%Y-%m-%d" }}-WRC-bulletin.pdf">Read the Bulletin</a>
       </p>
       {% endif %}
     </div>
     <div class="col-md-6 col-sm-12">
       <img __style="margin-top: 25px;" class="img-fluid rounded"
-        src='img/latest-sign.jpg?date={{ page.recorded | date: "%Y-%m-%d" }}' alt="Church Service Sign" />
+        src='img/latest-sign.jpg?date={{ last_service.title | date: "%Y-%m-%d" }}' alt="Church Service Sign" />
     </div>
   </div>
 </header>
 
-{% if site.data.announce.enabled %}
-<div class="row">
-  <div class="col-12">
-    <div class="card">
-      <h4 class="card-header card-title text-center">{{ site.data.announce.title }}</h4>
-      <div class="card-body">
-        <h5 class="card-title">{{ site.data.announce.message }}</h5>
-      </div>
-    </div>
-  </div>
-</div>
-<br/>
-{% endif %}
-
-{% if site.data.sundayschool.enabled %}
-<div class="row">
-  <div class="col-6">
-    <div class="card">
-      <h4 class="card-header card-title text-center">Sunday School</h4>
-      <div class="card-body">
-
-        <h5 class="card-title">{{ site.data.sundayschool.title }}</h5>
-        <p>{{ site.data.sundayschool.body }}</p>
-        {% if site.data.sundayschool.audio %} 
-        <audio controls>
-          <source src="{{ site.static_url }}/2020/audio/2020-WRC-NewStarChristmasProgram.mp3" />
-        </audio>
-        {% endif %}
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-6">
-    <div class="card h-100">
-      <h4 class="card-header card-title text-center">Church Service</h4>
-      <div class="card-body">
-
-        <ul class="list-unstyled">
-          <li class="card-text font-weight-bold">Sunday Service begins at 10:30am</li>
-          <li class="card-text">Listen on the radio at WRCR 89.3 FM</li>
-        </ul>
-
-      </div>
-    </div>
-  </div>
-</div>
-<br/>
-{% endif %}
+{% include announcement.html %}
+{% include sundayschool.html %}
 
 <div class="row text-center">
 
