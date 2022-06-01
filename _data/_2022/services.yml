@@ -71,6 +71,14 @@
   mp3: true
   bulletin: false
 - date: May 15, 2022
-  title: Fifty Sunday of Easter
+  title: Fifth Sunday of Easter
+  mp3: true
+  bulletin: false
+- date: May 22, 2022
+  title: Sixth Sunday of Easter
+  mp3: false
+  bulletin: false
+- date: May 29, 2022
+  title: Seventh Sunday of Easter
   mp3: true
   bulletin: false
