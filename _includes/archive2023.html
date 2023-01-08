@@ -1,0 +1,16 @@
+<div class="card">
+    <div class="card-header" id="serviceHeading2023">
+        <h2 class="mb-0">
+        <button class="btn btn-link btn-block" type="button" data-toggle="collapse" data-target="#service2023">
+            2023
+        </button>
+        </h2>
+    </div>
+    <div id="service2023" class="collapse" data-parent="#serviceAccordion">
+        <div class="card-body">
+            {% assign services = site.data._2023.services | reverse %}
+            {% assign linkyear = 2023 %}
+            {% include services.html %}
+        </div>
+    </div>
+</div>
