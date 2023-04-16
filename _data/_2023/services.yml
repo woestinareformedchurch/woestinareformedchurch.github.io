@@ -61,3 +61,11 @@
   title: "Sunday of the Passion: Palm Sunday"
   mp3: true
   bulletin: false
+- date: April 9, 2023
+  title: "Easter Sunday"
+  mp3: false
+  bulletin: false
+- date: April 16, 2023
+  title: "Second Sunday of Easter"
+  mp3: true
+  bulletin: false
