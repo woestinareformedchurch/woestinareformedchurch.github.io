@@ -145,8 +145,11 @@
   title: "Tenth Sunday after Pentecost"
   mp3: true
   bulletin: false
-
 - date: August 13, 2023
   title: "Eleventh Sunday after Pentecost"
+  mp3: true
+  bulletin: false
+- date: August 20, 2023
+  title: "Twelfth Sunday after Pentecost"
   mp3: true
   bulletin: false
