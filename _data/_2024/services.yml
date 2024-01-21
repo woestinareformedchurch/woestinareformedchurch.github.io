@@ -1,6 +1,14 @@
 ################################################################################
 
+- date: January 7, 2024 ## Service was cancelled due to weather
+  title: First Sunday after the Epiphany
+  mp3: false
+  bulletin: false
 - date: January 14, 2024
   title: Second Sunday after the Epiphany
+  mp3: true
+  bulletin: false
+- date: January 21, 2024
+  title: Third Sunday after the Epiphany
   mp3: true
   bulletin: false
