@@ -46,3 +46,11 @@
   title: Fourth Sunday in Lent
   mp3: true
   bulletin: false
+- date: March 17, 2024
+  title: Fifth Sunday in Lent
+  mp3: false
+  bulletin: false
+- date: March 24, 2024
+  title: "Sunday of the Passion: Palm Sunday"
+  mp3: true
+  bulletin: false
