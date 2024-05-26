@@ -88,3 +88,11 @@
   title: Seventh Sunday of Easter
   mp3: true
   bulletin: false
+- date: May 19, 2024
+  title: Day of Pentecost
+  mp3: false
+  bulletin: false
+- date: May 26, 2024
+  title: First Sunday after Pentecost
+  mp3: true
+  bulletin: false
