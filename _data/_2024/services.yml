@@ -210,4 +210,20 @@
   title: Twenty-Fifth Sunday after Pentecost
   mp3: true
   bulletin: false
+- date: November 17, 2024
+  title: Twenty-Sixth Sunday after Pentecost
+  mp3: false
+  bulletin: false
+- date: November 24, 2024
+  title: Last Sunday after Pentecost
+  mp3: false
+  bulletin: false
+
+################################################################################
+
+- date: December 1, 2024
+  title: First Sunday of Advent
+  mp3: true
+  bulletin: false
+
 
