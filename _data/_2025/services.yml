@@ -73,3 +73,22 @@
   title: Easter Sunday
   mp3: true
   bulletin: false
+- date: April 27, 2025
+  title: Second Sunday of Easter
+  mp3: false
+  bulletin: false
+
+################################################################################
+
+- date: May 4, 2025
+  title: Third Sunday of Easter
+  mp3: false
+  bulletin: false
+- date: May 11, 2025
+  title: Fourth Sunday of Easter
+  mp3: false
+  bulletin: false
+- date: May 18, 2025
+  title: Fifth Sunday of Easter
+  mp3: true
+  bulletin: false
