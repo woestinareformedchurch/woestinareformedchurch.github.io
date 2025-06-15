@@ -103,4 +103,11 @@
   title: Seventh Sunday of Easter
   mp3: true
   bulletin: false
-  
+- date: June 8, 2025
+  title: Pentecost
+  mp3: false
+  bulletin: false
+- date: June 15, 2025
+  title: Trinity Sunday
+  mp3: true
+  bulletin: false
