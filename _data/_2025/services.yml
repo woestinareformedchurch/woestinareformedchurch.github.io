@@ -119,3 +119,14 @@
   title: Third Sunday after Pentecost
   mp3: true
   bulletin: false
+
+################################################################################
+
+- date: July 6, 2025
+  title: Fourth Sunday after Pentecost
+  mp3: false
+  bulletin: false
+- date: July 13, 2025
+  title: Fifth Sunday after Pentecost
+  mp3: false
+  bulletin: false
