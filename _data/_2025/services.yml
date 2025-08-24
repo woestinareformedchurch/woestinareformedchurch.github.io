@@ -149,5 +149,11 @@
   title: Ninth Sunday after Pentecost
   mp3: false
   bulletin: false
-
-
+- date: August 17, 2025
+  title: Tenth Sunday after Pentecost
+  mp3: false
+  bulletin: false
+- date: August 24, 2025
+  title: Eleventh Sunday after Pentecost
+  mp3: true
+  bulletin: false
