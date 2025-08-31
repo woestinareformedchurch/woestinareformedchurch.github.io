@@ -1,4 +1,3 @@
-enabled: false
-title: Easter Service
-message: We are sorry for the inconvenience. There is no recording available for Easter Sunday.
-
+enabled: true
+title: Audio Issues
+message: We are sorry for the inconvenience. The first half of the service is not available.
