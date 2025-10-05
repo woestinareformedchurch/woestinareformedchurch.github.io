@@ -172,3 +172,18 @@
   title: Fourteenth Sunday after Pentecost
   mp3: false
   bulletin: false
+- date: September 21, 2025
+  title: Fifteenth Sunday after Pentecost
+  mp3: false
+  bulletin: false
+- date: September 28, 2025
+  title: Sixteenth Sunday after Pentecost
+  mp3: false
+  bulletin: false 
+
+################################################################################
+
+- date: October 5, 2025
+  title: Seventeenth Sunday after Pentecost
+  mp3: true
+  bulletin: false
