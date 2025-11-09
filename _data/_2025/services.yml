@@ -195,3 +195,18 @@
   title: Nineteenth Sunday after Pentecost
   mp3: true
   bulletin: false
+- date: October 26, 2025
+  title: Twentieth Sunday after Pentecost
+  mp3: false
+  bulletin: false
+
+################################################################################
+
+- date: November 2, 2025
+  title: Twenty-first Sunday after Pentecost
+  mp3: false
+  bulletin: false
+- date: November 9, 2025
+  title: Twenty-second Sunday after Pentecost
+  mp3: true
+  bulletin: false
