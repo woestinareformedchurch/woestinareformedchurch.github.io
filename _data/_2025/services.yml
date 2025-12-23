@@ -218,3 +218,22 @@
   title: Christ the King Sunday
   mp3: true
   bulletin: false
+- date: November 30, 2025
+  title: First Sunday of Advent
+  mp3: false
+  bulletin: false
+
+################################################################################
+
+- date: December 7, 2025
+  title: Second Sunday of Advent
+  mp3: false
+  bulletin: false
+- date: December 14, 2025
+  title: Third Sunday of Advent
+  mp3: false
+  bulletin: false
+- date: December 21, 2025
+  title: Fourth Sunday of Advent
+  mp3: true
+  bulletin: false
