@@ -1,12 +1,12 @@
 ---
 layout: default
 newsletter: February 1, 2023
-year: 2025
+year: 2026
 ---
 <header class="jumbotron my-4">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      {% assign last_service = site.data._2025.services | last %}
+      {% assign last_service = site.data._2026.services | last %}
       <h2 class="display-4">{{ last_service.title }}</h2>
       <p class="lead">Recorded on {{ last_service.date | date: "%B %d, %Y" }}</p>
       <audio controls>
@@ -37,6 +37,7 @@ year: 2025
       <div class="card-body">
         <div class="accordion" id="serviceAccordion">
 
+          {% include archive2026.html %}
           {% include archive2025.html %}
           {% include archive2024.html %}
           {% include archive2023.html %}
