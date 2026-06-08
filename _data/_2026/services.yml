@@ -31,6 +31,9 @@
   title: First Sunday in Lent
   mp3: true
   bulletin: false
+
+###############################################################################
+
 - date: March 1, 2026
   title: Second Sunday in Lent
   mp3: true
@@ -51,6 +54,9 @@
   title: Palm Sunday
   mp3: true
   bulletin: false
+
+###############################################################################
+
 - date: April 5, 2026
   title: Easter Sunday
   mp3: false
@@ -65,5 +71,35 @@
   bulletin: false
 - date: April 26, 2026
   title: Fourth Sunday of Easter
+  mp3: true
+  bulletin: false
+
+###############################################################################
+
+- date: May 3, 2026
+  title: Fifth Sunday of Easter
+  mp3: false
+  bulletin: false
+- date: May 10, 2026
+  title: Sixth Sunday of Easter
+  mp3: false
+  bulletin: false
+- date: May 17, 2026
+  title: Seventh Sunday of Easter
+  mp3: false
+  bulletin: false
+- date: May 24, 2026
+  title: Pentecost Sunday
+  mp3: false
+  bulletin: false
+- date: May 31, 2026
+  title: Trinity Sunday
+  mp3: false
+  bulletin: false
+
+###############################################################################
+
+- date: June 7, 2026
+  title: First Sunday after Pentecost
   mp3: true
   bulletin: false
